@@ -1,0 +1,105 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:slime",
+      "min_engine_version": "1.8.0",
+      "materials": {
+        "kipfdc": "kipfdc",
+        "ojnhbt": "ojnhbt",
+        "klduzy": "klduzy",
+        "idymni": "idymni",
+        "armor": "armor",
+        "default": "klduzy"
+      },
+      "animations": {
+        "kgklcq": "animation.oreville_ans.xghxmf",
+        "hzsxsn": "controller.animation.oreville_ans.ienaao",
+        "nnsuqc": "controller.animation.oreville_ans.rzdvwe",
+        "idle": "animation.oreville_ans.wfsgse",
+        "jump": "animation.oreville_ans.nuuxgh",
+        "fall": "animation.oreville_ans.ojjtrf",
+        "yytrhz": "animation.oreville_ans.hfgizj",
+        "pdpert": "controller.animation.oreville_ans.mokxqj",
+        "eyiuty": "controller.animation.oreville_ans.iwtlcq",
+        "puuxxp": "controller.animation.oreville_ans.wwjujf"
+      },
+      "scripts": {
+        "scale": "v.cdrzno?1:q.variant",
+        "initialize": [
+          "v.tocraa=0;",
+          "v.cdrzno=v.tocraa||q.is_baby||(!q.is_in_ui&&q.is_name_any('baby','Baby','slimeling','Slimeling','bloblet','Bloblet'));",
+          "v.actions_and_stuff=1;",
+          "v.evlypi='unknown';",
+          "v.wtlyok=q.is_in_ui||(v.is_paperdoll??0)||q.graphics_mode_is_any('simple','fancy');",
+          "!q.is_in_ui&&!(v.is_paperdoll??0)&&!q.is_attached?{v.narpvm=0;v.ykxvro=(q.entity_biome_has_any_identifier('minecraft:cold_beach','minecraft:cold_taiga','minecraft:cold_taiga_hills','minecraft:cold_taiga_mutated','minecraft:cold_taiga_mutated','minecraft:deep_frozen_ocean','minecraft:frozen_ocean','minecraft:frozen_peaks','minecraft:frozen_river','minecraft:grove','minecraft:ice_mountains','minecraft:ice_plains','minecraft:ice_plains_spikes','minecraft:jagged_peaks','minecraft:legacy_frozen_ocean','minecraft:snowy_slopes'));v.sxlefg=(q.entity_biome_has_any_identifier('minecraft:cold_beach','minecraft:cold_taiga','minecraft:cold_taiga_hills','minecraft:cold_taiga_mutated','minecraft:cold_taiga_mutated','minecraft:deep_frozen_ocean','minecraft:frozen_ocean','minecraft:frozen_peaks','minecraft:frozen_river','minecraft:grove','minecraft:ice_mountains','minecraft:ice_plains','minecraft:ice_plains_spikes','minecraft:jagged_peaks','minecraft:legacy_frozen_ocean','minecraft:snowy_slopes'));v.ykxvro?{v.narpvm=1;};v.mgdgwf=(q.entity_biome_has_any_identifier('minecraft:cherry_grove'));v.tsuowj=(q.entity_biome_has_any_identifier('minecraft:cherry_grove'));v.mgdgwf?{v.narpvm=2;};};",
+          "v.spjcdi=Math.clamp(2/q.variant,0.35,1.25);",
+          "!q.is_attached?{v.xxpbtv=Math.random(0,1);v.jbbfsv=Math.random(0,1)<=0.005;v.nxfjzv=Math.random(0,1)<=0.5&&!v.jbbfsv;};",
+          "v.qhhozj=0;",
+          "v.sqrooj=0;",
+          "v.phqhsg=0;",
+          "v.iswiaq=0;",
+          "v.aybhly=0;",
+          "v.bcfoat=0;",
+          "v.yohwtk=0;",
+          "v.cdrzno=0;",
+          "v.nkxrrs=0;"
+        ],
+        "pre_animation": [
+          "v.cdrzno=v.tocraa||q.is_baby||(!q.is_in_ui&&q.is_name_any('baby','Baby','slimeling','Slimeling','bloblet','Bloblet'));",
+          "v.actions_and_stuff=1;",
+          "v.wtlyok=q.is_in_ui||(v.is_paperdoll??0)||q.graphics_mode_is_any('simple','fancy');",
+          "!q.is_in_ui&&!(v.is_paperdoll??0)&&!q.is_attached?{v.qhhozj=0;v.ykxvro=0;q.is_pack_setting_selected('oreville_ans:fxwjdy','enabled')?{v.ykxvro=v.sxlefg;};v.sqrooj=(q.entity_biome_has_any_identifier('minecraft:cold_beach','minecraft:cold_taiga','minecraft:cold_taiga_hills','minecraft:cold_taiga_mutated','minecraft:cold_taiga_mutated','minecraft:deep_frozen_ocean','minecraft:frozen_ocean','minecraft:frozen_peaks','minecraft:frozen_river','minecraft:grove','minecraft:ice_mountains','minecraft:ice_plains','minecraft:ice_plains_spikes','minecraft:jagged_peaks','minecraft:legacy_frozen_ocean','minecraft:snowy_slopes'));v.sqrooj?{v.qhhozj=1;};v.mgdgwf=0;q.is_pack_setting_selected('oreville_ans:fxwjdy','enabled')?{v.mgdgwf=v.tsuowj;};v.phqhsg=(q.entity_biome_has_any_identifier('minecraft:cherry_grove'));v.phqhsg?{v.qhhozj=2;};};",
+          "v.iswiaq=q.is_name_any('rgb','Rgb','RGB','rainbow','Rainbow','disco','Disco','jeb_');",
+          "v.aybhly=(q.is_name_any('snowy','Snowy','frosty','Frosty')||(!v.iswiaq&&v.ykxvro))&&!q.is_pack_setting_selected('oreville_ans:fxwjdy','disabled');",
+          "v.bcfoat=(q.is_name_any('festive','Festive','snowman','Snowman')||((!v.iswiaq&&v.jbbfsv&&v.aybhly)&&q.is_pack_setting_selected('oreville_ans:fxwjdy','enabled')))&&!q.is_pack_setting_selected('oreville_ans:fxwjdy','disabled');",
+          "v.yohwtk=0;q.is_name_any('festive','Festive','snowman','Snowman')?{v.yohwtk='atioik';};"
+        ],
+        "animate": [
+          "pdpert",
+          "eyiuty",
+          "puuxxp",
+          "hzsxsn",
+          "kgklcq",
+          "idle",
+          "nnsuqc"
+        ],
+        "variables": {
+          "variable.actions_and_stuff": "public",
+          "variable.cdrzno": "public"
+        },
+        "should_update_effects_offscreen": "1"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg_husk"
+      },
+      "sound_effects": {
+        "eiovaj": "oreville_ans:eiovaj",
+        "lctrgt": "oreville_ans:lctrgt",
+        "zgynvb": "oreville_ans:zgynvb",
+        "ylnbre": "oreville_ans:ylnbre"
+      },
+      "geometry": {
+        "askjii": "geometry.oreville_ans.lqfwlt",
+        "nefhhp": "geometry.oreville_ans.engnae",
+        "default": "geometry.oreville_ans.slpata"
+      },
+      "render_controllers": [
+        "controller.render.oreville_ans.slime"
+      ],
+      "textures": {
+        "ikpkav": "textures/oreville/ans/clz",
+        "ucrryg": "textures/oreville/ans/cma",
+        "zgnhog": "textures/oreville/ans/cmb",
+        "rbfcqj": "textures/oreville/ans/cmc",
+        "yommek": "textures/oreville/ans/cmd",
+        "wwpwsp": "textures/oreville/ans/cme",
+        "vvlauw": "textures/oreville/ans/cmf",
+        "askjii": "textures/oreville/ans/cmg",
+        "nefhhp": "textures/oreville/ans/cmh",
+        "tzjsvl": "textures/oreville/ans/cmi",
+        "default": "textures/oreville/ans/cmj"
+      }
+    }
+  }
+}

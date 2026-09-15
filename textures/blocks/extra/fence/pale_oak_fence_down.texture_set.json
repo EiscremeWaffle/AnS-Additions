@@ -1,0 +1,7 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "pale_oak_fence_down",
+		"metalness_emissive_roughness": "fence_down_mer"
+	}
+}

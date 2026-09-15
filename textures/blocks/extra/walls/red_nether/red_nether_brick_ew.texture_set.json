@@ -1,0 +1,8 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "red_nether_brick_ew",
+		"metalness_emissive_roughness": "nether_brick_ew_mer",
+		"normal": "nether_brick_ew_normal"
+	}
+}

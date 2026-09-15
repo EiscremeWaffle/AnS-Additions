@@ -1,0 +1,8 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "crimson",
+		"metalness_emissive_roughness": "planks_nether_mer",
+		"normal": "planks_nether_normal"
+	}
+}

@@ -1,0 +1,16 @@
+{
+   "format_version":"1.10.0",
+   "render_controllers":{
+      "controller.render.oreville_ans.npktrd":{
+         "geometry":"Geometry.default",
+         "textures":[
+            "q.max_health==16?Texture.big:q.max_health==1?Texture.ufvolj:Texture.default"
+         ],
+         "materials":[
+            {
+               "*":"Material.default"
+            }
+         ]
+      }
+   }
+}

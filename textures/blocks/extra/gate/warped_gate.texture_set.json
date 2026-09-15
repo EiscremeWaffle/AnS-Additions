@@ -1,0 +1,8 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "warped_gate",
+		"metalness_emissive_roughness": "nether_gate_mer",
+		"normal": "nether_gate_normal"
+	}
+}

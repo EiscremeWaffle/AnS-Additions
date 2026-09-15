@@ -1,0 +1,7 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "crimson_fence_down",
+		"metalness_emissive_roughness": "nether_fence_down_mer"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.oreville_ans.xghxmf": {
+			"loop": true,
+			"anim_time_update": "v.evlypi='jhotdc';return 0;"
+		}
+	}
+}

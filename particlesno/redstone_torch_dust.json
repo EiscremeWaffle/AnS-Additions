@@ -1,0 +1,84 @@
+{
+	"format_version": "1.10.0",
+	"particle_effect": {
+		"description": {
+			"identifier": "minecraft:redstone_torch_dust_particle",
+			"basic_render_parameters": {
+				"material": "particles_alpha",
+				"texture": "textures/particle/particles"
+			}
+		},
+		"events": {
+			"event": {
+				"particle_effect": {
+					"effect": "eis:r_torch_up",
+					"type": "emitter"
+				}
+			},
+			"event1": {
+				"particle_effect": {
+					"effect": "eis:r_torch_down",
+					"type": "emitter"
+				}
+			},
+			"event2": {
+				"particle_effect": {
+					"effect": "eis:r_torch_n",
+					"type": "emitter"
+				}
+			},
+			"event3": {
+				"particle_effect": {
+					"effect": "eis:r_torch_e",
+					"type": "emitter"
+				}
+			},
+			"event4": {
+				"particle_effect": {
+					"effect": "eis:r_torch_s",
+					"type": "emitter"
+				}
+			},
+			"event5": {
+				"particle_effect": {
+					"effect": "eis:r_torch_w",
+					"type": "emitter"
+				}
+			}
+		},
+		"components": {
+			"minecraft:emitter_rate_instant": {
+				"num_particles": 1
+			},
+			"minecraft:emitter_lifetime_once": {
+				"active_time": 0.1
+			},
+			"minecraft:emitter_shape_point": {
+				"offset": [0.3, -0.35, 0]
+			},
+			"minecraft:particle_lifetime_expression": {
+				"max_lifetime": 0.1
+			},
+			"minecraft:particle_lifetime_events": {
+				"expiration_event": ["event", "event1", "event2", "event3", "event4", "event5"]
+			},
+			"minecraft:particle_appearance_billboard": {
+				"size": [1, 1],
+				"facing_camera_mode": "lookat_xyz",
+				"uv": {
+					"texture_width": 128,
+					"texture_height": 128,
+					"flipbook": {
+						"base_UV": [56, 0],
+						"size_UV": [8, 8],
+						"step_UV": [-8, 0],
+						"frames_per_second": 8,
+						"max_frame": 8,
+						"stretch_to_lifetime": true
+					}
+				}
+			},
+			"minecraft:particle_appearance_lighting": {}
+		}
+	}
+}

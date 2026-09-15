@@ -1,0 +1,28 @@
+{
+	"format_version": "1.19.0",
+	"animation_controllers": {
+		"controller.animation.oreville_ans.ienaao": {
+			"states": {
+				"default": {
+					"transitions": [
+						{"minecart": "q.max_health=16"}
+					]
+				},
+				"boat": {
+					"sound_effects": [
+						{"effect": "zgynvb"}
+					],
+					"transitions": [
+						{"default": "!q.is_riding_any_entity_of_type('minecraft:boat','minecraft:chest_boat')"}
+					]
+				},
+				"minecart": {
+					"animations": ["kgklcq"],
+					"sound_effects": [
+						{"effect": "ylnbre"}
+					]
+				}
+			}
+		}
+	}
+}

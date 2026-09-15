@@ -1,0 +1,8 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "warped",
+		"metalness_emissive_roughness": "nether_button_mer",
+		"normal": "nether_button_normal"
+	}
+}

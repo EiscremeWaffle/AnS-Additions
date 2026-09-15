@@ -1,0 +1,31 @@
+{
+////eiscreme
+    "format_version": 2,
+    "header": {
+        "description":"'Pedantic changes.'",
+        "name": "A&S Suggestions",
+        "uuid": "d280074f-c346-48cc-b920-34ebf5a117ed",
+        "version": [1, 0, 2],
+        "min_engine_version": [ 1, 20, 80 ]
+    },
+    "modules": [
+        {
+            "description": "ACT",
+            "type": "resources",
+            "uuid": "2cbe30f5-ad52-4a0a-a94f-0f537b014f91",
+            "version": [1, 0, 2]
+        }
+    ],
+    "subpacks": [
+        {
+            "folder_name": "none",
+            "name": "Normal Slime Eyes",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "eyes",
+            "name": "Consistent Slime Eyes",
+            "memory_tier": 1
+        }
+    ]
+}

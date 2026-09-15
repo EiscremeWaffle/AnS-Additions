@@ -1,0 +1,8 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "tuff_brick_ns",
+		"metalness_emissive_roughness": "tuff_brick_ns_mer",
+		"normal": "tuff_brick_ns_normal"
+	}
+}

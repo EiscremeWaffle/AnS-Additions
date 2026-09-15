@@ -1,0 +1,7 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "pale_oak_trapdoor_ns",
+		"metalness_emissive_roughness": "pale_oak_trapdoor_mer"
+	}
+}

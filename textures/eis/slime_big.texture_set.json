@@ -1,0 +1,8 @@
+{
+	"format_version": "1.21.30",
+	"minecraft:texture_set": {
+		"color": "slime_big",
+		"metalness_emissive_roughness_subsurface": "slime_big_mers",
+		"normal": "slime_big_normal"
+	}
+}

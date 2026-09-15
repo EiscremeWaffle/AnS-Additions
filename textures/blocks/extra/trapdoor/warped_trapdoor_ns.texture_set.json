@@ -1,0 +1,7 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "warped_trapdoor_ns",
+		"metalness_emissive_roughness": "warped_trapdoor_ns_mer"
+	}
+}
