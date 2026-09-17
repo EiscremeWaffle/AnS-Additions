@@ -1,0 +1,14 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.oreville_ans.utryba": {
+			"loop": true,
+			"bones": {
+				"rightleg": {
+					"position": [0, 0, 0],
+					"scale": [1, 1, 1]
+				}
+			}
+		}
+	}
+}
