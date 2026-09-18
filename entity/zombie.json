@@ -284,7 +284,7 @@
           "v.mtyrvi=v.ykxvro&&(Math.random(0,1)<=0.005);",
           "v.nxfjzv=Math.random(0,1)<=0.5&&!v.jbbfsv;",
           "v.featci=Math.random(0,1)<=0.5;",
-          "v.use_dedicated_baby_armor=1;"
+          "v.use_dedicated_baby_armor = true;"
         ],
         "pre_animation": [
           "!q.is_in_ui&&!(v.is_paperdoll??0)?{v.cdobzk=q.is_owner_identifier_any('minecraft:player')?1.665:0;};",
