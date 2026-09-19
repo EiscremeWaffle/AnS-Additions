@@ -1,0 +1,11 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:armadillo",
+      "scripts": {
+        "scale": "(q.is_baby?1.6:1)*(1)"
+      }
+    }
+  }
+}
