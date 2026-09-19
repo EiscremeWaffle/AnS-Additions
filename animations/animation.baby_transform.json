@@ -17,14 +17,6 @@
 				}
 			}
 		},
-		"animation.oreville_ans.pqvdja": {
-			"loop": true,
-			"bones": {
-				"head": {
-					"scale": 1
-				}
-			}
-		},
 		"animation.villager.baby_transform": {
 			"loop": true,
 			"bones": {
@@ -69,6 +61,49 @@
 			  ]
 			}
 		  }
+		},
+		"animation.oreville_ans.ewkqfpr": {
+			"loop": true,
+			"bones": {
+				"head": {
+					"scale": 1
+				}
+			}
+		},
+		"animation.oreville_ans.pmwcjk": {
+			"loop": true,
+			"bones": {
+				"rightitem": {
+				  "position": [
+					-4,
+					0,
+					2
+				  ]
+				},
+				"leftitem": {
+				  "position": [
+					0,
+					0,
+					0
+				  ]
+				}
+			}
+		},
+		"animation.oreville_ans.pqvdja": {
+			  "loop": true,
+			  "bones": {
+				"head": {
+				  "scale": 1
+				},
+				"rightitem": {
+				  "scale": 1.8,
+				  "position": [-1.5, 0, 0.5]
+				},
+				"leftitem": {
+				  "scale": 1.8,
+				  "position": [1.5, 0, 0.5]
+				}
+			}
 		}
 	}
 }

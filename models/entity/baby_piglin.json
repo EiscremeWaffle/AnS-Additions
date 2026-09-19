@@ -175,7 +175,7 @@
 				{
 					"name": "leftitem",
 					"parent": "leftarm",
-					"pivot": [7.2, 10.8, 0.9]
+					"pivot": [6.2, 8.05, 1.8]
 				},
 				{
 					"name": "rightarm",
@@ -199,7 +199,10 @@
 				{
 					"name": "rightitem",
 					"parent": "rightarm",
-					"pivot": [-7.2, 10.8, 0.9]
+					"pivot": [-6.2, 8.05, 1.8],
+					"locators": {
+						"lead_hold": [-7.2, 8.05, 1.9]
+					}
 				},
 				{
 					"name": "jggl_rightleg",

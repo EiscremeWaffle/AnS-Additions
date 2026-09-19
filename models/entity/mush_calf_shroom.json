@@ -3,7 +3,7 @@
 	"minecraft:geometry": [
 		{
 			"description": {
-				"identifier": "geometry.oreville_ans.aqsxeg",
+				"identifier": "geometry.oreville_ans.zuonhw",
 				"texture_width": 64,
 				"texture_height": 64,
 				"visible_bounds_width": 4,
@@ -77,17 +77,17 @@
 				{
 					"name": "head",
 					"parent": "body",
-					"pivot": [0.14286, 18.1, -15.21428]
+					"pivot": [0.14286, 21.6, -12.2143]
 				},
 				{
 					"name": "mush",
 					"parent": "head",
-					"pivot": [-0.425, 19.0375, -13.1125],
+					"pivot": [-0.99286, 23.475, -8.01074],
 					"cubes": [
 						{
-							"origin": [-1.925, 22.2875, -17.1125],
-							"size": [1, 1, 1],
-							"pivot": [-1.425, 22.7875, -16.6125],
+							"origin": [-3.99286, 29.975, -16.01074],
+							"size": [2, 2, 2],
+							"pivot": [-2.99286, 30.975, -15.01074],
 							"rotation": [90, 0, 0],
 							"uv": {
 								"east": {"uv": [19, 62], "uv_size": [1, 1]},
@@ -97,9 +97,9 @@
 							}
 						},
 						{
-							"origin": [-2.925, 22.7875, -17.6125],
-							"size": [3, 3, 2],
-							"pivot": [-1.425, 24.2875, -16.6125],
+							"origin": [-5.99286, 30.975, -17.01074],
+							"size": [6, 6, 4],
+							"pivot": [-2.99286, 33.975, -15.01074],
 							"rotation": [90, 0, 0],
 							"uv": {
 								"north": {"uv": [4, 54], "uv_size": [6, 6]},
