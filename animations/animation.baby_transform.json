@@ -32,6 +32,43 @@
 					"scale": 1
 				}
 			}
+		},
+		"animation.oreville_ans.mbghtd": {
+		  "loop": true,
+		  "bones": {
+			"head": {
+			  "scale": [
+				1,
+				1,
+				1
+			  ]
+			}
+		  }
+		},
+		"animation.oreville_ans.udpcrk": {
+		  "loop": true,
+		  "bones": {
+			"head": {
+			  "rotation": [
+				0,
+				0,
+				0
+			  ],
+			  "position": [
+				0,
+				0,
+				0
+			  ],
+			  "scale": 1
+			},
+			"lmkck": {
+			  "scale": [
+				1,
+				1,
+				1
+			  ]
+			}
+		  }
 		}
 	}
 }
