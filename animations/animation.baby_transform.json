@@ -97,6 +97,7 @@
 				}
 			}
 		},
+		
 		"animation.oreville_ans.pqvdja": {
 			  "loop": true,
 			  "bones": {
@@ -112,6 +113,55 @@
 				  "position": [1.5, 0, 0.5]
 				}
 			}
-		}
+		},
+		"animation.oreville_ans.fzxdqa": {
+		  "loop": true,
+		  "bones": {
+			"head": {
+			  "position": [
+				0,
+				0,
+				0
+			  ]
+			},
+			"46fljga5": {
+			  "position": [
+				0,
+				0,
+				0
+			  ]
+			},
+			"8g2l66": {
+			  "scale": 0
+			}
+		  }
+		},
+		"animation.oreville_ans.ycvqvf": {
+      "loop": true,
+      "bones": {
+        "head": {
+          "position": [
+            0,
+            0,
+            0
+          ],
+          "scale": 1
+        },
+        "96d5_al6e_dg42lgj": {
+          "position": [
+            0,
+            -1,
+            -2
+          ]
+        },
+        "d625_dg42lgj": {
+          "position": [
+            0.8,
+            0.35,
+            1.7
+          ]
+        }
+      }
+    }
 	}
 }
