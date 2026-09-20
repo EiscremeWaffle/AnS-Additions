@@ -25,6 +25,14 @@
 				}
 			}
 		},
+		"animation.cat.baby_transform": {
+			"loop": true,
+			"bones": {
+				"head": {
+					"scale": 1
+				}
+			}
+		},
 		"animation.oreville_ans.hmmggc": {
 			"loop": true,
 			"bones": {
