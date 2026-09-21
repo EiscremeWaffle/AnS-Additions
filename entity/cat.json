@@ -1,0 +1,12 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:cat",
+      "scripts": {
+        "scale": "(v.cdrzno&&!q.is_baby?0.5:1)*(q.is_baby?1.25:1)"
+        },
+      "min_engine_version": "1.8.0"
+      }
+    }
+  }
