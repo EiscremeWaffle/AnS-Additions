@@ -4,7 +4,7 @@
     "description": {
       "identifier": "minecraft:cat",
       "scripts": {
-        "scale": "(v.cdrzno&&!q.is_baby?0.5:1)*(q.is_baby?1.25:1)"
+        "scale": "(v.cdrzno&&!q.is_baby?0.5:1)*(1.25)"
         },
       "min_engine_version": "1.8.0"
       }
