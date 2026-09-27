@@ -1,0 +1,96 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "minecraft:leather_chestplate",
+      "materials": {
+        "default": "armor_leather",
+        "enchanted": "armor_leather_enchanted",
+        "avltwh": "avltwh",
+        "zyrdrt": "zyrdrt",
+        "rueivk": "rueivk",
+        "xxcvdc": "xxcvdc",
+        "plgjvn": "jpfveg"
+      },
+      "animations": {
+        "nywoyr": "animation.oreville_ans.ctqdnf",
+        "lqlrks": "controller.animation.oreville_ans.dmaerc"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "lqlrks": "q.is_attached"
+          }
+        ],
+        "pre_animation": [
+          "v.ujysjy=0;",
+          "v.ujysjy.r=Math.round(255*q.armor_color_slot(1,0));",
+          "v.ujysjy.g=Math.round(255*q.armor_color_slot(1,1));",
+          "v.ujysjy.b=Math.round(255*q.armor_color_slot(1,2));",
+          "v.vishqs=v.ujysjy.r;",
+          "v.ykbhla=v.ujysjy.g;",
+          "v.bfcvrw=v.ujysjy.b;",
+          "v.mucbaa=0;",
+          "v.qndtur=c.owning_entity->v.use_dedicated_baby_armor;",
+          "v.cdrzno=c.owning_entity->v.cdrzno;",
+          "v.vcwktz=v.qndtur&&v.cdrzno;",
+          "v.jipoeq=(!q.is_pack_setting_selected('oreville_ans:cvmbbr','disabled')&&q.is_owner_identifier_any('minecraft:player')&&!v.mucbaa)||!q.is_owner_identifier_any('minecraft:player');"
+        ],
+        "initialize": [
+          "v.ujysjy=0;",
+          "v.ujysjy.r=0;",
+          "v.ujysjy.g=0;",
+          "v.ujysjy.b=0;",
+          "v.vishqs=0;",
+          "v.ykbhla=0;",
+          "v.bfcvrw=0;",
+          "v.mucbaa=0;",
+          "v.qndtur=0;",
+          "v.cdrzno=0;",
+          "v.vcwktz=0;",
+          "v.jipoeq=0;",
+          "v.pihgwp=0;",
+          "v.dhvjqp=-1;",
+          "v.aroalz=-1;",
+          "v.csqgdq=-1;",
+          "v.qzhvmd=-1;",
+          "v.wweoge=-1;"
+        ]
+      },
+      "textures": {
+        "default": "textures/oreville/ans/cdq",
+        "uuzfpo": "textures/oreville/ans/djk",
+        "enchanted": "textures/misc/enchanted_item_glint"
+      },
+      "geometry": {
+        "ttywjo": "geometry.oreville_ans.yoxegy",
+        "mocaaj": "geometry.oreville_ans.pyjrxr",
+        "default": "geometry.oreville_ans.sqfuln",
+        "kqyfgn": "geometry.oreville_ans.pyjrxr",
+        "igyvto": "geometry.oreville_ans.yoxegy",
+        "leather_chestplate": "geometry.oreville_ans.sqfuln",
+		"baby": "geometry.oreville_ans.sqfuln"
+      },
+      "render_controllers": [
+        {
+          "controller.render.oreville_ans.vtnsiu": "v.use_baby_geo"
+        },
+        {
+          "controller.render.oreville_ans.ayjoyc": "v.has_trim&&q.is_pack_setting_enabled('oreville_ans:ltqtrn')"
+        },
+        {
+          "controller.render.oreville_ans.bzjhwc": "q.is_pack_setting_enabled('oreville_ans:ltqtrn')"
+        },
+        {
+          "controller.render.oreville_ans.vtnsiu": "!q.is_pack_setting_enabled('oreville_ans:ltqtrn')"
+        },
+        {
+          "controller.render.oreville_ans.tvjlvq": "v.has_trim"
+        },
+        {
+          "controller.render.oreville_ans.atdbzk": "v.has_trim&&q.is_pack_setting_enabled('oreville_ans:ltqtrn')"
+        }
+      ]
+    }
+  }
+}

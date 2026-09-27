@@ -15,11 +15,6 @@
       "south": "reeds"
     }
  },
- "bush": {
-	 "blockshape" : "fire",
-	 "sound" : "grass",
-      "textures" : "bushy_bush"
- },
   "pale_oak_sapling": {
     "blockshape" : "azalea",
     "textures": {
@@ -108,12 +103,6 @@
       "south": "sapling_cherry_side"
 		}
 	},
-   "firefly_bush" : {
-      "carried_textures" : "firefly_bush_carried",
-	  "blockshape": "fire",
-      "sound" : "firefly_bush",
-      "textures" : "firefly_bush_glow"
-   },
   "end_portal_frame" : {
   "carried_textures" : "endframe_eye",
     "textures" : {
@@ -1177,33 +1166,6 @@
       "west": "pale_hanging_moss",
       "south": "pale_hanging_moss"
     }
-   },
-   "waterlily" : {
-	  "blockshape" : "azalea",
-      "carried_textures" : "waterlily_carried",
-      "sound" : "grass",
-	  "isotropic" : {
-         "down" : true,
-         "up" : true
-      },
-      "textures": {
-      "up": "waterlily",
-      "east": "waterlily_flower",
-      "north": "none",
-      "down": "waterlily",
-      "west": "none",
-      "south": "none"
-	  }
-	},
-   "seagrass" : {
-	   "blockshape" : "fire",
-      "carried_textures" : "seagrass_carried",
-      "sound" : "grass",
-      "textures": {
-         "down": "seagrass_bushy",
-         "side": "none",
-         "up": "seagrass_bushy_b"
-      }
    },
    "redstone_ore" : {
 	  "carried_textures" : "redstone_ore",

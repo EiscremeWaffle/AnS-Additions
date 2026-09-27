@@ -1,0 +1,279 @@
+   "seagrass" : {
+	   "blockshape" : "fire",
+      "carried_textures" : "seagrass_carried",
+      "sound" : "grass",
+      "textures": {
+         "down": "seagrass_bushy",
+         "side": "none",
+         "up": "seagrass_bushy_b"
+      }
+   },
+   
+     "waterlily" : {
+	  "blockshape" : "azalea",
+      "carried_textures" : "waterlily_carried",
+      "sound" : "grass",
+	  "isotropic" : {
+         "down" : true,
+         "up" : true
+      },
+      "textures": {
+      "up": "waterlily",
+      "east": "waterlily_flower",
+      "north": "none",
+      "down": "waterlily",
+      "west": "none",
+      "south": "none"
+	  }
+	},
+	
+	 "bush": {
+	 "blockshape" : "fire",
+	 "sound" : "grass",
+      "textures" : "bushy_bush"
+ },
+    "firefly_bush" : {
+      "carried_textures" : "firefly_bush_carried",
+	  "blockshape": "fire",
+      "sound" : "firefly_bush",
+      "textures" : "firefly_bush_glow"
+   },
+   
+   	{
+    "flipbook_texture": "textures/blocks/extra/foliage/firefly_bush_glow",
+    "atlas_tile": "firefly_bush_glow",
+    "ticks_per_frame": 3
+  },
+  
+    {
+    "flipbook_texture": "textures/blocks/extra/foliage/variation/seagrass/seagrass",
+    "atlas_tile": "seagrass_bushy",
+	"atlas_tile_variant": 0,
+    "frames": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "ticks_per_frame": 4
+  },
+  {
+    "flipbook_texture": "textures/blocks/extra/foliage/variation/seagrass/seagrass_doubletall_top_a",
+    "atlas_tile": "seagrass_bushy",
+	"atlas_tile_variant": 1,
+    "frames": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "ticks_per_frame": 4
+  },
+  {
+    "flipbook_texture": "textures/blocks/extra/foliage/variation/seagrass/seagrass_cat_a",
+    "atlas_tile": "seagrass_bushy",
+	"atlas_tile_variant": 2,
+    "frames": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "ticks_per_frame": 4
+  },
+  {
+    "flipbook_texture": "textures/blocks/extra/foliage/variation/seagrass/seagrass_cat_c",
+    "atlas_tile": "seagrass_bushy",
+	"atlas_tile_variant": 3,
+    "frames": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "ticks_per_frame": 4
+  },
+  {
+    "flipbook_texture": "textures/blocks/extra/foliage/variation/seagrass/seagrass_cat_b",
+    "atlas_tile": "seagrass_bushy",
+	"atlas_tile_variant": 4,
+    "frames": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "ticks_per_frame": 4
+  },
+  {
+    "flipbook_texture": "textures/blocks/extra/foliage/variation/seagrass/seagrass_cat_d",
+    "atlas_tile": "seagrass_bushy",
+	"atlas_tile_variant": 5,
+    "frames": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "ticks_per_frame": 4
+  },
+  
+      "bushy_bush": {
+      "textures": "textures/blocks/extra/foliage/bush"
+    },
+    "high_test": {
+      "textures": "textures/blocks/extra/test/fire_height"
+    },
+    "firefly_bush_glow": {
+      "textures": "textures/blocks/extra/foliage/firefly_bush_glow"
+    },
+    "seagrass_bushy": {
+      "textures": {
+		  "variations":[
+			{
+				"path":"textures/blocks/extra/foliage/variation/seagrass/seagrass",
+				"weight": 3
+			},
+			{
+				"path":"textures/blocks/extra/foliage/variation/seagrass/seagrass_doubletall_top_a",
+				"weight": 2
+			},
+			{
+				"path":"textures/blocks/extra/foliage/variation/seagrass/seagrass_cat_a",
+				"weight": 0.5
+			},
+			{
+				"path":"textures/blocks/extra/foliage/variation/seagrass/seagrass_cat_c",
+				"weight": 0.5
+			},
+			{
+				"path":"textures/blocks/extra/foliage/variation/seagrass/seagrass_cat_b",
+				"weight": 0.5
+			},
+			{
+				"path":"textures/blocks/extra/foliage/variation/seagrass/seagrass_cat_d",
+				"weight": 0.5
+			}
+		]
+    }
+    },
+    "seagrass_bushy_b": {
+      "textures": {
+		  "variations":[
+			{
+				"path":"textures/blocks/extra/foliage/variation/seagrass/seagrass",
+				"weight": 3
+			},
+			{
+				"path":"textures/blocks/extra/foliage/variation/seagrass/seagrass_doubletall_top_a",
+				"weight": 2
+			},
+			{
+				"path":"textures/blocks/extra/foliage/variation/seagrass/seagrass_cat_b",
+				"weight": 0.5
+			},
+			{
+				"path":"textures/blocks/extra/foliage/variation/seagrass/seagrass_cat_d",
+				"weight": 0.5
+			},
+			{
+				"path":"textures/blocks/extra/foliage/variation/seagrass/seagrass_cat_a",
+				"weight": 0.5
+			},
+			{
+				"path":"textures/blocks/extra/foliage/variation/seagrass/seagrass_cat_c",
+				"weight": 0.5
+			}
+		]
+    }
+	
+		"dragon_egg_top": {
+		"textures": "textures/blocks/dragon_egg_top"
+	},
+	"dragon_egg_side": {
+		"textures": "textures/blocks/dragon_egg_side"
+	},

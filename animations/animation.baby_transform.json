@@ -25,6 +25,14 @@
 				}
 			}
 		},
+		"animation.humanoid.big_head": {
+			"loop": true,
+			"bones": {
+				"head": {
+					"scale": 1
+				}
+			}
+		},
 		"animation.cat.baby_transform": {
 			"loop": true,
 			"bones": {
@@ -41,6 +49,14 @@
 				}
 			}
 		},
+		"animation.oreville_ans.qdbvml": {
+			"loop": true,
+			"bones": {
+				"head": {
+					"scale": 1
+				}
+			}
+		},
 		"animation.oreville_ans.sdylcl": {
 			"loop": true,
 			"bones": {
@@ -50,41 +66,25 @@
 			}
 		},
 		"animation.oreville_ans.mbghtd": {
-		  "loop": true,
-		  "bones": {
-			"head": {
-			  "scale": [
-				1,
-				1,
-				1
-			  ]
+			"loop": true,
+			"bones": {
+				"head": {
+					"scale": [1, 1, 1]
+				}
 			}
-		  }
 		},
 		"animation.oreville_ans.udpcrk": {
-		  "loop": true,
-		  "bones": {
-			"head": {
-			  "rotation": [
-				0,
-				0,
-				0
-			  ],
-			  "position": [
-				0,
-				0,
-				0
-			  ],
-			  "scale": 1
-			},
-			"lmkck": {
-			  "scale": [
-				1,
-				1,
-				1
-			  ]
+			"loop": true,
+			"bones": {
+				"head": {
+					"rotation": [0, 0, 0],
+					"position": [0, 0, 0],
+					"scale": 1
+				},
+				"lmkck": {
+					"scale": [1, 1, 1]
+				}
 			}
-		  }
 		},
 		"animation.oreville_ans.ewkqfpr": {
 			"loop": true,
@@ -98,86 +98,57 @@
 			"loop": true,
 			"bones": {
 				"rightitem": {
-				  "position": [
-					-4,
-					0,
-					2
-				  ]
+					"position": [-4, 0, 2]
 				},
 				"leftitem": {
-				  "position": [
-					0,
-					0,
-					0
-				  ]
+					"position": [0, 0, 0]
 				}
 			}
 		},
-		
 		"animation.oreville_ans.pqvdja": {
-			  "loop": true,
-			  "bones": {
+			"loop": true,
+			"bones": {
 				"head": {
-				  "scale": 1
+					"scale": 1
 				},
 				"rightitem": {
-				  "scale": 1.8,
-				  "position": [-1.5, 0, 0.5]
+					"scale": 1.8,
+					"position": [-1.5, 0, 0.5]
 				},
 				"leftitem": {
-				  "scale": 1.8,
-				  "position": [1.5, 0, 0.5]
+					"scale": 1.8,
+					"position": [1.5, 0, 0.5]
 				}
 			}
 		},
 		"animation.oreville_ans.fzxdqa": {
-		  "loop": true,
-		  "bones": {
-			"head": {
-			  "position": [
-				0,
-				0,
-				0
-			  ]
-			},
-			"46fljga5": {
-			  "position": [
-				0,
-				0,
-				0
-			  ]
-			},
-			"8g2l66": {
-			  "scale": 0
+			"loop": true,
+			"bones": {
+				"head": {
+					"position": [0, 0, 0]
+				},
+				"46fljga5": {
+					"position": [0, 0, 0]
+				},
+				"8g2l66": {
+					"scale": 0
+				}
 			}
-		  }
 		},
 		"animation.oreville_ans.ycvqvf": {
-      "loop": true,
-      "bones": {
-        "head": {
-          "position": [
-            0,
-            0,
-            0
-          ],
-          "scale": 1
-        },
-        "96d5_al6e_dg42lgj": {
-          "position": [
-            0,
-            -1,
-            -2
-          ]
-        },
-        "d625_dg42lgj": {
-          "position": [
-            0.8,
-            0.35,
-            1.7
-          ]
-        }
-      }
-    }
+			"loop": true,
+			"bones": {
+				"head": {
+					"position": [0, 0, 0],
+					"scale": 1
+				},
+				"96d5_al6e_dg42lgj": {
+					"position": [0, -1, -2]
+				},
+				"d625_dg42lgj": {
+					"position": [0.8, 0.35, 1.7]
+				}
+			}
+		}
 	}
 }

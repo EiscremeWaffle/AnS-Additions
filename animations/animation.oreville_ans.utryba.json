@@ -4,9 +4,28 @@
 		"animation.oreville_ans.utryba": {
 			"loop": true,
 			"bones": {
+				"head": {
+					"scale": 1.5
+				},
+				"body": {
+					"position": [0, -6.4, 0]
+				},
+				"waist": {
+					"rotation": [0, 0, 0]
+				},
+				"rightitem": {
+					"scale": 2
+				},
+				"leftitem": {
+					"scale": 2
+				},
+				"leftleg": {
+					"position": [0, -4, 0],
+					"scale": [1, 0.6675, 1]
+				},
 				"rightleg": {
-					"position": [0, 0, 0],
-					"scale": [1, 1, 1]
+					"position": [0, -4, 0],
+					"scale": [1, 0.66375, 1]
 				}
 			}
 		}
