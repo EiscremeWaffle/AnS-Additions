@@ -931,14 +931,20 @@
    "stone_brick_wall": {
       "textures": {
          "down": "stone_brick_wall_top",
-         "side": "stone_brick_wall",
+         "north": "stone_brick_wall_side_north",
+         "east": "stone_brick_wall_side",
+         "south": "stone_brick_wall_side_south",
+         "west": "stone_brick_wall_side_west",
          "up": "stone_brick_wall_top"
       }
    },
    "polished_blackstone_wall": {
       "textures": {
          "down": "polished_blackstone_wall_top",
-         "side": "polished_blackstone",
+         "north": "polished_blackstone_wall_side_north",
+         "east": "polished_blackstone_wall_side",
+         "south": "polished_blackstone_wall_side_south",
+         "west": "polished_blackstone_wall_side_west",
          "up": "polished_blackstone_wall_top"
       }
    },
