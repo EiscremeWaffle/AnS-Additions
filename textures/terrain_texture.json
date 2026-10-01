@@ -926,26 +926,26 @@
             "textures": [
                 "textures/misc/missing_texture", /// doesnt exist; E=none N=none S=none W=none Post=false
                 "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=none N=none S=none W=none Post=true
-                "textures/blocks/grass_top", /// E=none N=short S=none W=none Post=false
-                "textures/blocks/dirt", /// E=none N=short S=none W=none Post=true
-                "textures/blocks/grass_carried", /// E=none N=tall S=none W=none Post=false
-                "textures/blocks/stone", /// E=none N=tall S=none W=none Post=true
+                "textures/misc/missing_texture", /// E=none N=short S=none W=none Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=none N=short S=none W=none Post=true
+                "textures/misc/missing_texture", /// E=none N=tall S=none W=none Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=none N=tall S=none W=none Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/stone_diorite", /// E=short N=none S=none W=none Post=false
-                "textures/blocks/stone_diorite_smooth", /// E=short N=none S=none W=none Post=true
-                "textures/blocks/stone_andesite", /// E=short N=short S=none W=none Post=false
-                "textures/blocks/stone_andesite_smooth", /// E=short N=short S=none W=none Post=true
-                "textures/blocks/cobblestone", /// E=short N=tall S=none W=none Post=false
+                "textures/misc/missing_texture", /// E=short N=none S=none W=none Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=short N=none S=none W=none Post=true
+                "textures/misc/missing_texture", /// E=short N=short S=none W=none Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=short N=short S=none W=none Post=true
+                "textures/misc/missing_texture", /// E=short N=tall S=none W=none Post=false
                 "textures/blocks/cobblestone_mossy", /// E=short N=tall S=none W=none Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/stonebrick", /// E=tall N=none S=none W=none Post=false
-                "textures/blocks/stonebrick_mossy", /// E=tall N=none S=none W=none Post=true
-                "textures/blocks/nether_brick", /// E=tall N=short S=none W=none Post=false
+                "textures/misc/missing_texture", /// E=tall N=none S=none W=none Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=tall N=none S=none W=none Post=true
+                "textures/misc/missing_texture", /// E=tall N=short S=none W=none Post=false
                 "textures/blocks/end_bricks", /// E=tall N=short S=none W=none Post=true
-                "textures/blocks/prismarine_rough", /// E=tall N=tall S=none W=none Post=false
-                "textures/blocks/red_sandstone_normal", /// E=tall N=tall S=none W=none Post=true
+                "textures/misc/missing_texture", /// E=tall N=tall S=none W=none Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=tall N=tall S=none W=none Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
@@ -956,27 +956,27 @@
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/sandstone_bottom", /// E=none N=none S=short W=none Post=false
-                "textures/blocks/sandstone_carved", /// E=none N=none S=short W=none Post=true
-                "textures/blocks/sandstone_smooth", /// E=none N=short S=short W=none Post=false
-                "textures/blocks/red_sandstone_top", /// E=none N=short S=short W=none Post=true
-                "textures/blocks/red_sandstone_bottom", /// E=none N=tall S=short W=none Post=false
+                "textures/misc/missing_texture", /// E=none N=none S=short W=none Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=none N=none S=short W=none Post=true
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_short", /// E=none N=short S=short W=none Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=none N=short S=short W=none Post=true
+                "textures/misc/missing_texture", /// E=none N=tall S=short W=none Post=false
                 "textures/blocks/red_sandstone_carved", /// E=none N=tall S=short W=none Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/coarse_dirt", /// E=short N=none S=short W=none Post=false
-                "textures/blocks/dirt_podzol_top", /// E=short N=none S=short W=none Post=true
-                "textures/blocks/dirt_podzol_side", /// E=short N=short S=short W=none Post=false
-                "textures/blocks/planks_oak", /// E=short N=short S=short W=none Post=true
-                "textures/blocks/planks_spruce", /// E=short N=tall S=short W=none Post=false
+                "textures/misc/missing_texture", /// E=short N=none S=short W=none Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=short N=none S=short W=none Post=true
+                "textures/misc/missing_texture", /// E=short N=short S=short W=none Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=short N=short S=short W=none Post=true
+                "textures/misc/missing_texture", /// E=short N=tall S=short W=none Post=false
                 "textures/blocks/planks_birch", /// E=short N=tall S=short W=none Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/planks_big_oak", /// E=tall N=none S=short W=none Post=false
+                "textures/misc/missing_texture", /// E=tall N=none S=short W=none Post=false
                 "textures/blocks/stone_slab_top", /// E=tall N=none S=short W=none Post=true
-                "textures/blocks/quartz_block_top", /// E=tall N=short S=short W=none Post=false
+                "textures/misc/missing_texture", /// E=tall N=short S=short W=none Post=false
                 "textures/blocks/stone_slab_side", /// E=tall N=short S=short W=none Post=true
-                "textures/blocks/quartz_block_side", /// E=tall N=tall S=short W=none Post=false
+                "textures/misc/missing_texture", /// E=tall N=tall S=short W=none Post=false
                 "textures/blocks/coral_blue", /// E=tall N=tall S=short W=none Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
@@ -988,28 +988,28 @@
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/chorus_flower", /// E=none N=none S=tall W=none Post=false
-                "textures/blocks/chorus_flower_dead", /// E=none N=none S=tall W=none Post=true
-                "textures/blocks/purpur_block", /// E=none N=short S=tall W=none Post=false
+                "textures/misc/missing_texture", /// E=none N=none S=tall W=none Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=none N=none S=tall W=none Post=true
+                "textures/misc/missing_texture", /// E=none N=short S=tall W=none Post=false
                 "textures/blocks/prismarine_dark", /// E=none N=short S=tall W=none Post=true
-                "textures/blocks/prismarine_bricks", /// E=none N=tall S=tall W=none Post=false
-                "textures/blocks/quartz_block_bottom", /// E=none N=tall S=tall W=none Post=true
+                "textures/blocks/polished_tuff", /// E=none N=tall S=tall W=none Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=none N=tall S=tall W=none Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/tnt_side", /// E=short N=none S=tall W=none Post=false
+                "textures/misc/missing_texture", /// E=short N=none S=tall W=none Post=false
                 "textures/blocks/bookshelf", /// E=short N=none S=tall W=none Post=true
-                "textures/blocks/web", /// E=short N=short S=tall W=none Post=false
+                "textures/misc/missing_texture", /// E=short N=short S=tall W=none Post=false
                 "textures/blocks/flower_dandelion", /// E=short N=short S=tall W=none Post=true
-                "textures/blocks/flower_rose", /// E=short N=tall S=tall W=none Post=false
+                "textures/misc/missing_texture", /// E=short N=tall S=tall W=none Post=false
                 "textures/blocks/flower_blue_orchid", /// E=short N=tall S=tall W=none Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/flower_tulip_red", /// E=tall N=none S=tall W=none Post=false
-                "textures/blocks/flower_tulip_orange", /// E=tall N=none S=tall W=none Post=true
-                "textures/blocks/flower_tulip_white", /// E=tall N=short S=tall W=none Post=false
+                "textures/misc/missing_texture", /// E=tall N=none S=tall W=none Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=tall N=none S=tall W=none Post=true
+                "textures/misc/missing_texture", /// E=tall N=short S=tall W=none Post=false
                 "textures/blocks/flower_tulip_pink", /// E=tall N=short S=tall W=none Post=true
-                "textures/blocks/flower_oxeye_daisy", /// E=tall N=tall S=tall W=none Post=false
-                "textures/blocks/flower_cornflower", /// E=tall N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture", /// E=tall N=tall S=tall W=none Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=tall N=tall S=tall W=none Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
@@ -1052,27 +1052,27 @@
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/stripped_acacia_log_top", /// E=none N=none S=none W=short Post=false
-                "textures/blocks/stripped_acacia_log", /// E=none N=none S=none W=short Post=true
-                "textures/blocks/stripped_jungle_log_top", /// E=none N=short S=none W=short Post=false
-                "textures/blocks/stripped_jungle_log", /// E=none N=short S=none W=short Post=true
-                "textures/blocks/stripped_spruce_log_top", /// E=none N=tall S=none W=short Post=false
+                "textures/misc/missing_texture", /// E=none N=none S=none W=short Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=none N=none S=none W=short Post=true
+                "textures/misc/missing_texture", /// E=none N=short S=none W=short Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=none N=short S=none W=short Post=true
+                "textures/misc/missing_texture", /// E=none N=tall S=none W=short Post=false
                 "textures/blocks/stripped_spruce_log", /// E=none N=tall S=none W=short Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/diamond_block", /// E=short N=none S=none W=short Post=false
-                "textures/blocks/coal_block", /// E=short N=none S=none W=short Post=true
-                "textures/blocks/lapis_block", /// E=short N=short S=none W=short Post=false
-                "textures/blocks/emerald_block", /// E=short N=short S=none W=short Post=true
-                "textures/blocks/redstone_block", /// E=short N=tall S=none W=short Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_short", /// E=short N=none S=none W=short Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=short N=none S=none W=short Post=true
+                "textures/misc/missing_texture", /// E=short N=short S=none W=short Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=short N=short S=none W=short Post=true
+                "textures/misc/missing_texture", /// E=short N=tall S=none W=short Post=false
                 "textures/blocks/quartz_block_chiseled_top", /// E=short N=tall S=none W=short Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/quartz_block_lines", /// E=tall N=none S=none W=short Post=false
+                "textures/misc/missing_texture", /// E=tall N=none S=none W=short Post=false
                 "textures/blocks/purpur_pillar_top", /// E=tall N=none S=none W=short Post=true
-                "textures/blocks/purpur_pillar", /// E=tall N=short S=none W=short Post=false
+                "textures/misc/missing_texture", /// E=tall N=short S=none W=short Post=false
                 "textures/blocks/structure_block", /// E=tall N=short S=none W=short Post=true
-                "textures/blocks/structure_block_data", /// E=tall N=tall S=none W=short Post=false
+                "textures/misc/missing_texture", /// E=tall N=tall S=none W=short Post=false
                 "textures/blocks/structure_block_save", /// E=tall N=tall S=none W=short Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
@@ -1084,28 +1084,28 @@
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/gold_ore", /// E=none N=none S=short W=short Post=false
-                "textures/blocks/iron_ore", /// E=none N=none S=short W=short Post=true
-                "textures/blocks/diamond_ore", /// E=none N=short S=short W=short Post=false
+                "textures/misc/missing_texture", /// E=none N=none S=short W=short Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=none N=none S=short W=short Post=true
+                "textures/misc/missing_texture", /// E=none N=short S=short W=short Post=false
                 //more
-                "textures/blocks/coal_ore", /// E=none N=short S=short W=short Post=true
-                "textures/blocks/lapis_ore", /// E=none N=tall S=short W=short Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=none N=short S=short W=short Post=true
+                "textures/misc/missing_texture", /// E=none N=tall S=short W=short Post=false
                 "textures/blocks/redstone_ore", /// E=none N=tall S=short W=short Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/tallgrass", /// E=short N=none S=short W=short Post=false
-                "textures/blocks/fern", /// E=short N=none S=short W=short Post=true
-                "textures/blocks/tallgrass_carried", /// E=short N=short S=short W=short Post=false
-                "textures/blocks/fern_carried", /// E=short N=short S=short W=short Post=true
-                "textures/blocks/seagrass_carried", /// E=short N=tall S=short W=short Post=false
+                "textures/misc/missing_texture", /// E=short N=none S=short W=short Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=short N=none S=short W=short Post=true
+                "textures/misc/missing_texture", /// E=short N=short S=short W=short Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=short N=short S=short W=short Post=true
+                "textures/misc/missing_texture", /// E=short N=tall S=short W=short Post=false
                 "textures/blocks/seagrass", /// E=short N=tall S=short W=short Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/seagrass_doubletall_top_a", /// E=tall N=none S=short W=short Post=false
+                "textures/misc/missing_texture", /// E=tall N=none S=short W=short Post=false
                 "textures/blocks/seagrass_doubletall_top_b", /// E=tall N=none S=short W=short Post=true
-                "textures/blocks/coral_plant_blue", /// E=tall N=short S=short W=short Post=false
+                "textures/misc/missing_texture", /// E=tall N=short S=short W=short Post=false
                 "textures/blocks/coral_plant_pink", /// E=tall N=short S=short W=short Post=true
-                "textures/blocks/coral_plant_purple", /// E=tall N=tall S=short W=short Post=false
+                "textures/misc/missing_texture", /// E=tall N=tall S=short W=short Post=false
                 "textures/blocks/coral_plant_red", /// E=tall N=tall S=short W=short Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
@@ -1117,27 +1117,27 @@
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/coral_fan_yellow", /// E=none N=none S=tall W=short Post=false
+                "textures/misc/missing_texture", /// E=none N=none S=tall W=short Post=false
                 "textures/blocks/coral_fan_blue_dead", /// E=none N=none S=tall W=short Post=true
-                "textures/blocks/coral_fan_pink_dead", /// E=none N=short S=tall W=short Post=false
+                "textures/misc/missing_texture", /// E=none N=short S=tall W=short Post=false
                 "textures/blocks/coral_fan_purple_dead", /// E=none N=short S=tall W=short Post=true
-                "textures/blocks/coral_fan_red_dead", /// E=none N=tall S=tall W=short Post=false
+                "textures/misc/missing_texture", /// E=none N=tall S=tall W=short Post=false
                 "textures/blocks/coral_fan_yellow_dead", /// E=none N=tall S=tall W=short Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/crafting_table_side", /// E=short N=none S=tall W=short Post=false
+                "textures/misc/missing_texture", /// E=short N=none S=tall W=short Post=false
                 "textures/blocks/crafting_table_front", /// E=short N=none S=tall W=short Post=true
-                "textures/blocks/furnace_front_off", /// E=short N=short S=tall W=short Post=false
+                "textures/misc/missing_texture", /// E=short N=short S=tall W=short Post=false
                 "textures/blocks/furnace_front_on", /// E=short N=short S=tall W=short Post=true
-                "textures/blocks/furnace_side", /// E=short N=tall S=tall W=short Post=false
+                "textures/misc/missing_texture", /// E=short N=tall S=tall W=short Post=false
                 "textures/blocks/furnace_top", /// E=short N=tall S=tall W=short Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/stonecutter_side", /// E=tall N=none S=tall W=short Post=false
+                "textures/misc/missing_texture", /// E=tall N=none S=tall W=short Post=false
                 "textures/blocks/stonecutter_other_side", /// E=tall N=none S=tall W=short Post=true
-                "textures/blocks/stonecutter2_top", /// E=tall N=short S=tall W=short Post=false
+                "textures/misc/missing_texture", /// E=tall N=short S=tall W=short Post=false
                 "textures/blocks/stonecutter2_bottom", /// E=tall N=short S=tall W=short Post=true
-                "textures/blocks/stonecutter2_side", /// E=tall N=tall S=tall W=short Post=false
+                "textures/misc/missing_texture", /// E=tall N=tall S=tall W=short Post=false
                 "textures/blocks/stonecutter2_saw", /// E=tall N=tall S=tall W=short Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
@@ -1181,28 +1181,28 @@
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/door_spruce_lower", /// E=none N=none S=none W=tall Post=false
-                "textures/blocks/door_birch_lower", /// E=none N=none S=none W=tall Post=true
-                "textures/blocks/door_jungle_lower", /// E=none N=short S=none W=tall Post=false
+                "textures/misc/missing_texture", /// E=none N=none S=none W=tall Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=none N=none S=none W=tall Post=true
+                "textures/misc/missing_texture", /// E=none N=short S=none W=tall Post=false
                 "textures/blocks/door_acacia_lower", /// E=none N=short S=none W=tall Post=true
-                "textures/blocks/door_dark_oak_lower", /// E=none N=tall S=none W=tall Post=false
-                "textures/blocks/door_iron_lower", /// E=none N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture", /// E=none N=tall S=none W=tall Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=none N=tall S=none W=tall Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/door_birch_upper", /// E=short N=none S=none W=tall Post=false
+                "textures/misc/missing_texture", /// E=short N=none S=none W=tall Post=false
                 "textures/blocks/door_jungle_upper", /// E=short N=none S=none W=tall Post=true
-                "textures/blocks/door_acacia_upper", /// E=short N=short S=none W=tall Post=false
+                "textures/misc/missing_texture", /// E=short N=short S=none W=tall Post=false
                 "textures/blocks/door_dark_oak_upper", /// E=short N=short S=none W=tall Post=true
-                "textures/blocks/door_iron_upper", /// E=short N=tall S=none W=tall Post=false
+                "textures/misc/missing_texture", /// E=short N=tall S=none W=tall Post=false
                 "textures/blocks/ladder", /// E=short N=tall S=none W=tall Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/birch_trapdoor",  /// E=tall N=none S=none W=tall Post=false
-                "textures/blocks/dark_oak_trapdoor", /// E=tall N=none S=none W=tall Post=true
-                "textures/blocks/jungle_trapdoor", /// E=tall N=short S=none W=tall Post=false
+                "textures/blocks/polished_tuff",  /// E=tall N=none S=none W=tall Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=tall N=none S=none W=tall Post=true
+                "textures/misc/missing_texture", /// E=tall N=short S=none W=tall Post=false
                 "textures/blocks/spruce_trapdoor", /// E=tall N=short S=none W=tall Post=true
-                "textures/blocks/iron_trapdoor", /// E=tall N=tall S=none W=tall Post=false
-                "textures/blocks/iron_bars", /// E=tall N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture", /// E=tall N=tall S=none W=tall Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=tall N=tall S=none W=tall Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
@@ -1213,27 +1213,27 @@
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/grass_path_top", /// E=none N=none S=short W=tall Post=false
+                "textures/misc/missing_texture", /// E=none N=none S=short W=tall Post=false
                 "textures/blocks/grass_path_side", /// E=none N=none S=short W=tall Post=true
-                "textures/blocks/lever", /// E=none N=short S=short W=tall Post=false
+                "textures/misc/missing_texture", /// E=none N=short S=short W=tall Post=false
                 "textures/blocks/pumpkin_top", /// E=none N=short S=short W=tall Post=true
-                "textures/blocks/pumpkin_side", /// E=none N=tall S=short W=tall Post=false
+                "textures/misc/missing_texture", /// E=none N=tall S=short W=tall Post=false
                 "textures/blocks/pumpkin_face_off", /// E=none N=tall S=short W=tall Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/nether_wart_stage_0", /// E=short N=none S=short W=tall Post=false
+                "textures/misc/missing_texture", /// E=short N=none S=short W=tall Post=false
                 "textures/blocks/nether_wart_stage_1", /// E=short N=none S=short W=tall Post=true
-                "textures/blocks/nether_wart_stage_2", /// E=short N=short S=short W=tall Post=false
+                "textures/misc/missing_texture", /// E=short N=short S=short W=tall Post=false
                 "textures/blocks/magma", /// E=short N=short S=short W=tall Post=true
-                "textures/blocks/bubble_column_outer_a", /// E=short N=tall S=short W=tall Post=false
+                "textures/misc/missing_texture", /// E=short N=tall S=short W=tall Post=false
                 "textures/blocks/bubble_column_outer_b", /// E=short N=tall S=short W=tall Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/bubble_column_outer_e", /// E=tall N=none S=short W=tall Post=false
+                "textures/misc/missing_texture", /// E=tall N=none S=short W=tall Post=false
                 "textures/blocks/bubble_column_outer_f", /// E=tall N=none S=short W=tall Post=true
-                "textures/blocks/bubble_column_outer_g", /// E=tall N=short S=short W=tall Post=false
+                "textures/misc/missing_texture", /// E=tall N=short S=short W=tall Post=false
                 "textures/blocks/bubble_column_outer_h", /// E=tall N=short S=short W=tall Post=true
-                "textures/blocks/bubble_column_inner_a", /// E=tall N=tall S=short W=tall Post=false
+                "textures/misc/missing_texture", /// E=tall N=tall S=short W=tall Post=false
                 "textures/blocks/bubble_column_inner_b", /// E=tall N=tall S=short W=tall Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
@@ -1245,174 +1245,29 @@
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/glowstone", /// E=none N=none S=tall W=tall Post=false
-                "textures/blocks/piston_inner", /// E=none N=none S=tall W=tall Post=true
-                "textures/blocks/piston_top_sticky", /// E=none N=short S=tall W=tall Post=false
+                "textures/misc/missing_texture", /// E=none N=none S=tall W=tall Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=none N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture", /// E=none N=short S=tall W=tall Post=false
                 "textures/blocks/piston_top_normal", /// E=none N=short S=tall W=tall Post=true
-                "textures/blocks/piston_side", /// E=none N=tall S=tall W=tall Post=false
-                "textures/blocks/piston_bottom", /// E=none N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture", /// E=none N=tall S=tall W=tall Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=none N=tall S=tall W=tall Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/observer_back_lit", /// E=short N=none S=tall W=tall Post=false
+                "textures/misc/missing_texture", /// E=short N=none S=tall W=tall Post=false
                 "textures/blocks/observer_side", /// E=short N=none S=tall W=tall Post=true
-                "textures/blocks/observer_top", /// E=short N=short S=tall W=tall Post=false
+                "textures/misc/missing_texture", /// E=short N=short S=tall W=tall Post=false
                 "textures/blocks/melon_top", /// E=short N=short S=tall W=tall Post=true
-                "textures/blocks/melon_side", /// E=short N=tall S=tall W=tall Post=false
+                "textures/misc/missing_texture", /// E=short N=tall S=tall W=tall Post=false
                 "textures/blocks/melon_stem_disconnected", /// E=short N=tall S=tall W=tall Post=true
                 "textures/misc/missing_texture",
                 "textures/misc/missing_texture",
-                "textures/blocks/pumpkin_stem_connected", /// E=tall N=none S=tall W=tall Post=false
-                "textures/blocks/rail_normal", /// E=tall N=none S=tall W=tall Post=true
-                "textures/blocks/rail_normal_turned", /// E=tall N=short S=tall W=tall Post=false
+                "textures/misc/missing_texture", /// E=tall N=none S=tall W=tall Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=tall N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture", /// E=tall N=short S=tall W=tall Post=false
                 "textures/blocks/rail_golden", /// E=tall N=short S=tall W=tall Post=true
-                "textures/blocks/rail_golden_powered", /// E=tall N=tall S=tall W=tall Post=false
-                "textures/blocks/rail_detector", /// E=tall N=tall S=tall W=tall Post=true
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
-                "textures/misc/missing_texture",
+                "textures/misc/missing_texture", /// E=tall N=tall S=tall W=tall Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=tall N=tall S=tall W=tall Post=true
                 "textures/misc/missing_texture"
-
             ]
         },
         "polished_deepslate_wall_top": {
