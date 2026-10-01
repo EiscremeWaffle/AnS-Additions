@@ -952,7 +952,10 @@
    "polished_tuff_wall": {
       "textures": {
          "down": "polished_tuff_wall_top",
-         "side": "polished_tuff_wall_side",
+         "north": "polished_tuff_wall_side_north",
+         "east": "polished_tuff_wall_side",
+         "south": "polished_tuff_wall_side_south",
+         "west": "polished_tuff_wall_side_west",
          "up": "polished_tuff_wall_top"
       }
    },
