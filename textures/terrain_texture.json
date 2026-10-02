@@ -3532,175 +3532,357 @@
                 "textures/misc/missing_texture"
             ]
         },
+        
         "polished_tuff_wall_top": {
             "textures": [
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff_ns",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff_ew",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff",
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff"
+                "textures/blocks/polished_tuff", /// Inventory
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=none S=short W=none Post=true
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_ns", /// E=none N=short S=short W=none Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=none S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=none S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=short S=tall W=none Post=true
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_ns", /// E=none N=tall S=tall W=none Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=short S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=short S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_ew", /// E=short N=none S=none W=short Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff_ew", /// E=tall N=none S=none W=tall Post=false
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=none N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=short N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/polish_tuff/polished_tuff", /// E=tall N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture"
             ]
         },
         "polished_tuff_wall_side": {
             "textures": [
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// doesnt exist; E=none N=none S=none W=none Post=false
+                "textures/blocks/polished_tuff", /// Inventory
                 "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=none N=none S=none W=none Post=true
                 "textures/misc/missing_texture", /// E=none N=short S=none W=none Post=false
                 "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=none N=short S=none W=none Post=true
@@ -4048,7 +4230,7 @@
         },
         "polished_tuff_wall_side_north": {
             "textures": [
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// doesnt exist; E=none N=none S=none W=none Post=false
+                "textures/blocks/polished_tuff", /// Inventory
                 "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=none N=none S=none W=none Post=true
                 "textures/misc/missing_texture", /// E=none N=short S=none W=none Post=false
                 "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=none N=short S=none W=none Post=true
@@ -4394,10 +4576,9 @@
                 "textures/misc/missing_texture"
             ]
         },
-
         "polished_tuff_wall_side_south": {
             "textures": [
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// doesnt exist; E=none N=none S=none W=none Post=false
+                "textures/blocks/polished_tuff", /// Inventory
                 "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=none N=none S=none W=none Post=true
                 "textures/misc/missing_texture", /// E=none N=short S=none W=none Post=false
                 "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=none N=short S=none W=none Post=true
@@ -4743,10 +4924,9 @@
                 "textures/misc/missing_texture"
             ]
         },
-
         "polished_tuff_wall_side_west": {
             "textures": [
-                "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// doesnt exist; E=none N=none S=none W=none Post=false
+                "textures/blocks/polished_tuff", /// Inventory
                 "textures/blocks/extra/walls/polish_tuff/polished_tuff_post", /// E=none N=none S=none W=none Post=true
                 "textures/misc/missing_texture", /// E=none N=short S=none W=none Post=false
                 "textures/blocks/extra/walls/polish_tuff/polished_tuff_side_post_short", /// E=none N=short S=none W=none Post=true
