@@ -951,7 +951,10 @@
    "polished_deepslate_wall": {
       "textures": {
          "down": "polished_deepslate_wall_top",
-         "side": "polished_deepslate",
+         "north": "polished_deepslate_wall_side_north",
+         "east": "polished_deepslate_wall_side",
+         "south": "polished_deepslate_wall_side_south",
+         "west": "polished_deepslate_wall_side_west",
          "up": "polished_deepslate_wall_top"
       }
    },
@@ -975,14 +978,20 @@
    "tuff_brick_wall": {
       "textures": {
          "down": "tuff_brick_wall_top",
-         "side": "tuff_bricks",
+         "north": "tuff_brick_wall_side_north",
+         "east": "tuff_brick_wall_side",
+         "south": "tuff_brick_wall_side_south",
+         "west": "tuff_brick_wall_side_west",
          "up": "tuff_brick_wall_top"
       }
    },
    "mud_brick_wall": {
       "textures": {
          "down": "mud_brick_wall_top",
-         "side": "mud_bricks",
+         "north": "mud_brick_wall_side_north",
+         "east": "mud_brick_wall_side",
+         "south": "mud_brick_wall_side_south",
+         "west": "mud_brick_wall_side_west",
          "up": "mud_brick_wall_top"
       }
    },
@@ -1033,6 +1042,26 @@
          "down": "red_nether_brick_wall_top",
          "side": "red_nether_brick_wall",
          "up": "red_nether_brick_wall_top"
+      }
+   },
+   "polished_cinnabar_wall": {
+      "textures": {
+         "down": "polished_cinnabar_wall_top",
+         "north": "polished_cinnabar_wall_side_north",
+         "east": "polished_cinnabar_wall_side",
+         "south": "polished_cinnabar_wall_side_south",
+         "west": "polished_cinnabar_wall_side_west",
+         "up": "polished_cinnabar_wall_top"
+      }
+   },
+   "polished_sulfur_wall": {
+      "textures": {
+         "down": "polished_sulfur_wall_top",
+         "north": "polished_sulfur_wall_side_north",
+         "east": "polished_sulfur_wall_side",
+         "south": "polished_sulfur_wall_side_south",
+         "west": "polished_sulfur_wall_side_west",
+         "up": "polished_sulfur_wall_top"
       }
    },
 ////////////////////////////
