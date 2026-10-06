@@ -1,0 +1,7 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "blackstone_bricks_ew",
+    "metalness_emissive_roughness": "blackstone_bricks_ew_mer"
+  }
+}

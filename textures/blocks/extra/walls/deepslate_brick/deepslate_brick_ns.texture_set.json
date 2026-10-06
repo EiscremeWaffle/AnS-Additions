@@ -1,8 +1,8 @@
 {
-	"format_version": "1.16.100",
-	"minecraft:texture_set": {
-		"color": "deepslate_brick_ns",
-		"metalness_emissive_roughness": "deepslate_brick_ns_mer",
-		"normal": "deepslate_brick_ns_normal"
-	}
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "deepslate_brick_ns",
+    "normal": "deepslate_brick_ns_normal",
+    "metalness_emissive_roughness": "deepslate_brick_ns_mer"
+  }
 }

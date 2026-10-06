@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "sulfur_bricks_post_short_left_ne",
+    "normal": "sulfur_bricks_post_short_left_ne_normal",
+    "metalness_emissive_roughness": "sulfur_bricks_post_short_left_ne_mer"
+  }
+}

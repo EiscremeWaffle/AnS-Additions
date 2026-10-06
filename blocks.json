@@ -970,9 +970,12 @@
    },
    "polished_blackstone_brick_wall": {
       "textures": {
-         "down": "polished_blackstone_wall_top",
-         "side": "polished_blackstone_bricks",
-         "up": "polished_blackstone_wall_top"
+         "down": "polished_blackstone_brick_wall_top",
+         "north": "polished_blackstone_brick_wall_side_north",
+         "east": "polished_blackstone_brick_wall_side",
+         "south": "polished_blackstone_brick_wall_side_south",
+         "west": "polished_blackstone_brick_wall_side_west",
+         "up": "polished_blackstone_brick_wall_top"
       }
    },
    "tuff_brick_wall": {
@@ -983,6 +986,26 @@
          "south": "tuff_brick_wall_side_south",
          "west": "tuff_brick_wall_side_west",
          "up": "tuff_brick_wall_top"
+      }
+   },
+   "sulfur_brick_wall": {
+      "textures": {
+         "down": "sulfur_brick_wall_top",
+         "north": "sulfur_brick_wall_side_north",
+         "east": "sulfur_brick_wall_side",
+         "south": "sulfur_brick_wall_side_south",
+         "west": "sulfur_brick_wall_side_west",
+         "up": "sulfur_brick_wall_top"
+      }
+   },
+   "cinnabar_brick_wall": {
+      "textures": {
+         "down": "cinnabar_brick_wall_top",
+         "north": "cinnabar_brick_wall_side_north",
+         "east": "cinnabar_brick_wall_side",
+         "south": "cinnabar_brick_wall_side_south",
+         "west": "cinnabar_brick_wall_side_west",
+         "up": "cinnabar_brick_wall_top"
       }
    },
    "mud_brick_wall": {
@@ -998,14 +1021,20 @@
    "deepslate_brick_wall": {
       "textures": {
          "down": "deepslate_brick_wall_top",
-         "side": "deepslate_bricks",
+         "north": "deepslate_brick_wall_side_north",
+         "east": "deepslate_brick_wall_side",
+         "south": "deepslate_brick_wall_side_south",
+         "west": "deepslate_brick_wall_side_west",
          "up": "deepslate_brick_wall_top"
       }
    },
    "end_stone_brick_wall": {
       "textures": {
          "down": "end_brick_wall_top",
-         "side": "end_stone_brick_wall",
+         "north": "end_brick_wall_side_north",
+         "east": "end_brick_wall_side",
+         "south": "end_brick_wall_side_south",
+         "west": "end_brick_wall_side_west",
          "up": "end_brick_wall_top"
       }
    },

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "cinnabar_brick",
+    "metalness_emissive_roughness": "cinnabar_brick_mer",
+    "normal": "cinnabar_brick_normal"
+  }
+}
