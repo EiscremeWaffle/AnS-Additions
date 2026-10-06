@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "mud_bricks_side_post_short_right",
+    "normal": "mud_bricks_side_post_short_right_normal",
+    "metalness_emissive_roughness": "mud_bricks_side_post_short_right_mer"
+  }
+}

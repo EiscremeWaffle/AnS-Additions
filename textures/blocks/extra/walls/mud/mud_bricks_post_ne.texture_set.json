@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "mud_bricks_post_ne",
+    "normal": "mud_bricks_post_ne_normal",
+    "metalness_emissive_roughness": "mud_bricks_post_ne_mer"
+  }
+}
