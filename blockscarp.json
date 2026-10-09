@@ -277,3 +277,74 @@
 	"dragon_egg_side": {
 		"textures": "textures/blocks/dragon_egg_side"
 	},
+	
+	     "waterlily" : {
+	  "blockshape" : "azalea",
+      "carried_textures" : "waterlily_carried",
+      "sound" : "grass",
+	  "isotropic" : {
+         "down" : true,
+         "up" : true
+      },
+      "textures": {
+      "up": "waterlily",
+      "east": "waterlily_flower",
+      "north": "none",
+      "down": "waterlily",
+      "west": "waterlily",
+      "south": "waterlily"
+	  }
+	},
+	
+		"waterlily":{
+		"textures":[
+		{
+			"variations":[
+				{
+					"path":"textures/blocks/waterlily","weight":40,"tint_color":"#FFFFFF"
+				},
+				{
+					"path":"textures/blocks/waterlily","weight":5,"tint_color":"#FFFFFF"
+				},
+				{
+					"path":"textures/blocks/waterlily","weight":5,"tint_color":"#FFFFFF"
+				},
+				{
+					"path":"textures/blocks/waterlily","weight":5,"tint_color":"#FFFFFF"
+				},
+				{
+					"path":"textures/blocks/waterlily","weight":5,"tint_color":"#FFFFFF"
+				},
+				{
+					"path":"textures/blocks/waterlily_0","weight":40,"tint_color":"#FFFFFF"
+				}
+			]
+		}
+		]
+	},
+	"waterlily_flower":{
+		"textures":[
+		{
+			"variations":[
+				{
+					"path":"textures/blocks/extra/foliage/lilypad/base","weight":40,"tint_color":"#FFFFFF"
+				},
+				{
+					"path":"textures/blocks/extra/foliage/lilypad/flower1","weight":5,"tint_color":"#FFFFFF"
+				},
+				{
+					"path":"textures/blocks/extra/foliage/lilypad/flower2","weight":5,"tint_color":"#FFFFFF"
+				},
+				{
+					"path":"textures/blocks/extra/foliage/lilypad/flower3","weight":5,"tint_color":"#FFFFFF"
+				},
+				{
+					"path":"textures/blocks/extra/foliage/lilypad/flower4","weight":5,"tint_color":"#FFFFFF"
+				},
+				{
+					"path":"textures/blocks/extra/foliage/lilypad/base","weight":40,"tint_color":"#FFFFFF"
+				}
+			]
+		}
+		]
+	},

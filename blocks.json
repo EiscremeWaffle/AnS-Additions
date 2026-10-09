@@ -1,8 +1,8 @@
 {
   "format_version": [
     1,
-    21,
-    40
+    26,
+    60
   ],
    ////////////////////////////
    //// 3D Foliage
@@ -118,24 +118,6 @@
          "west": "sweet_berry_bush"
       }
    },
-   
-     "waterlily" : {
-	  "blockshape" : "azalea",
-      "carried_textures" : "waterlily_carried",
-      "sound" : "grass",
-	  "isotropic" : {
-         "down" : true,
-         "up" : true
-      },
-      "textures": {
-      "up": "waterlily",
-      "east": "waterlily_flower",
-      "north": "none",
-      "down": "waterlily",
-      "west": "waterlily",
-      "south": "waterlily"
-	  }
-	},
 	"firefly_bush" : {
       "blockshape": "fire"
    },
@@ -254,25 +236,11 @@
       "sound" : "stone",
       "textures" : "redstone_ore_off"
    },
-   "weeping_vines" : {
-      "sound" : "weeping_vines",
-      "textures" : {
-         "down" : "weeping_vines_bottom",
-         "east" : "weeping_vines_base",
-         "north" : "weeping_vines_base",
-         "south" : "weeping_vines_base",
-         "up" : "weeping_vines_base",
-         "west" : "weeping_vines_base"
-      }
-   },
    "tripwire_hook" : {
       "textures" : {
          "down" : "hook_base",
-         "east" : "trip_wire_hooked",
-         "north" : "trip_wire_hooked",
-         "south" : "trip_wire_hooked",
-         "up" : "hook_source",
-         "west" : "trip_wire_hooked"
+         "side" : "trip_wire",
+         "up" : "hook_source"
       }
    },
    "seaLantern" : {
@@ -317,7 +285,6 @@
     }
    },
 ////////////////////////////
-
 //// Trapdoors
 ////////////////////////////
    "trapdoor" : {
@@ -566,6 +533,11 @@
          "up" : "weathered_copper_trapdoor_td",
          "west" : "weathered_copper_trapdoor_ew"
 		}
+   },
+////////////////////////////
+//// Doors
+////////////////////////////
+   "wooden_door" : {
    },
 
    //// Buttons
@@ -1129,6 +1101,9 @@
          "side": "sandstone_slab_side",
          "up": "sandstone_slab_top"
       }
+   },
+   "polished_tuff_stairs": {
+
    },
    ////////////////////////////
 
