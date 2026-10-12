@@ -46,6 +46,12 @@ def rgb_to_lab(rgb: RGB) -> LAB:
     return 116 * fy - 16, 500 * (fx - fy), 200 * (fy - fz)
 
 
+def image_pixels(image):
+    if hasattr(image, "get_flattened_data"):
+        return image.get_flattened_data()
+    return image.getdata()
+
+
 def build_palette(source_path: Path, mer_path: Path) -> Palette:
     with Image.open(source_path) as source_image, Image.open(mer_path) as mer_image:
         if source_image.size != mer_image.size:
@@ -54,8 +60,8 @@ def build_palette(source_path: Path, mer_path: Path) -> Palette:
                 f"({source_image.width}x{source_image.height} vs "
                 f"{mer_image.width}x{mer_image.height})."
             )
-        source_pixels = list(source_image.convert("RGB").getdata())
-        mer_pixels = list(mer_image.convert("RGBA").getdata())
+        source_pixels = list(image_pixels(source_image.convert("RGBA").convert("RGB")))
+        mer_pixels = list(image_pixels(mer_image.convert("RGBA")))
 
     samples: dict[RGB, Counter[RGBA]] = defaultdict(Counter)
     for source_color, mer_color in zip(source_pixels, mer_pixels):
@@ -268,7 +274,7 @@ class PaletteMERApp(tk.Tk):
                     continue
                 try:
                     with Image.open(target_path) as target_image:
-                        target_pixels = list(target_image.convert("RGB").getdata())
+                        target_pixels = list(image_pixels(target_image.convert("RGBA").convert("RGB")))
                         target_size = target_image.size
                     color_results = {
                         color: resolve_color(color, palette, tolerance)

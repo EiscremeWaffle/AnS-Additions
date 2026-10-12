@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "oak_gate_top_ns",
+    "normal": "oak_gate_top_ns_normal",
+    "metalness_emissive_roughness": "oak_gate_top_ns_mer"
+  }
+}

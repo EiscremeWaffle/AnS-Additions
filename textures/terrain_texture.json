@@ -23920,6 +23920,15 @@
         "jungle_fence_down": {
             "textures": "textures/blocks/extra/fence/jungle_fence_down"
         },
+        "poplar_fence": {
+            "textures": "textures/blocks/extra/fence/poplar_fence"
+        },
+        "poplar_fence_top": {
+            "textures": "textures/blocks/extra/fence/poplar_fence_top"
+        },
+        "poplar_fence_down": {
+            "textures": "textures/blocks/extra/fence/poplar_fence_down"
+        },
         "nether_brick_fence": {
             "textures": "textures/blocks/extra/fence/nether_brick_fence"
         },
@@ -24536,7 +24545,27 @@
       "textures": "textures/blocks/extra/bell_stone"
     },
     "oak_fence_gate_top": {
-      "textures": "textures/blocks/extra/gate/oak_gate_top"
+      "textures": [
+        "textures/blocks/extra/gate/oak/oak_gate_top_ns", ///south
+        "textures/blocks/extra/gate/oak/oak_gate_top_ew", ///west
+        "textures/blocks/extra/gate/oak/oak_gate_top_ns", ///north
+        "textures/blocks/extra/gate/oak/oak_gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/oak/oak_gate_top_ns", ///south
+        "textures/blocks/extra/gate/oak/oak_gate_top_ew", ///west
+        "textures/blocks/extra/gate/oak/oak_gate_top_ns", ///north
+        "textures/blocks/extra/gate/oak/oak_gate_top_ew", ///east
+        ///wall
+        "textures/blocks/extra/gate/oak/oak_gate_top_ns", ///south
+        "textures/blocks/extra/gate/oak/oak_gate_top_ew", ///west
+        "textures/blocks/extra/gate/oak/oak_gate_top_ns", ///north
+        "textures/blocks/extra/gate/oak/oak_gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/oak/oak_gate_top_ns", ///south
+        "textures/blocks/extra/gate/oak/oak_gate_top_ew", ///west
+        "textures/blocks/extra/gate/oak/oak_gate_top_ns", ///north
+        "textures/blocks/extra/gate/oak/oak_gate_top_ew"  ///east
+      ]
     },
     "acacia_gate_top": {
       "textures": "textures/blocks/extra/gate/acacia_gate_top"
@@ -24600,25 +24629,28 @@
     },
     "oak_fence_gate_north": {
       "textures": [
-        "textures/blocks/extra/gate/planks_oak", ///south
-        "textures/blocks/extra/gate/side/planks_oak", ///west
-        "textures/blocks/extra/gate/planks_oak", ///north
-        "textures/blocks/extra/gate/side/planks_oak", ///east
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_oak", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/oak/planks_oak", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///west
+        "textures/blocks/extra/gate/oak/planks_oak", ///north
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///east
         ///open
-        "textures/blocks/extra/gate/side/planks_oak", ///south
-        "textures/blocks/extra/gate/open/planks_oak", ///west
-        "textures/blocks/extra/gate/side/planks_oak", ///north
-        "textures/blocks/extra/gate/open/planks_oak", ///east
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///south
+        "textures/blocks/extra/gate/oak/planks_oak_open", ///west
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///north
+        "textures/blocks/extra/gate/oak/planks_oak_open", ///east
         ///wall
-        "textures/blocks/extra/gate/planks_oak", ///south
-        "textures/blocks/extra/gate/side/planks_oak", ///west
-        "textures/blocks/extra/gate/planks_oak", ///north
-        "textures/blocks/extra/gate/side/planks_oak", ///east
+        "textures/blocks/extra/gate/oak/planks_oak", ///south
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///west
+        "textures/blocks/extra/gate/oak/planks_oak", ///north
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///east
         ///open
-        "textures/blocks/extra/gate/side/planks_oak", ///south
-        "textures/blocks/extra/gate/open/planks_oak", ///west
-        "textures/blocks/extra/gate/side/planks_oak", ///north
-        "textures/blocks/extra/gate/open/planks_oak"  ///east
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///south
+        "textures/blocks/extra/gate/oak/planks_oak_open", ///west
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///north
+        "textures/blocks/extra/gate/oak/planks_oak_open" ///east
       ]
     },
     "oak_fence_gate_east": {
@@ -24626,56 +24658,59 @@
         {
           "variations": [
             {
-              "path": "textures/blocks/extra/gate/planks_oak",
+              "path": "textures/blocks/planks_oak",
               "weight": 0.05
             },
             {
-              "path": "textures/blocks/extra/gate/side/planks_oak",
+              "path": "textures/blocks/extra/gate/oak/planks_oak_side",
               "weight": 10000
             }
           ]
         }, ///south
-        "textures/blocks/extra/gate/planks_oak", ///west
-        "textures/blocks/extra/gate/side/planks_oak", ///north
-        "textures/blocks/extra/gate/planks_oak", ///east
+        "textures/blocks/extra/gate/oak/planks_oak", ///west
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///north
+        "textures/blocks/extra/gate/oak/planks_oak", ///east
         ///open
-        "textures/blocks/extra/gate/open/planks_oak", ///south
-        "textures/blocks/extra/gate/side/planks_oak", ///west
-        "textures/blocks/extra/gate/open/planks_oak", ///north
-        "textures/blocks/extra/gate/side/planks_oak", ///east
+        "textures/blocks/extra/gate/oak/planks_oak_open", ///south
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///west
+        "textures/blocks/extra/gate/oak/planks_oak_open", ///north
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///east
         ///wall
-        "textures/blocks/extra/gate/side/planks_oak", ///south
-        "textures/blocks/extra/gate/planks_oak", ///west
-        "textures/blocks/extra/gate/side/planks_oak", ///north
-        "textures/blocks/extra/gate/planks_oak", ///east
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///south
+        "textures/blocks/extra/gate/oak/planks_oak", ///west
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///north
+        "textures/blocks/extra/gate/oak/planks_oak", ///east
         ///open
-        "textures/blocks/extra/gate/open/planks_oak", ///south
-        "textures/blocks/extra/gate/side/planks_oak", ///west
-        "textures/blocks/extra/gate/open/planks_oak", ///north
-        "textures/blocks/extra/gate/side/planks_oak"  ///east
+        "textures/blocks/extra/gate/oak/planks_oak_open", ///south
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///west
+        "textures/blocks/extra/gate/oak/planks_oak_open", ///north
+        "textures/blocks/extra/gate/oak/planks_oak_side"  ///east
       ]
     },
     "oak_fence_gate_south": {
       "textures": [
-        "textures/blocks/extra/gate/sw/planks_oak", ///south
-        "textures/blocks/extra/gate/side/planks_oak", ///west
-        "textures/blocks/extra/gate/sw/planks_oak", ///north
-        "textures/blocks/extra/gate/side/planks_oak", ///east
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_oak", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/oak/planks_oak_sw", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///west
+        "textures/blocks/extra/gate/oak/planks_oak_sw", ///north
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///east
         ///open
-        "textures/blocks/extra/gate/side/planks_oak", ///south
-        "textures/blocks/extra/gate/open/planks_oak", ///west
-        "textures/blocks/extra/gate/side/planks_oak", ///north
-        "textures/blocks/extra/gate/open/planks_oak", ///east
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///south
+        "textures/blocks/extra/gate/oak/planks_oak_open", ///west
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///north
+        "textures/blocks/extra/gate/oak/planks_oak_open", ///east
         ///wall
-        "textures/blocks/extra/gate/sw/planks_oak", ///south
-        "textures/blocks/extra/gate/side/planks_oak", ///west
-        "textures/blocks/extra/gate/sw/planks_oak", ///north
-        "textures/blocks/extra/gate/side/planks_oak", ///east
+        "textures/blocks/extra/gate/oak/planks_oak_sw", ///south
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///west
+        "textures/blocks/extra/gate/oak/planks_oak_sw", ///north
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///east
         ///open
-        "textures/blocks/extra/gate/side/planks_oak", ///south
-        "textures/blocks/extra/gate/open/planks_oak", ///west
-        "textures/blocks/extra/gate/side/planks_oak", ///north
-        "textures/blocks/extra/gate/open/planks_oak"  ///east
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///south
+        "textures/blocks/extra/gate/oak/planks_oak_open", ///west
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///north
+        "textures/blocks/extra/gate/oak/planks_oak_open" ///east
       ]
     },
     "oak_fence_gate_west": {
@@ -24683,33 +24718,33 @@
         {
           "variations": [
             {
-              "path": "textures/blocks/extra/gate/planks_oak",
+              "path": "textures/blocks/planks_oak",
               "weight": 0.05
             },
             {
-              "path": "textures/blocks/extra/gate/side/planks_oak",
+              "path": "textures/blocks/extra/gate/oak/planks_oak_side",
               "weight": 10000
             }
           ]
         }, ///south
-        "textures/blocks/extra/gate/sw/planks_oak", ///west
-        "textures/blocks/extra/gate/side/planks_oak", ///north
-        "textures/blocks/extra/gate/sw/planks_oak", ///east
+        "textures/blocks/extra/gate/oak/planks_oak_sw", ///west
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///north
+        "textures/blocks/extra/gate/oak/planks_oak_sw", ///east
         ///open
-        "textures/blocks/extra/gate/open/planks_oak", ///south
-        "textures/blocks/extra/gate/side/planks_oak", ///west
-        "textures/blocks/extra/gate/open/planks_oak", ///north
-        "textures/blocks/extra/gate/side/planks_oak", ///east
+        "textures/blocks/extra/gate/oak/planks_oak_open", ///south
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///west
+        "textures/blocks/extra/gate/oak/planks_oak_open", ///north
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///east
         ///wall
-        "textures/blocks/extra/gate/side/planks_oak", ///south
-        "textures/blocks/extra/gate/sw/planks_oak", ///west
-        "textures/blocks/extra/gate/side/planks_oak", ///north
-        "textures/blocks/extra/gate/sw/planks_oak", ///east
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///south
+        "textures/blocks/extra/gate/oak/planks_oak_sw", ///west
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///north
+        "textures/blocks/extra/gate/oak/planks_oak_sw", ///east
         ///open
-        "textures/blocks/extra/gate/open/planks_oak", ///south
-        "textures/blocks/extra/gate/side/planks_oak", ///west
-        "textures/blocks/extra/gate/open/planks_oak", ///north
-        "textures/blocks/extra/gate/side/planks_oak"  ///east
+        "textures/blocks/extra/gate/oak/planks_oak_open", ///south
+        "textures/blocks/extra/gate/oak/planks_oak_side", ///west
+        "textures/blocks/extra/gate/oak/planks_oak_open", ///north
+        "textures/blocks/extra/gate/oak/planks_oak_side"  ///east
       ]
     },
     "oak_fence_gate": {

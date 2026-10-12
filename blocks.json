@@ -1,8 +1,8 @@
 {
   "format_version": [
     1,
-    26,
-    60
+    21,
+    40
   ],
    ////////////////////////////
    //// 3D Foliage
@@ -679,7 +679,6 @@
       }
    },
    "oak_fence": {
-	   "carried_textures" : "grass",
       "textures": {
          "up": "oak_fence_top",
          "down": "oak_fence_down",
@@ -690,7 +689,6 @@
       }
    },
    "fence_gate": {
-	  "carried_textures" : "oak_fence_gate",
       "textures": {
          "up": "oak_fence_gate_top",
          "down": "oak_fence_gate_top",
@@ -888,6 +886,23 @@
          "east": "nether_brick_fence",
          "south": "nether_brick_fence",
          "west": "nether_brick_fence"
+      }
+   },
+   "poplar_fence": {
+      "textures": {
+         "up": "poplar_fence_top",
+         "down": "poplar_fence_down",
+         "side": "poplar_fence"
+      }
+   },
+   "poplar_fence_gate": {
+      "textures": {
+         "up": "poplar_gate_top",
+         "down": "poplar_gate_top",
+         "north": "poplar_gate_north",
+         "east": "poplar_gate_east",
+         "south": "poplar_gate_south",
+         "west": "poplar_gate_west"
       }
    },
    ////////////////////////////
