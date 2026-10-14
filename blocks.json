@@ -674,12 +674,19 @@
          "west" : "poplar_button_west"
 	  }
    },
-   "polished_blackstone_button": {
-      "textures": "polished_blackstone_button_b"
-   },
    "bamboo_button": {
       "sound": "chiseled_bookshelf",
-      "textures": "bamboo_button"
+      "textures" : {
+         "down" : "bamboo_button_down",
+         "east" : "bamboo_button_east",
+         "north" : "bamboo_button_north",
+         "south" : "bamboo_button_south",
+         "up" : "bamboo_button_up",
+         "west" : "bamboo_button_west"
+	  }
+   },
+   "polished_blackstone_button": {
+      "textures": "polished_blackstone_button_b"
    },
 ////////////////////////////
 

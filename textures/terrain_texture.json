@@ -26253,6 +26253,24 @@
     "poplar_button_west": {
       "textures": "textures/blocks/extra/button/poplar/west"
     },
+    "bamboo_button_down": {
+      "textures": "textures/blocks/extra/button/bamboo/down"
+    },
+    "bamboo_button_east": {
+      "textures": "textures/blocks/extra/button/bamboo/east"
+    },
+    "bamboo_button_north": {
+      "textures": "textures/blocks/extra/button/bamboo/north"
+    },
+    "bamboo_button_south": {
+      "textures": "textures/blocks/extra/button/bamboo/south"
+    },
+    "bamboo_button_up": {
+      "textures": "textures/blocks/extra/button/bamboo/up"
+    },
+    "bamboo_button_west": {
+      "textures": "textures/blocks/extra/button/bamboo/west"
+    },
     ////////////////////////////
     //// Fences & Gates
     ////////////////////////////
