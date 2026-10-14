@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "gate_side_open",
+    "metalness_emissive_roughness": "gate_side_open_mer",
+    "normal": "gate_side_open_normal"
+  }
+}

@@ -1,6 +1,9 @@
 {
   "resource_pack_name": "vanilla",
   "texture_data": {
+    ////////////////////////////
+    //// 3D Foliage
+    ////////////////////////////
     "reeds_top": {
       "textures": ["textures/blocks/extra/foliage/reeds/reeds_top"]
     },
@@ -202,6 +205,9 @@
 	"dragon_egg_side": {
 		"textures": "textures/blocks/dragon_egg_side"
 	},
+    ////////////////////////////
+    //// Miscellaneous
+    ////////////////////////////
     "endframe_top": {
       "textures": [
         "textures/blocks/endframe_top",
@@ -24544,1403 +24550,9 @@
     "bell_rock": {
       "textures": "textures/blocks/extra/bell_stone"
     },
-    "oak_fence_gate_top": {
-      "textures": [
-        "textures/blocks/extra/gate/oak/oak_gate_top_ns", ///south
-        "textures/blocks/extra/gate/oak/oak_gate_top_ew", ///west
-        "textures/blocks/extra/gate/oak/oak_gate_top_ns", ///north
-        "textures/blocks/extra/gate/oak/oak_gate_top_ew", ///east
-        ///open
-        "textures/blocks/extra/gate/oak/oak_gate_top_ns", ///south
-        "textures/blocks/extra/gate/oak/oak_gate_top_ew", ///west
-        "textures/blocks/extra/gate/oak/oak_gate_top_ns", ///north
-        "textures/blocks/extra/gate/oak/oak_gate_top_ew", ///east
-        ///wall
-        "textures/blocks/extra/gate/oak/oak_gate_top_ns", ///south
-        "textures/blocks/extra/gate/oak/oak_gate_top_ew", ///west
-        "textures/blocks/extra/gate/oak/oak_gate_top_ns", ///north
-        "textures/blocks/extra/gate/oak/oak_gate_top_ew", ///east
-        ///open
-        "textures/blocks/extra/gate/oak/oak_gate_top_ns", ///south
-        "textures/blocks/extra/gate/oak/oak_gate_top_ew", ///west
-        "textures/blocks/extra/gate/oak/oak_gate_top_ns", ///north
-        "textures/blocks/extra/gate/oak/oak_gate_top_ew"  ///east
-      ]
-    },
-    "acacia_gate_top": {
-      "textures": "textures/blocks/extra/gate/acacia_gate_top"
-    },
-    "acacia_gate": {
-      "textures": "textures/blocks/extra/gate/acacia_gate"
-    },
-    "dark_oak_gate_top": {
-      "textures": "textures/blocks/extra/gate/dark_oak_gate_top"
-    },
-    "dark_oak_gate": {
-      "textures": "textures/blocks/extra/gate/dark_oak_gate"
-    },
-    "birch_gate_top": {
-      "textures": "textures/blocks/extra/gate/birch_gate_top"
-    },
-    "birch_gate": {
-      "textures": "textures/blocks/extra/gate/birch_gate"
-    },
-    "jungle_gate_top": {
-      "textures": "textures/blocks/extra/gate/jungle_gate_top"
-    },
-    "jungle_gate": {
-      "textures": "textures/blocks/extra/gate/jungle_gate"
-    },
-    "mangrove_gate_top": {
-      "textures": "textures/blocks/extra/gate/mangrove_gate_top"
-    },
-    "mangrove_gate": {
-      "textures": "textures/blocks/extra/gate/mangrove_gate"
-    },
-    "pale_oak_gate_top": {
-      "textures": "textures/blocks/extra/gate/pale_oak_gate_top"
-    },
-    "pale_oak_gate": {
-      "textures": "textures/blocks/extra/gate/pale_oak_gate"
-    },
-    "cherry_gate_top": {
-      "textures": "textures/blocks/extra/gate/cherry_gate_top"
-    },
-    "cherry_gate": {
-      "textures": "textures/blocks/extra/gate/cherry_gate"
-    },
-    "spruce_gate_top": {
-      "textures": "textures/blocks/extra/gate/spruce_gate_top"
-    },
-    "spruce_gate": {
-      "textures": "textures/blocks/extra/gate/spruce_gate"
-    },
-    "warped_gate_top": {
-      "textures": "textures/blocks/extra/gate/warped_gate_top"
-    },
-    "warped_gate": {
-      "textures": "textures/blocks/extra/gate/warped_gate"
-    },
-    "crimson_gate_top": {
-      "textures": "textures/blocks/extra/gate/crimson_gate_top"
-    },
-    "crimson_gate": {
-      "textures": "textures/blocks/extra/gate/crimson_gate"
-    },
-    "oak_fence_gate_north": {
-      "textures": [
-        {
-          "variations": [
-            { "path": "textures/blocks/planks_oak", "weight": 0.05 },
-            { "path": "textures/blocks/extra/gate/oak/planks_oak", "weight": 10000 } ] }, ///south
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///west
-        "textures/blocks/extra/gate/oak/planks_oak", ///north
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///east
-        ///open
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///south
-        "textures/blocks/extra/gate/oak/planks_oak_open", ///west
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///north
-        "textures/blocks/extra/gate/oak/planks_oak_open", ///east
-        ///wall
-        "textures/blocks/extra/gate/oak/planks_oak", ///south
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///west
-        "textures/blocks/extra/gate/oak/planks_oak", ///north
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///east
-        ///open
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///south
-        "textures/blocks/extra/gate/oak/planks_oak_open", ///west
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///north
-        "textures/blocks/extra/gate/oak/planks_oak_open" ///east
-      ]
-    },
-    "oak_fence_gate_east": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/planks_oak",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/oak/planks_oak_side",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/oak/planks_oak", ///west
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///north
-        "textures/blocks/extra/gate/oak/planks_oak", ///east
-        ///open
-        "textures/blocks/extra/gate/oak/planks_oak_open", ///south
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///west
-        "textures/blocks/extra/gate/oak/planks_oak_open", ///north
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///east
-        ///wall
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///south
-        "textures/blocks/extra/gate/oak/planks_oak", ///west
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///north
-        "textures/blocks/extra/gate/oak/planks_oak", ///east
-        ///open
-        "textures/blocks/extra/gate/oak/planks_oak_open", ///south
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///west
-        "textures/blocks/extra/gate/oak/planks_oak_open", ///north
-        "textures/blocks/extra/gate/oak/planks_oak_side"  ///east
-      ]
-    },
-    "oak_fence_gate_south": {
-      "textures": [
-        {
-          "variations": [
-            { "path": "textures/blocks/planks_oak", "weight": 0.05 },
-            { "path": "textures/blocks/extra/gate/oak/planks_oak_sw", "weight": 10000 } ] }, ///south
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///west
-        "textures/blocks/extra/gate/oak/planks_oak_sw", ///north
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///east
-        ///open
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///south
-        "textures/blocks/extra/gate/oak/planks_oak_open", ///west
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///north
-        "textures/blocks/extra/gate/oak/planks_oak_open", ///east
-        ///wall
-        "textures/blocks/extra/gate/oak/planks_oak_sw", ///south
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///west
-        "textures/blocks/extra/gate/oak/planks_oak_sw", ///north
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///east
-        ///open
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///south
-        "textures/blocks/extra/gate/oak/planks_oak_open", ///west
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///north
-        "textures/blocks/extra/gate/oak/planks_oak_open" ///east
-      ]
-    },
-    "oak_fence_gate_west": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/planks_oak",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/oak/planks_oak_side",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/oak/planks_oak_sw", ///west
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///north
-        "textures/blocks/extra/gate/oak/planks_oak_sw", ///east
-        ///open
-        "textures/blocks/extra/gate/oak/planks_oak_open", ///south
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///west
-        "textures/blocks/extra/gate/oak/planks_oak_open", ///north
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///east
-        ///wall
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///south
-        "textures/blocks/extra/gate/oak/planks_oak_sw", ///west
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///north
-        "textures/blocks/extra/gate/oak/planks_oak_sw", ///east
-        ///open
-        "textures/blocks/extra/gate/oak/planks_oak_open", ///south
-        "textures/blocks/extra/gate/oak/planks_oak_side", ///west
-        "textures/blocks/extra/gate/oak/planks_oak_open", ///north
-        "textures/blocks/extra/gate/oak/planks_oak_side"  ///east
-      ]
-    },
-    "oak_fence_gate": {
-      "textures": "textures/blocks/extra/gate/planks_oak"
-    },
-    "acacia_gate_north": {
-      "textures": [
-        "textures/blocks/extra/gate/acacia_gate", ///south
-        "textures/blocks/extra/gate/side/acacia_gate", ///west
-        "textures/blocks/extra/gate/acacia_gate", ///north
-        "textures/blocks/extra/gate/side/acacia_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/acacia_gate", ///south
-        "textures/blocks/extra/gate/open/acacia_gate", ///west
-        "textures/blocks/extra/gate/side/acacia_gate", ///north
-        "textures/blocks/extra/gate/open/acacia_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/acacia_gate", ///south
-        "textures/blocks/extra/gate/side/acacia_gate", ///west
-        "textures/blocks/extra/gate/acacia_gate", ///north
-        "textures/blocks/extra/gate/side/acacia_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/acacia_gate", ///south
-        "textures/blocks/extra/gate/open/acacia_gate", ///west
-        "textures/blocks/extra/gate/side/acacia_gate", ///north
-        "textures/blocks/extra/gate/open/acacia_gate"  ///east
-      ]
-    },
-    "acacia_gate_east": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/acacia_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/acacia_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/acacia_gate", ///west
-        "textures/blocks/extra/gate/side/acacia_gate", ///north
-        "textures/blocks/extra/gate/acacia_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/acacia_gate", ///south
-        "textures/blocks/extra/gate/side/acacia_gate", ///west
-        "textures/blocks/extra/gate/open/acacia_gate", ///north
-        "textures/blocks/extra/gate/side/acacia_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/acacia_gate", ///south
-        "textures/blocks/extra/gate/acacia_gate", ///west
-        "textures/blocks/extra/gate/side/acacia_gate", ///north
-        "textures/blocks/extra/gate/acacia_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/acacia_gate", ///south
-        "textures/blocks/extra/gate/side/acacia_gate", ///west
-        "textures/blocks/extra/gate/open/acacia_gate", ///north
-        "textures/blocks/extra/gate/side/acacia_gate"  ///east
-      ]
-    },
-    "acacia_gate_south": {
-      "textures": [
-        "textures/blocks/extra/gate/sw/acacia_gate", ///south
-        "textures/blocks/extra/gate/side/acacia_gate", ///west
-        "textures/blocks/extra/gate/sw/acacia_gate", ///north
-        "textures/blocks/extra/gate/side/acacia_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/acacia_gate", ///south
-        "textures/blocks/extra/gate/open/acacia_gate", ///west
-        "textures/blocks/extra/gate/side/acacia_gate", ///north
-        "textures/blocks/extra/gate/open/acacia_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/sw/acacia_gate", ///south
-        "textures/blocks/extra/gate/side/acacia_gate", ///west
-        "textures/blocks/extra/gate/sw/acacia_gate", ///north
-        "textures/blocks/extra/gate/side/acacia_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/acacia_gate", ///south
-        "textures/blocks/extra/gate/open/acacia_gate", ///west
-        "textures/blocks/extra/gate/side/acacia_gate", ///north
-        "textures/blocks/extra/gate/open/acacia_gate"  ///east
-      ]
-    },
-    "acacia_gate_west": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/acacia_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/acacia_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/sw/acacia_gate", ///west
-        "textures/blocks/extra/gate/side/acacia_gate", ///north
-        "textures/blocks/extra/gate/sw/acacia_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/acacia_gate", ///south
-        "textures/blocks/extra/gate/side/acacia_gate", ///west
-        "textures/blocks/extra/gate/open/acacia_gate", ///north
-        "textures/blocks/extra/gate/side/acacia_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/acacia_gate", ///south
-        "textures/blocks/extra/gate/sw/acacia_gate", ///west
-        "textures/blocks/extra/gate/side/acacia_gate", ///north
-        "textures/blocks/extra/gate/sw/acacia_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/acacia_gate", ///south
-        "textures/blocks/extra/gate/side/acacia_gate", ///west
-        "textures/blocks/extra/gate/open/acacia_gate", ///north
-        "textures/blocks/extra/gate/side/acacia_gate"  ///east
-      ]
-    },
-    "dark_oak_gate_north": {
-      "textures": [
-        "textures/blocks/extra/gate/dark_oak_gate", ///south
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///west
-        "textures/blocks/extra/gate/dark_oak_gate", ///north
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///south
-        "textures/blocks/extra/gate/open/dark_oak_gate", ///west
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///north
-        "textures/blocks/extra/gate/open/dark_oak_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/dark_oak_gate", ///south
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///west
-        "textures/blocks/extra/gate/dark_oak_gate", ///north
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///south
-        "textures/blocks/extra/gate/open/dark_oak_gate", ///west
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///north
-        "textures/blocks/extra/gate/open/dark_oak_gate"  ///east
-      ]
-    },
-    "dark_oak_gate_east": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/dark_oak_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/dark_oak_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/dark_oak_gate", ///west
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///north
-        "textures/blocks/extra/gate/dark_oak_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/dark_oak_gate", ///south
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///west
-        "textures/blocks/extra/gate/open/dark_oak_gate", ///north
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///south
-        "textures/blocks/extra/gate/dark_oak_gate", ///west
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///north
-        "textures/blocks/extra/gate/dark_oak_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/dark_oak_gate", ///south
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///west
-        "textures/blocks/extra/gate/open/dark_oak_gate", ///north
-        "textures/blocks/extra/gate/side/dark_oak_gate"  ///east
-      ]
-    },
-    "dark_oak_gate_south": {
-      "textures": [
-        "textures/blocks/extra/gate/sw/dark_oak_gate", ///south
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///west
-        "textures/blocks/extra/gate/sw/dark_oak_gate", ///north
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///south
-        "textures/blocks/extra/gate/open/dark_oak_gate", ///west
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///north
-        "textures/blocks/extra/gate/open/dark_oak_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/sw/dark_oak_gate", ///south
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///west
-        "textures/blocks/extra/gate/sw/dark_oak_gate", ///north
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///south
-        "textures/blocks/extra/gate/open/dark_oak_gate", ///west
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///north
-        "textures/blocks/extra/gate/open/dark_oak_gate"  ///east
-      ]
-    },
-    "dark_oak_gate_west": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/dark_oak_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/dark_oak_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/sw/dark_oak_gate", ///west
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///north
-        "textures/blocks/extra/gate/sw/dark_oak_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/dark_oak_gate", ///south
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///west
-        "textures/blocks/extra/gate/open/dark_oak_gate", ///north
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///south
-        "textures/blocks/extra/gate/sw/dark_oak_gate", ///west
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///north
-        "textures/blocks/extra/gate/sw/dark_oak_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/dark_oak_gate", ///south
-        "textures/blocks/extra/gate/side/dark_oak_gate", ///west
-        "textures/blocks/extra/gate/open/dark_oak_gate", ///north
-        "textures/blocks/extra/gate/side/dark_oak_gate"  ///east
-      ]
-    },
-    "birch_gate_north": {
-      "textures": [
-        "textures/blocks/extra/gate/birch_gate", ///south
-        "textures/blocks/extra/gate/side/birch_gate", ///west
-        "textures/blocks/extra/gate/birch_gate", ///north
-        "textures/blocks/extra/gate/side/birch_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/birch_gate", ///south
-        "textures/blocks/extra/gate/open/birch_gate", ///west
-        "textures/blocks/extra/gate/side/birch_gate", ///north
-        "textures/blocks/extra/gate/open/birch_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/birch_gate", ///south
-        "textures/blocks/extra/gate/side/birch_gate", ///west
-        "textures/blocks/extra/gate/birch_gate", ///north
-        "textures/blocks/extra/gate/side/birch_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/birch_gate", ///south
-        "textures/blocks/extra/gate/open/birch_gate", ///west
-        "textures/blocks/extra/gate/side/birch_gate", ///north
-        "textures/blocks/extra/gate/open/birch_gate"  ///east
-      ]
-    },
-    "birch_gate_east": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/birch_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/birch_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/birch_gate", ///west
-        "textures/blocks/extra/gate/side/birch_gate", ///north
-        "textures/blocks/extra/gate/birch_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/birch_gate", ///south
-        "textures/blocks/extra/gate/side/birch_gate", ///west
-        "textures/blocks/extra/gate/open/birch_gate", ///north
-        "textures/blocks/extra/gate/side/birch_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/birch_gate", ///south
-        "textures/blocks/extra/gate/birch_gate", ///west
-        "textures/blocks/extra/gate/side/birch_gate", ///north
-        "textures/blocks/extra/gate/birch_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/birch_gate", ///south
-        "textures/blocks/extra/gate/side/birch_gate", ///west
-        "textures/blocks/extra/gate/open/birch_gate", ///north
-        "textures/blocks/extra/gate/side/birch_gate"  ///east
-      ]
-    },
-    "birch_gate_south": {
-      "textures": [
-        "textures/blocks/extra/gate/sw/birch_gate", ///south
-        "textures/blocks/extra/gate/side/birch_gate", ///west
-        "textures/blocks/extra/gate/sw/birch_gate", ///north
-        "textures/blocks/extra/gate/side/birch_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/birch_gate", ///south
-        "textures/blocks/extra/gate/open/birch_gate", ///west
-        "textures/blocks/extra/gate/side/birch_gate", ///north
-        "textures/blocks/extra/gate/open/birch_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/sw/birch_gate", ///south
-        "textures/blocks/extra/gate/side/birch_gate", ///west
-        "textures/blocks/extra/gate/sw/birch_gate", ///north
-        "textures/blocks/extra/gate/side/birch_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/birch_gate", ///south
-        "textures/blocks/extra/gate/open/birch_gate", ///west
-        "textures/blocks/extra/gate/side/birch_gate", ///north
-        "textures/blocks/extra/gate/open/birch_gate"  ///east
-      ]
-    },
-    "birch_gate_west": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/birch_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/birch_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/sw/birch_gate", ///west
-        "textures/blocks/extra/gate/side/birch_gate", ///north
-        "textures/blocks/extra/gate/sw/birch_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/birch_gate", ///south
-        "textures/blocks/extra/gate/side/birch_gate", ///west
-        "textures/blocks/extra/gate/open/birch_gate", ///north
-        "textures/blocks/extra/gate/side/birch_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/birch_gate", ///south
-        "textures/blocks/extra/gate/sw/birch_gate", ///west
-        "textures/blocks/extra/gate/side/birch_gate", ///north
-        "textures/blocks/extra/gate/sw/birch_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/birch_gate", ///south
-        "textures/blocks/extra/gate/side/birch_gate", ///west
-        "textures/blocks/extra/gate/open/birch_gate", ///north
-        "textures/blocks/extra/gate/side/birch_gate"  ///east
-      ]
-    },
-    "jungle_gate_north": {
-      "textures": [
-        "textures/blocks/extra/gate/jungle_gate", ///south
-        "textures/blocks/extra/gate/side/jungle_gate", ///west
-        "textures/blocks/extra/gate/jungle_gate", ///north
-        "textures/blocks/extra/gate/side/jungle_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/jungle_gate", ///south
-        "textures/blocks/extra/gate/open/jungle_gate", ///west
-        "textures/blocks/extra/gate/side/jungle_gate", ///north
-        "textures/blocks/extra/gate/open/jungle_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/jungle_gate", ///south
-        "textures/blocks/extra/gate/side/jungle_gate", ///west
-        "textures/blocks/extra/gate/jungle_gate", ///north
-        "textures/blocks/extra/gate/side/jungle_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/jungle_gate", ///south
-        "textures/blocks/extra/gate/open/jungle_gate", ///west
-        "textures/blocks/extra/gate/side/jungle_gate", ///north
-        "textures/blocks/extra/gate/open/jungle_gate"  ///east
-      ]
-    },
-    "jungle_gate_east": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/jungle_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/jungle_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/jungle_gate", ///west
-        "textures/blocks/extra/gate/side/jungle_gate", ///north
-        "textures/blocks/extra/gate/jungle_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/jungle_gate", ///south
-        "textures/blocks/extra/gate/side/jungle_gate", ///west
-        "textures/blocks/extra/gate/open/jungle_gate", ///north
-        "textures/blocks/extra/gate/side/jungle_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/jungle_gate", ///south
-        "textures/blocks/extra/gate/jungle_gate", ///west
-        "textures/blocks/extra/gate/side/jungle_gate", ///north
-        "textures/blocks/extra/gate/jungle_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/jungle_gate", ///south
-        "textures/blocks/extra/gate/side/jungle_gate", ///west
-        "textures/blocks/extra/gate/open/jungle_gate", ///north
-        "textures/blocks/extra/gate/side/jungle_gate"  ///east
-      ]
-    },
-    "jungle_gate_south": {
-      "textures": [
-        "textures/blocks/extra/gate/sw/jungle_gate", ///south
-        "textures/blocks/extra/gate/side/jungle_gate", ///west
-        "textures/blocks/extra/gate/sw/jungle_gate", ///north
-        "textures/blocks/extra/gate/side/jungle_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/jungle_gate", ///south
-        "textures/blocks/extra/gate/open/jungle_gate", ///west
-        "textures/blocks/extra/gate/side/jungle_gate", ///north
-        "textures/blocks/extra/gate/open/jungle_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/sw/jungle_gate", ///south
-        "textures/blocks/extra/gate/side/jungle_gate", ///west
-        "textures/blocks/extra/gate/sw/jungle_gate", ///north
-        "textures/blocks/extra/gate/side/jungle_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/jungle_gate", ///south
-        "textures/blocks/extra/gate/open/jungle_gate", ///west
-        "textures/blocks/extra/gate/side/jungle_gate", ///north
-        "textures/blocks/extra/gate/open/jungle_gate"  ///east
-      ]
-    },
-    "jungle_gate_west": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/jungle_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/jungle_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/sw/jungle_gate", ///west
-        "textures/blocks/extra/gate/side/jungle_gate", ///north
-        "textures/blocks/extra/gate/sw/jungle_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/jungle_gate", ///south
-        "textures/blocks/extra/gate/side/jungle_gate", ///west
-        "textures/blocks/extra/gate/open/jungle_gate", ///north
-        "textures/blocks/extra/gate/side/jungle_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/jungle_gate", ///south
-        "textures/blocks/extra/gate/sw/jungle_gate", ///west
-        "textures/blocks/extra/gate/side/jungle_gate", ///north
-        "textures/blocks/extra/gate/sw/jungle_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/jungle_gate", ///south
-        "textures/blocks/extra/gate/side/jungle_gate", ///west
-        "textures/blocks/extra/gate/open/jungle_gate", ///north
-        "textures/blocks/extra/gate/side/jungle_gate"  ///east
-      ]
-    },
-    "mangrove_gate_north": {
-      "textures": [
-        "textures/blocks/extra/gate/mangrove_gate", ///south
-        "textures/blocks/extra/gate/side/mangrove_gate", ///west
-        "textures/blocks/extra/gate/mangrove_gate", ///north
-        "textures/blocks/extra/gate/side/mangrove_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/mangrove_gate", ///south
-        "textures/blocks/extra/gate/open/mangrove_gate", ///west
-        "textures/blocks/extra/gate/side/mangrove_gate", ///north
-        "textures/blocks/extra/gate/open/mangrove_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/mangrove_gate", ///south
-        "textures/blocks/extra/gate/side/mangrove_gate", ///west
-        "textures/blocks/extra/gate/mangrove_gate", ///north
-        "textures/blocks/extra/gate/side/mangrove_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/mangrove_gate", ///south
-        "textures/blocks/extra/gate/open/mangrove_gate", ///west
-        "textures/blocks/extra/gate/side/mangrove_gate", ///north
-        "textures/blocks/extra/gate/open/mangrove_gate"  ///east
-      ]
-    },
-    "mangrove_gate_east": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/mangrove_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/mangrove_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/mangrove_gate", ///west
-        "textures/blocks/extra/gate/side/mangrove_gate", ///north
-        "textures/blocks/extra/gate/mangrove_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/mangrove_gate", ///south
-        "textures/blocks/extra/gate/side/mangrove_gate", ///west
-        "textures/blocks/extra/gate/open/mangrove_gate", ///north
-        "textures/blocks/extra/gate/side/mangrove_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/mangrove_gate", ///south
-        "textures/blocks/extra/gate/mangrove_gate", ///west
-        "textures/blocks/extra/gate/side/mangrove_gate", ///north
-        "textures/blocks/extra/gate/mangrove_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/mangrove_gate", ///south
-        "textures/blocks/extra/gate/side/mangrove_gate", ///west
-        "textures/blocks/extra/gate/open/mangrove_gate", ///north
-        "textures/blocks/extra/gate/side/mangrove_gate"  ///east
-      ]
-    },
-    "mangrove_gate_south": {
-      "textures": [
-        "textures/blocks/extra/gate/sw/mangrove_gate", ///south
-        "textures/blocks/extra/gate/side/mangrove_gate", ///west
-        "textures/blocks/extra/gate/sw/mangrove_gate", ///north
-        "textures/blocks/extra/gate/side/mangrove_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/mangrove_gate", ///south
-        "textures/blocks/extra/gate/open/mangrove_gate", ///west
-        "textures/blocks/extra/gate/side/mangrove_gate", ///north
-        "textures/blocks/extra/gate/open/mangrove_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/sw/mangrove_gate", ///south
-        "textures/blocks/extra/gate/side/mangrove_gate", ///west
-        "textures/blocks/extra/gate/sw/mangrove_gate", ///north
-        "textures/blocks/extra/gate/side/mangrove_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/mangrove_gate", ///south
-        "textures/blocks/extra/gate/open/mangrove_gate", ///west
-        "textures/blocks/extra/gate/side/mangrove_gate", ///north
-        "textures/blocks/extra/gate/open/mangrove_gate"  ///east
-      ]
-    },
-    "mangrove_gate_west": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/mangrove_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/mangrove_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/sw/mangrove_gate", ///west
-        "textures/blocks/extra/gate/side/mangrove_gate", ///north
-        "textures/blocks/extra/gate/sw/mangrove_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/mangrove_gate", ///south
-        "textures/blocks/extra/gate/side/mangrove_gate", ///west
-        "textures/blocks/extra/gate/open/mangrove_gate", ///north
-        "textures/blocks/extra/gate/side/mangrove_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/mangrove_gate", ///south
-        "textures/blocks/extra/gate/sw/mangrove_gate", ///west
-        "textures/blocks/extra/gate/side/mangrove_gate", ///north
-        "textures/blocks/extra/gate/sw/mangrove_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/mangrove_gate", ///south
-        "textures/blocks/extra/gate/side/mangrove_gate", ///west
-        "textures/blocks/extra/gate/open/mangrove_gate", ///north
-        "textures/blocks/extra/gate/side/mangrove_gate"  ///east
-      ]
-    },
-    "pale_oak_gate_north": {
-      "textures": [
-        "textures/blocks/extra/gate/pale_oak_gate", ///south
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///west
-        "textures/blocks/extra/gate/pale_oak_gate", ///north
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///south
-        "textures/blocks/extra/gate/open/pale_oak_gate", ///west
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///north
-        "textures/blocks/extra/gate/open/pale_oak_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/pale_oak_gate", ///south
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///west
-        "textures/blocks/extra/gate/pale_oak_gate", ///north
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///south
-        "textures/blocks/extra/gate/open/pale_oak_gate", ///west
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///north
-        "textures/blocks/extra/gate/open/pale_oak_gate"  ///east
-      ]
-    },
-    "pale_oak_gate_east": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/pale_oak_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/pale_oak_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/pale_oak_gate", ///west
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///north
-        "textures/blocks/extra/gate/pale_oak_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/pale_oak_gate", ///south
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///west
-        "textures/blocks/extra/gate/open/pale_oak_gate", ///north
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///south
-        "textures/blocks/extra/gate/pale_oak_gate", ///west
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///north
-        "textures/blocks/extra/gate/pale_oak_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/pale_oak_gate", ///south
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///west
-        "textures/blocks/extra/gate/open/pale_oak_gate", ///north
-        "textures/blocks/extra/gate/side/pale_oak_gate"  ///east
-      ]
-    },
-    "pale_oak_gate_south": {
-      "textures": [
-        "textures/blocks/extra/gate/sw/pale_oak_gate", ///south
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///west
-        "textures/blocks/extra/gate/sw/pale_oak_gate", ///north
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///south
-        "textures/blocks/extra/gate/open/pale_oak_gate", ///west
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///north
-        "textures/blocks/extra/gate/open/pale_oak_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/sw/pale_oak_gate", ///south
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///west
-        "textures/blocks/extra/gate/sw/pale_oak_gate", ///north
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///south
-        "textures/blocks/extra/gate/open/pale_oak_gate", ///west
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///north
-        "textures/blocks/extra/gate/open/pale_oak_gate"  ///east
-      ]
-    },
-    "pale_oak_gate_west": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/pale_oak_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/pale_oak_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/sw/pale_oak_gate", ///west
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///north
-        "textures/blocks/extra/gate/sw/pale_oak_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/pale_oak_gate", ///south
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///west
-        "textures/blocks/extra/gate/open/pale_oak_gate", ///north
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///south
-        "textures/blocks/extra/gate/sw/pale_oak_gate", ///west
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///north
-        "textures/blocks/extra/gate/sw/pale_oak_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/pale_oak_gate", ///south
-        "textures/blocks/extra/gate/side/pale_oak_gate", ///west
-        "textures/blocks/extra/gate/open/pale_oak_gate", ///north
-        "textures/blocks/extra/gate/side/pale_oak_gate"  ///east
-      ]
-    },
-    "cherry_gate_north": {
-      "textures": [
-        "textures/blocks/extra/gate/cherry_gate", ///south
-        "textures/blocks/extra/gate/side/cherry_gate", ///west
-        "textures/blocks/extra/gate/cherry_gate", ///north
-        "textures/blocks/extra/gate/side/cherry_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/cherry_gate", ///south
-        "textures/blocks/extra/gate/open/cherry_gate", ///west
-        "textures/blocks/extra/gate/side/cherry_gate", ///north
-        "textures/blocks/extra/gate/open/cherry_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/cherry_gate", ///south
-        "textures/blocks/extra/gate/side/cherry_gate", ///west
-        "textures/blocks/extra/gate/cherry_gate", ///north
-        "textures/blocks/extra/gate/side/cherry_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/cherry_gate", ///south
-        "textures/blocks/extra/gate/open/cherry_gate", ///west
-        "textures/blocks/extra/gate/side/cherry_gate", ///north
-        "textures/blocks/extra/gate/open/cherry_gate"  ///east
-      ]
-    },
-    "cherry_gate_east": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/cherry_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/cherry_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/cherry_gate", ///west
-        "textures/blocks/extra/gate/side/cherry_gate", ///north
-        "textures/blocks/extra/gate/cherry_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/cherry_gate", ///south
-        "textures/blocks/extra/gate/side/cherry_gate", ///west
-        "textures/blocks/extra/gate/open/cherry_gate", ///north
-        "textures/blocks/extra/gate/side/cherry_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/cherry_gate", ///south
-        "textures/blocks/extra/gate/cherry_gate", ///west
-        "textures/blocks/extra/gate/side/cherry_gate", ///north
-        "textures/blocks/extra/gate/cherry_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/cherry_gate", ///south
-        "textures/blocks/extra/gate/side/cherry_gate", ///west
-        "textures/blocks/extra/gate/open/cherry_gate", ///north
-        "textures/blocks/extra/gate/side/cherry_gate"  ///east
-      ]
-    },
-    "cherry_gate_south": {
-      "textures": [
-        "textures/blocks/extra/gate/sw/cherry_gate", ///south
-        "textures/blocks/extra/gate/side/cherry_gate", ///west
-        "textures/blocks/extra/gate/sw/cherry_gate", ///north
-        "textures/blocks/extra/gate/side/cherry_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/cherry_gate", ///south
-        "textures/blocks/extra/gate/open/cherry_gate", ///west
-        "textures/blocks/extra/gate/side/cherry_gate", ///north
-        "textures/blocks/extra/gate/open/cherry_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/sw/cherry_gate", ///south
-        "textures/blocks/extra/gate/side/cherry_gate", ///west
-        "textures/blocks/extra/gate/sw/cherry_gate", ///north
-        "textures/blocks/extra/gate/side/cherry_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/cherry_gate", ///south
-        "textures/blocks/extra/gate/open/cherry_gate", ///west
-        "textures/blocks/extra/gate/side/cherry_gate", ///north
-        "textures/blocks/extra/gate/open/cherry_gate"  ///east
-      ]
-    },
-    "cherry_gate_west": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/cherry_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/cherry_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/sw/cherry_gate", ///west
-        "textures/blocks/extra/gate/side/cherry_gate", ///north
-        "textures/blocks/extra/gate/sw/cherry_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/cherry_gate", ///south
-        "textures/blocks/extra/gate/side/cherry_gate", ///west
-        "textures/blocks/extra/gate/open/cherry_gate", ///north
-        "textures/blocks/extra/gate/side/cherry_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/cherry_gate", ///south
-        "textures/blocks/extra/gate/sw/cherry_gate", ///west
-        "textures/blocks/extra/gate/side/cherry_gate", ///north
-        "textures/blocks/extra/gate/sw/cherry_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/cherry_gate", ///south
-        "textures/blocks/extra/gate/side/cherry_gate", ///west
-        "textures/blocks/extra/gate/open/cherry_gate", ///north
-        "textures/blocks/extra/gate/side/cherry_gate"  ///east
-      ]
-    },
-    "spruce_gate_north": {
-      "textures": [
-        "textures/blocks/extra/gate/spruce_gate", ///south
-        "textures/blocks/extra/gate/side/spruce_gate", ///west
-        "textures/blocks/extra/gate/spruce_gate", ///north
-        "textures/blocks/extra/gate/side/spruce_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/spruce_gate", ///south
-        "textures/blocks/extra/gate/open/spruce_gate", ///west
-        "textures/blocks/extra/gate/side/spruce_gate", ///north
-        "textures/blocks/extra/gate/open/spruce_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/spruce_gate", ///south
-        "textures/blocks/extra/gate/side/spruce_gate", ///west
-        "textures/blocks/extra/gate/spruce_gate", ///north
-        "textures/blocks/extra/gate/side/spruce_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/spruce_gate", ///south
-        "textures/blocks/extra/gate/open/spruce_gate", ///west
-        "textures/blocks/extra/gate/side/spruce_gate", ///north
-        "textures/blocks/extra/gate/open/spruce_gate"  ///east
-      ]
-    },
-    "spruce_gate_east": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/spruce_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/spruce_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/spruce_gate", ///west
-        "textures/blocks/extra/gate/side/spruce_gate", ///north
-        "textures/blocks/extra/gate/spruce_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/spruce_gate", ///south
-        "textures/blocks/extra/gate/side/spruce_gate", ///west
-        "textures/blocks/extra/gate/open/spruce_gate", ///north
-        "textures/blocks/extra/gate/side/spruce_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/spruce_gate", ///south
-        "textures/blocks/extra/gate/spruce_gate", ///west
-        "textures/blocks/extra/gate/side/spruce_gate", ///north
-        "textures/blocks/extra/gate/spruce_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/spruce_gate", ///south
-        "textures/blocks/extra/gate/side/spruce_gate", ///west
-        "textures/blocks/extra/gate/open/spruce_gate", ///north
-        "textures/blocks/extra/gate/side/spruce_gate"  ///east
-      ]
-    },
-    "spruce_gate_south": {
-      "textures": [
-        "textures/blocks/extra/gate/sw/spruce_gate", ///south
-        "textures/blocks/extra/gate/side/spruce_gate", ///west
-        "textures/blocks/extra/gate/sw/spruce_gate", ///north
-        "textures/blocks/extra/gate/side/spruce_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/spruce_gate", ///south
-        "textures/blocks/extra/gate/open/spruce_gate", ///west
-        "textures/blocks/extra/gate/side/spruce_gate", ///north
-        "textures/blocks/extra/gate/open/spruce_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/sw/spruce_gate", ///south
-        "textures/blocks/extra/gate/side/spruce_gate", ///west
-        "textures/blocks/extra/gate/sw/spruce_gate", ///north
-        "textures/blocks/extra/gate/side/spruce_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/spruce_gate", ///south
-        "textures/blocks/extra/gate/open/spruce_gate", ///west
-        "textures/blocks/extra/gate/side/spruce_gate", ///north
-        "textures/blocks/extra/gate/open/spruce_gate"  ///east
-      ]
-    },
-    "spruce_gate_west": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/spruce_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/spruce_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/sw/spruce_gate", ///west
-        "textures/blocks/extra/gate/side/spruce_gate", ///north
-        "textures/blocks/extra/gate/sw/spruce_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/spruce_gate", ///south
-        "textures/blocks/extra/gate/side/spruce_gate", ///west
-        "textures/blocks/extra/gate/open/spruce_gate", ///north
-        "textures/blocks/extra/gate/side/spruce_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/spruce_gate", ///south
-        "textures/blocks/extra/gate/sw/spruce_gate", ///west
-        "textures/blocks/extra/gate/side/spruce_gate", ///north
-        "textures/blocks/extra/gate/sw/spruce_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/spruce_gate", ///south
-        "textures/blocks/extra/gate/side/spruce_gate", ///west
-        "textures/blocks/extra/gate/open/spruce_gate", ///north
-        "textures/blocks/extra/gate/side/spruce_gate"  ///east
-      ]
-    },
-    "warped_gate_north": {
-      "textures": [
-        "textures/blocks/extra/gate/warped_gate", ///south
-        "textures/blocks/extra/gate/side/warped_gate", ///west
-        "textures/blocks/extra/gate/warped_gate", ///north
-        "textures/blocks/extra/gate/side/warped_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/warped_gate", ///south
-        "textures/blocks/extra/gate/open/warped_gate", ///west
-        "textures/blocks/extra/gate/side/warped_gate", ///north
-        "textures/blocks/extra/gate/open/warped_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/warped_gate", ///south
-        "textures/blocks/extra/gate/side/warped_gate", ///west
-        "textures/blocks/extra/gate/warped_gate", ///north
-        "textures/blocks/extra/gate/side/warped_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/warped_gate", ///south
-        "textures/blocks/extra/gate/open/warped_gate", ///west
-        "textures/blocks/extra/gate/side/warped_gate", ///north
-        "textures/blocks/extra/gate/open/warped_gate"  ///east
-      ]
-    },
-    "warped_gate_east": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/warped_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/warped_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/warped_gate", ///west
-        "textures/blocks/extra/gate/side/warped_gate", ///north
-        "textures/blocks/extra/gate/warped_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/warped_gate", ///south
-        "textures/blocks/extra/gate/side/warped_gate", ///west
-        "textures/blocks/extra/gate/open/warped_gate", ///north
-        "textures/blocks/extra/gate/side/warped_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/warped_gate", ///south
-        "textures/blocks/extra/gate/warped_gate", ///west
-        "textures/blocks/extra/gate/side/warped_gate", ///north
-        "textures/blocks/extra/gate/warped_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/warped_gate", ///south
-        "textures/blocks/extra/gate/side/warped_gate", ///west
-        "textures/blocks/extra/gate/open/warped_gate", ///north
-        "textures/blocks/extra/gate/side/warped_gate"  ///east
-      ]
-    },
-    "warped_gate_south": {
-      "textures": [
-        "textures/blocks/extra/gate/sw/warped_gate", ///south
-        "textures/blocks/extra/gate/side/warped_gate", ///west
-        "textures/blocks/extra/gate/sw/warped_gate", ///north
-        "textures/blocks/extra/gate/side/warped_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/warped_gate", ///south
-        "textures/blocks/extra/gate/open/warped_gate", ///west
-        "textures/blocks/extra/gate/side/warped_gate", ///north
-        "textures/blocks/extra/gate/open/warped_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/sw/warped_gate", ///south
-        "textures/blocks/extra/gate/side/warped_gate", ///west
-        "textures/blocks/extra/gate/sw/warped_gate", ///north
-        "textures/blocks/extra/gate/side/warped_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/warped_gate", ///south
-        "textures/blocks/extra/gate/open/warped_gate", ///west
-        "textures/blocks/extra/gate/side/warped_gate", ///north
-        "textures/blocks/extra/gate/open/warped_gate"  ///east
-      ]
-    },
-    "warped_gate_west": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/warped_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/warped_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/sw/warped_gate", ///west
-        "textures/blocks/extra/gate/side/warped_gate", ///north
-        "textures/blocks/extra/gate/sw/warped_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/warped_gate", ///south
-        "textures/blocks/extra/gate/side/warped_gate", ///west
-        "textures/blocks/extra/gate/open/warped_gate", ///north
-        "textures/blocks/extra/gate/side/warped_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/warped_gate", ///south
-        "textures/blocks/extra/gate/sw/warped_gate", ///west
-        "textures/blocks/extra/gate/side/warped_gate", ///north
-        "textures/blocks/extra/gate/sw/warped_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/warped_gate", ///south
-        "textures/blocks/extra/gate/side/warped_gate", ///west
-        "textures/blocks/extra/gate/open/warped_gate", ///north
-        "textures/blocks/extra/gate/side/warped_gate"  ///east
-      ]
-    },
-    "crimson_gate_north": {
-      "textures": [
-        "textures/blocks/extra/gate/crimson_gate", ///south
-        "textures/blocks/extra/gate/side/crimson_gate", ///west
-        "textures/blocks/extra/gate/crimson_gate", ///north
-        "textures/blocks/extra/gate/side/crimson_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/crimson_gate", ///south
-        "textures/blocks/extra/gate/open/crimson_gate", ///west
-        "textures/blocks/extra/gate/side/crimson_gate", ///north
-        "textures/blocks/extra/gate/open/crimson_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/crimson_gate", ///south
-        "textures/blocks/extra/gate/side/crimson_gate", ///west
-        "textures/blocks/extra/gate/crimson_gate", ///north
-        "textures/blocks/extra/gate/side/crimson_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/crimson_gate", ///south
-        "textures/blocks/extra/gate/open/crimson_gate", ///west
-        "textures/blocks/extra/gate/side/crimson_gate", ///north
-        "textures/blocks/extra/gate/open/crimson_gate"  ///east
-      ]
-    },
-    "crimson_gate_east": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/crimson_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/crimson_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/crimson_gate", ///west
-        "textures/blocks/extra/gate/side/crimson_gate", ///north
-        "textures/blocks/extra/gate/crimson_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/crimson_gate", ///south
-        "textures/blocks/extra/gate/side/crimson_gate", ///west
-        "textures/blocks/extra/gate/open/crimson_gate", ///north
-        "textures/blocks/extra/gate/side/crimson_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/crimson_gate", ///south
-        "textures/blocks/extra/gate/crimson_gate", ///west
-        "textures/blocks/extra/gate/side/crimson_gate", ///north
-        "textures/blocks/extra/gate/crimson_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/crimson_gate", ///south
-        "textures/blocks/extra/gate/side/crimson_gate", ///west
-        "textures/blocks/extra/gate/open/crimson_gate", ///north
-        "textures/blocks/extra/gate/side/crimson_gate"  ///east
-      ]
-    },
-    "crimson_gate_south": {
-      "textures": [
-        "textures/blocks/extra/gate/sw/crimson_gate", ///south
-        "textures/blocks/extra/gate/side/crimson_gate", ///west
-        "textures/blocks/extra/gate/sw/crimson_gate", ///north
-        "textures/blocks/extra/gate/side/crimson_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/crimson_gate", ///south
-        "textures/blocks/extra/gate/open/crimson_gate", ///west
-        "textures/blocks/extra/gate/side/crimson_gate", ///north
-        "textures/blocks/extra/gate/open/crimson_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/sw/crimson_gate", ///south
-        "textures/blocks/extra/gate/side/crimson_gate", ///west
-        "textures/blocks/extra/gate/sw/crimson_gate", ///north
-        "textures/blocks/extra/gate/side/crimson_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/side/crimson_gate", ///south
-        "textures/blocks/extra/gate/open/crimson_gate", ///west
-        "textures/blocks/extra/gate/side/crimson_gate", ///north
-        "textures/blocks/extra/gate/open/crimson_gate"  ///east
-      ]
-    },
-    "crimson_gate_west": {
-      "textures": [
-        {
-          "variations": [
-            {
-              "path": "textures/blocks/extra/gate/crimson_gate",
-              "weight": 0.05
-            },
-            {
-              "path": "textures/blocks/extra/gate/side/crimson_gate",
-              "weight": 10000
-            }
-          ]
-        }, ///south
-        "textures/blocks/extra/gate/sw/crimson_gate", ///west
-        "textures/blocks/extra/gate/side/crimson_gate", ///north
-        "textures/blocks/extra/gate/sw/crimson_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/crimson_gate", ///south
-        "textures/blocks/extra/gate/side/crimson_gate", ///west
-        "textures/blocks/extra/gate/open/crimson_gate", ///north
-        "textures/blocks/extra/gate/side/crimson_gate", ///east
-        ///wall
-        "textures/blocks/extra/gate/side/crimson_gate", ///south
-        "textures/blocks/extra/gate/sw/crimson_gate", ///west
-        "textures/blocks/extra/gate/side/crimson_gate", ///north
-        "textures/blocks/extra/gate/sw/crimson_gate", ///east
-        ///open
-        "textures/blocks/extra/gate/open/crimson_gate", ///south
-        "textures/blocks/extra/gate/side/crimson_gate", ///west
-        "textures/blocks/extra/gate/open/crimson_gate", ///north
-        "textures/blocks/extra/gate/side/crimson_gate"  ///east
-      ]
-    },
-    "polished_blackstone_slab": {
-      "textures": "textures/blocks/extra/slab/polished_blackstone"
-    },
-    "polished_blackstone_slab": {
-      "textures": "textures/blocks/extra/slab/polished_blackstone"
-    },
-    "polished_blackstone_slab": {
-      "textures": "textures/blocks/extra/slab/polished_blackstone"
-    },
-    "polished_blackstone_slab": {
-      "textures": "textures/blocks/extra/slab/polished_blackstone"
-    },
-    "polished_blackstone_slab": {
-      "textures": "textures/blocks/extra/slab/polished_blackstone"
-    },
-    "polished_blackstone_slab": {
-      "textures": "textures/blocks/extra/slab/polished_blackstone"
-    },
-    "sandstone_slab_side": {
-      "textures": "textures/blocks/extra/slab/sandstone_normal"
-    },
-    "red_sandstone_slab_side": {
-      "textures": "textures/blocks/extra/slab/red_sandstone_normal"
-    },
-    "polished_andesite_slab_side": {
-      "textures": "textures/blocks/extra/slab/stone_andesite_smooth"
-    },
-    "polished_tuff_side_slab": {
-      "textures": "textures/blocks/extra/slab/polished_tuff"
-    },
-    "polished_diorite_slab_side": {
-      "textures": "textures/blocks/extra/slab/stone_diorite_smooth"
-    },
-    "polished_granite_slab_side": {
-      "textures": "textures/blocks/extra/slab/stone_granite_smooth"
-    },
-    "polished_deepslate_slab_side": {
-      "textures": "textures/blocks/extra/slab/polished_deepslate"
-    },
-    "quartz_slab_side_wow": {
-      "textures": "textures/blocks/extra/slab/quartz_block_side"
-    },
-    "cut_sandstone_slab_side_n": {
-      "textures": "textures/blocks/extra/slab/sandstone_smooth"
-    },
-    "cut_red_sandstone_slab_side_n": {
-      "textures": "textures/blocks/extra/slab/red_sandstone_smooth"
-    },
-    "polished_blackstone_button_b": {
-      "textures": "textures/blocks/extra/button/polished_blackstone"
-    },
+    ////////////////////////////
+    //// Trapdoors
+    ////////////////////////////
     "trapdoor_td": {
       "textures": [
 	  ///bottom closed
@@ -27418,6 +26030,1842 @@
         "textures/blocks/weathered_copper_trapdoor", 
         "textures/blocks/weathered_copper_trapdoor"  
       ]
+    },
+    ////////////////////////////
+    //// Buttons
+    ////////////////////////////
+    "polished_blackstone_button_b": {
+      "textures": "textures/blocks/extra/button/polished_blackstone"
+    },
+    "oak_button_down": {
+      "textures": "textures/blocks/extra/button/oak/down"
+    },
+    "oak_button_east": {
+      "textures": "textures/blocks/extra/button/oak/east"
+    },
+    "oak_button_north": {
+      "textures": "textures/blocks/extra/button/oak/north"
+    },
+    "oak_button_south": {
+      "textures": "textures/blocks/extra/button/oak/south"
+    },
+    "oak_button_up": {
+      "textures": "textures/blocks/extra/button/oak/up"
+    },
+    "oak_button_west": {
+      "textures": "textures/blocks/extra/button/oak/west"
+    },
+    "acacia_button_down": {
+      "textures": "textures/blocks/extra/button/acacia/down"
+    },
+    "acacia_button_east": {
+      "textures": "textures/blocks/extra/button/acacia/east"
+    },
+    "acacia_button_north": {
+      "textures": "textures/blocks/extra/button/acacia/north"
+    },
+    "acacia_button_south": {
+      "textures": "textures/blocks/extra/button/acacia/south"
+    },
+    "acacia_button_up": {
+      "textures": "textures/blocks/extra/button/acacia/up"
+    },
+    "acacia_button_west": {
+      "textures": "textures/blocks/extra/button/acacia/west"
+    },
+    "dark_oak_button_down": {
+      "textures": "textures/blocks/extra/button/dark_oak/down"
+    },
+    "dark_oak_button_east": {
+      "textures": "textures/blocks/extra/button/dark_oak/east"
+    },
+    "dark_oak_button_north": {
+      "textures": "textures/blocks/extra/button/dark_oak/north"
+    },
+    "dark_oak_button_south": {
+      "textures": "textures/blocks/extra/button/dark_oak/south"
+    },
+    "dark_oak_button_up": {
+      "textures": "textures/blocks/extra/button/dark_oak/up"
+    },
+    "dark_oak_button_west": {
+      "textures": "textures/blocks/extra/button/dark_oak/west"
+    },
+    "birch_button_down": {
+      "textures": "textures/blocks/extra/button/birch/down"
+    },
+    "birch_button_east": {
+      "textures": "textures/blocks/extra/button/birch/east"
+    },
+    "birch_button_north": {
+      "textures": "textures/blocks/extra/button/birch/north"
+    },
+    "birch_button_south": {
+      "textures": "textures/blocks/extra/button/birch/south"
+    },
+    "birch_button_up": {
+      "textures": "textures/blocks/extra/button/birch/up"
+    },
+    "birch_button_west": {
+      "textures": "textures/blocks/extra/button/birch/west"
+    },
+    "jungle_button_down": {
+      "textures": "textures/blocks/extra/button/jungle/down"
+    },
+    "jungle_button_east": {
+      "textures": "textures/blocks/extra/button/jungle/east"
+    },
+    "jungle_button_north": {
+      "textures": "textures/blocks/extra/button/jungle/north"
+    },
+    "jungle_button_south": {
+      "textures": "textures/blocks/extra/button/jungle/south"
+    },
+    "jungle_button_up": {
+      "textures": "textures/blocks/extra/button/jungle/up"
+    },
+    "jungle_button_west": {
+      "textures": "textures/blocks/extra/button/jungle/west"
+    },
+    "mangrove_button_down": {
+      "textures": "textures/blocks/extra/button/mangrove/down"
+    },
+    "mangrove_button_east": {
+      "textures": "textures/blocks/extra/button/mangrove/east"
+    },
+    "mangrove_button_north": {
+      "textures": "textures/blocks/extra/button/mangrove/north"
+    },
+    "mangrove_button_south": {
+      "textures": "textures/blocks/extra/button/mangrove/south"
+    },
+    "mangrove_button_up": {
+      "textures": "textures/blocks/extra/button/mangrove/up"
+    },
+    "mangrove_button_west": {
+      "textures": "textures/blocks/extra/button/mangrove/west"
+    },
+    "pale_oak_button_down": {
+      "textures": "textures/blocks/extra/button/pale_oak/down"
+    },
+    "pale_oak_button_east": {
+      "textures": "textures/blocks/extra/button/pale_oak/east"
+    },
+    "pale_oak_button_north": {
+      "textures": "textures/blocks/extra/button/pale_oak/north"
+    },
+    "pale_oak_button_south": {
+      "textures": "textures/blocks/extra/button/pale_oak/south"
+    },
+    "pale_oak_button_up": {
+      "textures": "textures/blocks/extra/button/pale_oak/up"
+    },
+    "pale_oak_button_west": {
+      "textures": "textures/blocks/extra/button/pale_oak/west"
+    },
+    "cherry_button_down": {
+      "textures": "textures/blocks/extra/button/cherry/down"
+    },
+    "cherry_button_east": {
+      "textures": "textures/blocks/extra/button/cherry/east"
+    },
+    "cherry_button_north": {
+      "textures": "textures/blocks/extra/button/cherry/north"
+    },
+    "cherry_button_south": {
+      "textures": "textures/blocks/extra/button/cherry/south"
+    },
+    "cherry_button_up": {
+      "textures": "textures/blocks/extra/button/cherry/up"
+    },
+    "cherry_button_west": {
+      "textures": "textures/blocks/extra/button/cherry/west"
+    },
+    "spruce_button_down": {
+      "textures": "textures/blocks/extra/button/spruce/down"
+    },
+    "spruce_button_east": {
+      "textures": "textures/blocks/extra/button/spruce/east"
+    },
+    "spruce_button_north": {
+      "textures": "textures/blocks/extra/button/spruce/north"
+    },
+    "spruce_button_south": {
+      "textures": "textures/blocks/extra/button/spruce/south"
+    },
+    "spruce_button_up": {
+      "textures": "textures/blocks/extra/button/spruce/up"
+    },
+    "spruce_button_west": {
+      "textures": "textures/blocks/extra/button/spruce/west"
+    },
+    "warped_button_down": {
+      "textures": "textures/blocks/extra/button/warped/down"
+    },
+    "warped_button_east": {
+      "textures": "textures/blocks/extra/button/warped/east"
+    },
+    "warped_button_north": {
+      "textures": "textures/blocks/extra/button/warped/north"
+    },
+    "warped_button_south": {
+      "textures": "textures/blocks/extra/button/warped/south"
+    },
+    "warped_button_up": {
+      "textures": "textures/blocks/extra/button/warped/up"
+    },
+    "warped_button_west": {
+      "textures": "textures/blocks/extra/button/warped/west"
+    },
+    "crimson_button_down": {
+      "textures": "textures/blocks/extra/button/crimson/down"
+    },
+    "crimson_button_east": {
+      "textures": "textures/blocks/extra/button/crimson/east"
+    },
+    "crimson_button_north": {
+      "textures": "textures/blocks/extra/button/crimson/north"
+    },
+    "crimson_button_south": {
+      "textures": "textures/blocks/extra/button/crimson/south"
+    },
+    "crimson_button_up": {
+      "textures": "textures/blocks/extra/button/crimson/up"
+    },
+    "crimson_button_west": {
+      "textures": "textures/blocks/extra/button/crimson/west"
+    },
+    "poplar_button_down": {
+      "textures": "textures/blocks/extra/button/poplar/down"
+    },
+    "poplar_button_east": {
+      "textures": "textures/blocks/extra/button/poplar/east"
+    },
+    "poplar_button_north": {
+      "textures": "textures/blocks/extra/button/poplar/north"
+    },
+    "poplar_button_south": {
+      "textures": "textures/blocks/extra/button/poplar/south"
+    },
+    "poplar_button_up": {
+      "textures": "textures/blocks/extra/button/poplar/up"
+    },
+    "poplar_button_west": {
+      "textures": "textures/blocks/extra/button/poplar/west"
+    },
+    ////////////////////////////
+    //// Fences & Gates
+    ////////////////////////////
+    "oak_fence_gate_top": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_oak", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/oak/gate_top_ns", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/oak/gate_top_ew", ///west
+        "textures/blocks/extra/gate/oak/gate_top_ns", ///north
+        "textures/blocks/extra/gate/oak/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/oak/gate_top_ns", ///south
+        "textures/blocks/extra/gate/oak/gate_top_ew", ///west
+        "textures/blocks/extra/gate/oak/gate_top_ns", ///north
+        "textures/blocks/extra/gate/oak/gate_top_ew", ///east
+        ///wall
+        "textures/blocks/extra/gate/oak/gate_top_ns", ///south
+        "textures/blocks/extra/gate/oak/gate_top_ew", ///west
+        "textures/blocks/extra/gate/oak/gate_top_ns", ///north
+        "textures/blocks/extra/gate/oak/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/oak/gate_top_ns", ///south
+        "textures/blocks/extra/gate/oak/gate_top_ew", ///west
+        "textures/blocks/extra/gate/oak/gate_top_ns", ///north
+        "textures/blocks/extra/gate/oak/gate_top_ew"  ///east
+      ]
+    },
+    "oak_fence_gate_north": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_oak", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/oak/gate_side_ne", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/oak/gate_side_ne", ///north
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/oak/gate_side_open", ///west
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/oak/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/oak/gate_side_ne", ///south
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/oak/gate_side_ne", ///north
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/oak/gate_side_open", ///west
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/oak/gate_side_open" ///east
+      ]
+    },
+    "oak_fence_gate_east": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_oak", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/oak/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/oak/gate_side_ne", ///west
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/oak/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/oak/gate_side_open", ///south
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/oak/gate_side_open", ///north
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/oak/gate_side_ne", ///west
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/oak/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/oak/gate_side_open", ///south
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/oak/gate_side_open", ///north
+        "textures/blocks/extra/gate/oak/gate_side_sticks"  ///east
+      ]
+    },
+    "oak_fence_gate_south": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_oak", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/oak/gate_side_sw", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/oak/gate_side_sw", ///north
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/oak/gate_side_open", ///west
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/oak/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/oak/gate_side_sw", ///south
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/oak/gate_side_sw", ///north
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/oak/gate_side_open", ///west
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/oak/gate_side_open" ///east
+      ]
+    },
+    "oak_fence_gate_west": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_oak", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/oak/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/oak/gate_side_sw", ///west
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/oak/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/oak/gate_side_open", ///south
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/oak/gate_side_open", ///north
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/oak/gate_side_sw", ///west
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/oak/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/oak/gate_side_open", ///south
+        "textures/blocks/extra/gate/oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/oak/gate_side_open", ///north
+        "textures/blocks/extra/gate/oak/gate_side_sticks"  ///east
+      ]
+    },
+    "acacia_fence_gate_top": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_acacia", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/acacia/gate_top_ns", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/acacia/gate_top_ew", ///west
+        "textures/blocks/extra/gate/acacia/gate_top_ns", ///north
+        "textures/blocks/extra/gate/acacia/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/acacia/gate_top_ns", ///south
+        "textures/blocks/extra/gate/acacia/gate_top_ew", ///west
+        "textures/blocks/extra/gate/acacia/gate_top_ns", ///north
+        "textures/blocks/extra/gate/acacia/gate_top_ew", ///east
+        ///wall
+        "textures/blocks/extra/gate/acacia/gate_top_ns", ///south
+        "textures/blocks/extra/gate/acacia/gate_top_ew", ///west
+        "textures/blocks/extra/gate/acacia/gate_top_ns", ///north
+        "textures/blocks/extra/gate/acacia/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/acacia/gate_top_ns", ///south
+        "textures/blocks/extra/gate/acacia/gate_top_ew", ///west
+        "textures/blocks/extra/gate/acacia/gate_top_ns", ///north
+        "textures/blocks/extra/gate/acacia/gate_top_ew"  ///east
+      ]
+    },
+    "acacia_fence_gate_north": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_acacia", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/acacia/gate_side_ne", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/acacia/gate_side_ne", ///north
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/acacia/gate_side_open", ///west
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/acacia/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/acacia/gate_side_ne", ///south
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/acacia/gate_side_ne", ///north
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/acacia/gate_side_open", ///west
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/acacia/gate_side_open" ///east
+      ]
+    },
+    "acacia_fence_gate_east": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_acacia", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/acacia/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/acacia/gate_side_ne", ///west
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/acacia/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/acacia/gate_side_open", ///south
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/acacia/gate_side_open", ///north
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/acacia/gate_side_ne", ///west
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/acacia/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/acacia/gate_side_open", ///south
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/acacia/gate_side_open", ///north
+        "textures/blocks/extra/gate/acacia/gate_side_sticks"  ///east
+      ]
+    },
+    "acacia_fence_gate_south": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_acacia", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/acacia/gate_side_sw", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/acacia/gate_side_sw", ///north
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/acacia/gate_side_open", ///west
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/acacia/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/acacia/gate_side_sw", ///south
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/acacia/gate_side_sw", ///north
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/acacia/gate_side_open", ///west
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/acacia/gate_side_open" ///east
+      ]
+    },
+    "acacia_fence_gate_west": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_acacia", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/acacia/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/acacia/gate_side_sw", ///west
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/acacia/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/acacia/gate_side_open", ///south
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/acacia/gate_side_open", ///north
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/acacia/gate_side_sw", ///west
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/acacia/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/acacia/gate_side_open", ///south
+        "textures/blocks/extra/gate/acacia/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/acacia/gate_side_open", ///north
+        "textures/blocks/extra/gate/acacia/gate_side_sticks"  ///east
+      ]
+    },
+    "birch_fence_gate_top": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_birch", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/birch/gate_top_ns", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/birch/gate_top_ew", ///west
+        "textures/blocks/extra/gate/birch/gate_top_ns", ///north
+        "textures/blocks/extra/gate/birch/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/birch/gate_top_ns", ///south
+        "textures/blocks/extra/gate/birch/gate_top_ew", ///west
+        "textures/blocks/extra/gate/birch/gate_top_ns", ///north
+        "textures/blocks/extra/gate/birch/gate_top_ew", ///east
+        ///wall
+        "textures/blocks/extra/gate/birch/gate_top_ns", ///south
+        "textures/blocks/extra/gate/birch/gate_top_ew", ///west
+        "textures/blocks/extra/gate/birch/gate_top_ns", ///north
+        "textures/blocks/extra/gate/birch/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/birch/gate_top_ns", ///south
+        "textures/blocks/extra/gate/birch/gate_top_ew", ///west
+        "textures/blocks/extra/gate/birch/gate_top_ns", ///north
+        "textures/blocks/extra/gate/birch/gate_top_ew"  ///east
+      ]
+    },
+    "birch_fence_gate_north": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_birch", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/birch/gate_side_ne", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/birch/gate_side_ne", ///north
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/birch/gate_side_open", ///west
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/birch/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/birch/gate_side_ne", ///south
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/birch/gate_side_ne", ///north
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/birch/gate_side_open", ///west
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/birch/gate_side_open" ///east
+      ]
+    },
+    "birch_fence_gate_east": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_birch", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/birch/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/birch/gate_side_ne", ///west
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/birch/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/birch/gate_side_open", ///south
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/birch/gate_side_open", ///north
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/birch/gate_side_ne", ///west
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/birch/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/birch/gate_side_open", ///south
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/birch/gate_side_open", ///north
+        "textures/blocks/extra/gate/birch/gate_side_sticks"  ///east
+      ]
+    },
+    "birch_fence_gate_south": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_birch", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/birch/gate_side_sw", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/birch/gate_side_sw", ///north
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/birch/gate_side_open", ///west
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/birch/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/birch/gate_side_sw", ///south
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/birch/gate_side_sw", ///north
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/birch/gate_side_open", ///west
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/birch/gate_side_open" ///east
+      ]
+    },
+    "birch_fence_gate_west": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_birch", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/birch/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/birch/gate_side_sw", ///west
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/birch/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/birch/gate_side_open", ///south
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/birch/gate_side_open", ///north
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/birch/gate_side_sw", ///west
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/birch/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/birch/gate_side_open", ///south
+        "textures/blocks/extra/gate/birch/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/birch/gate_side_open", ///north
+        "textures/blocks/extra/gate/birch/gate_side_sticks"  ///east
+      ]
+    },
+    "cherry_fence_gate_top": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/cherry_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/cherry/gate_top_ns", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/cherry/gate_top_ew", ///west
+        "textures/blocks/extra/gate/cherry/gate_top_ns", ///north
+        "textures/blocks/extra/gate/cherry/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/cherry/gate_top_ns", ///south
+        "textures/blocks/extra/gate/cherry/gate_top_ew", ///west
+        "textures/blocks/extra/gate/cherry/gate_top_ns", ///north
+        "textures/blocks/extra/gate/cherry/gate_top_ew", ///east
+        ///wall
+        "textures/blocks/extra/gate/cherry/gate_top_ns", ///south
+        "textures/blocks/extra/gate/cherry/gate_top_ew", ///west
+        "textures/blocks/extra/gate/cherry/gate_top_ns", ///north
+        "textures/blocks/extra/gate/cherry/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/cherry/gate_top_ns", ///south
+        "textures/blocks/extra/gate/cherry/gate_top_ew", ///west
+        "textures/blocks/extra/gate/cherry/gate_top_ns", ///north
+        "textures/blocks/extra/gate/cherry/gate_top_ew"  ///east
+      ]
+    },
+    "cherry_fence_gate_north": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/cherry_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/cherry/gate_side_ne", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/cherry/gate_side_ne", ///north
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/cherry/gate_side_open", ///west
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/cherry/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/cherry/gate_side_ne", ///south
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/cherry/gate_side_ne", ///north
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/cherry/gate_side_open", ///west
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/cherry/gate_side_open" ///east
+      ]
+    },
+    "cherry_fence_gate_east": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/cherry_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/cherry/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/cherry/gate_side_ne", ///west
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/cherry/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/cherry/gate_side_open", ///south
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/cherry/gate_side_open", ///north
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/cherry/gate_side_ne", ///west
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/cherry/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/cherry/gate_side_open", ///south
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/cherry/gate_side_open", ///north
+        "textures/blocks/extra/gate/cherry/gate_side_sticks"  ///east
+      ]
+    },
+    "cherry_fence_gate_south": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/cherry_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/cherry/gate_side_sw", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/cherry/gate_side_sw", ///north
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/cherry/gate_side_open", ///west
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/cherry/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/cherry/gate_side_sw", ///south
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/cherry/gate_side_sw", ///north
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/cherry/gate_side_open", ///west
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/cherry/gate_side_open" ///east
+      ]
+    },
+    "cherry_fence_gate_west": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/cherry_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/cherry/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/cherry/gate_side_sw", ///west
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/cherry/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/cherry/gate_side_open", ///south
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/cherry/gate_side_open", ///north
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/cherry/gate_side_sw", ///west
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/cherry/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/cherry/gate_side_open", ///south
+        "textures/blocks/extra/gate/cherry/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/cherry/gate_side_open", ///north
+        "textures/blocks/extra/gate/cherry/gate_side_sticks"  ///east
+      ]
+    },
+    "crimson_fence_gate_top": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/crimson_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/crimson/gate_top_ns", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/crimson/gate_top_ew", ///west
+        "textures/blocks/extra/gate/crimson/gate_top_ns", ///north
+        "textures/blocks/extra/gate/crimson/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/crimson/gate_top_ns", ///south
+        "textures/blocks/extra/gate/crimson/gate_top_ew", ///west
+        "textures/blocks/extra/gate/crimson/gate_top_ns", ///north
+        "textures/blocks/extra/gate/crimson/gate_top_ew", ///east
+        ///wall
+        "textures/blocks/extra/gate/crimson/gate_top_ns", ///south
+        "textures/blocks/extra/gate/crimson/gate_top_ew", ///west
+        "textures/blocks/extra/gate/crimson/gate_top_ns", ///north
+        "textures/blocks/extra/gate/crimson/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/crimson/gate_top_ns", ///south
+        "textures/blocks/extra/gate/crimson/gate_top_ew", ///west
+        "textures/blocks/extra/gate/crimson/gate_top_ns", ///north
+        "textures/blocks/extra/gate/crimson/gate_top_ew"  ///east
+      ]
+    },
+    "crimson_fence_gate_north": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/crimson_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/crimson/gate_side_ne", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/crimson/gate_side_ne", ///north
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/crimson/gate_side_open", ///west
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/crimson/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/crimson/gate_side_ne", ///south
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/crimson/gate_side_ne", ///north
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/crimson/gate_side_open", ///west
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/crimson/gate_side_open" ///east
+      ]
+    },
+    "crimson_fence_gate_east": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/crimson_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/crimson/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/crimson/gate_side_ne", ///west
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/crimson/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/crimson/gate_side_open", ///south
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/crimson/gate_side_open", ///north
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/crimson/gate_side_ne", ///west
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/crimson/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/crimson/gate_side_open", ///south
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/crimson/gate_side_open", ///north
+        "textures/blocks/extra/gate/crimson/gate_side_sticks"  ///east
+      ]
+    },
+    "crimson_fence_gate_south": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/crimson_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/crimson/gate_side_sw", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/crimson/gate_side_sw", ///north
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/crimson/gate_side_open", ///west
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/crimson/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/crimson/gate_side_sw", ///south
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/crimson/gate_side_sw", ///north
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/crimson/gate_side_open", ///west
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/crimson/gate_side_open" ///east
+      ]
+    },
+    "crimson_fence_gate_west": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/crimson_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/crimson/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/crimson/gate_side_sw", ///west
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/crimson/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/crimson/gate_side_open", ///south
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/crimson/gate_side_open", ///north
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/crimson/gate_side_sw", ///west
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/crimson/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/crimson/gate_side_open", ///south
+        "textures/blocks/extra/gate/crimson/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/crimson/gate_side_open", ///north
+        "textures/blocks/extra/gate/crimson/gate_side_sticks"  ///east
+      ]
+    },
+    "dark_oak_fence_gate_top": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_big_oak", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/dark_oak/gate_top_ns", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/dark_oak/gate_top_ew", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_top_ns", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/dark_oak/gate_top_ns", ///south
+        "textures/blocks/extra/gate/dark_oak/gate_top_ew", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_top_ns", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_top_ew", ///east
+        ///wall
+        "textures/blocks/extra/gate/dark_oak/gate_top_ns", ///south
+        "textures/blocks/extra/gate/dark_oak/gate_top_ew", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_top_ns", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/dark_oak/gate_top_ns", ///south
+        "textures/blocks/extra/gate/dark_oak/gate_top_ew", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_top_ns", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_top_ew"  ///east
+      ]
+    },
+    "dark_oak_fence_gate_north": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_big_oak", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/dark_oak/gate_side_ne", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_side_ne", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/dark_oak/gate_side_open", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/dark_oak/gate_side_ne", ///south
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_side_ne", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/dark_oak/gate_side_open", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_side_open" ///east
+      ]
+    },
+    "dark_oak_fence_gate_east": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_big_oak", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/dark_oak/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/dark_oak/gate_side_ne", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/dark_oak/gate_side_open", ///south
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_side_open", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/dark_oak/gate_side_ne", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/dark_oak/gate_side_open", ///south
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_side_open", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks"  ///east
+      ]
+    },
+    "dark_oak_fence_gate_south": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_big_oak", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/dark_oak/gate_side_sw", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_side_sw", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/dark_oak/gate_side_open", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/dark_oak/gate_side_sw", ///south
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_side_sw", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/dark_oak/gate_side_open", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_side_open" ///east
+      ]
+    },
+    "dark_oak_fence_gate_west": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_big_oak", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/dark_oak/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/dark_oak/gate_side_sw", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/dark_oak/gate_side_open", ///south
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_side_open", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/dark_oak/gate_side_sw", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/dark_oak/gate_side_open", ///south
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/dark_oak/gate_side_open", ///north
+        "textures/blocks/extra/gate/dark_oak/gate_side_sticks"  ///east
+      ]
+    },
+    "jungle_fence_gate_top": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_jungle", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/jungle/gate_top_ns", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/jungle/gate_top_ew", ///west
+        "textures/blocks/extra/gate/jungle/gate_top_ns", ///north
+        "textures/blocks/extra/gate/jungle/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/jungle/gate_top_ns", ///south
+        "textures/blocks/extra/gate/jungle/gate_top_ew", ///west
+        "textures/blocks/extra/gate/jungle/gate_top_ns", ///north
+        "textures/blocks/extra/gate/jungle/gate_top_ew", ///east
+        ///wall
+        "textures/blocks/extra/gate/jungle/gate_top_ns", ///south
+        "textures/blocks/extra/gate/jungle/gate_top_ew", ///west
+        "textures/blocks/extra/gate/jungle/gate_top_ns", ///north
+        "textures/blocks/extra/gate/jungle/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/jungle/gate_top_ns", ///south
+        "textures/blocks/extra/gate/jungle/gate_top_ew", ///west
+        "textures/blocks/extra/gate/jungle/gate_top_ns", ///north
+        "textures/blocks/extra/gate/jungle/gate_top_ew"  ///east
+      ]
+    },
+    "jungle_fence_gate_north": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_jungle", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/jungle/gate_side_ne", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/jungle/gate_side_ne", ///north
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/jungle/gate_side_open", ///west
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/jungle/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/jungle/gate_side_ne", ///south
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/jungle/gate_side_ne", ///north
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/jungle/gate_side_open", ///west
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/jungle/gate_side_open" ///east
+      ]
+    },
+    "jungle_fence_gate_east": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_jungle", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/jungle/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/jungle/gate_side_ne", ///west
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/jungle/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/jungle/gate_side_open", ///south
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/jungle/gate_side_open", ///north
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/jungle/gate_side_ne", ///west
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/jungle/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/jungle/gate_side_open", ///south
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/jungle/gate_side_open", ///north
+        "textures/blocks/extra/gate/jungle/gate_side_sticks"  ///east
+      ]
+    },
+    "jungle_fence_gate_south": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_jungle", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/jungle/gate_side_sw", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/jungle/gate_side_sw", ///north
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/jungle/gate_side_open", ///west
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/jungle/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/jungle/gate_side_sw", ///south
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/jungle/gate_side_sw", ///north
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/jungle/gate_side_open", ///west
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/jungle/gate_side_open" ///east
+      ]
+    },
+    "jungle_fence_gate_west": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_jungle", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/jungle/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/jungle/gate_side_sw", ///west
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/jungle/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/jungle/gate_side_open", ///south
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/jungle/gate_side_open", ///north
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/jungle/gate_side_sw", ///west
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/jungle/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/jungle/gate_side_open", ///south
+        "textures/blocks/extra/gate/jungle/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/jungle/gate_side_open", ///north
+        "textures/blocks/extra/gate/jungle/gate_side_sticks"  ///east
+      ]
+    },
+    "mangrove_fence_gate_top": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/mangrove_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/mangrove/gate_top_ns", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/mangrove/gate_top_ew", ///west
+        "textures/blocks/extra/gate/mangrove/gate_top_ns", ///north
+        "textures/blocks/extra/gate/mangrove/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/mangrove/gate_top_ns", ///south
+        "textures/blocks/extra/gate/mangrove/gate_top_ew", ///west
+        "textures/blocks/extra/gate/mangrove/gate_top_ns", ///north
+        "textures/blocks/extra/gate/mangrove/gate_top_ew", ///east
+        ///wall
+        "textures/blocks/extra/gate/mangrove/gate_top_ns", ///south
+        "textures/blocks/extra/gate/mangrove/gate_top_ew", ///west
+        "textures/blocks/extra/gate/mangrove/gate_top_ns", ///north
+        "textures/blocks/extra/gate/mangrove/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/mangrove/gate_top_ns", ///south
+        "textures/blocks/extra/gate/mangrove/gate_top_ew", ///west
+        "textures/blocks/extra/gate/mangrove/gate_top_ns", ///north
+        "textures/blocks/extra/gate/mangrove/gate_top_ew"  ///east
+      ]
+    },
+    "mangrove_fence_gate_north": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/mangrove_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/mangrove/gate_side_ne", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/mangrove/gate_side_ne", ///north
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/mangrove/gate_side_open", ///west
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/mangrove/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/mangrove/gate_side_ne", ///south
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/mangrove/gate_side_ne", ///north
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/mangrove/gate_side_open", ///west
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/mangrove/gate_side_open" ///east
+      ]
+    },
+    "mangrove_fence_gate_east": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/mangrove_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/mangrove/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/mangrove/gate_side_ne", ///west
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/mangrove/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/mangrove/gate_side_open", ///south
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/mangrove/gate_side_open", ///north
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/mangrove/gate_side_ne", ///west
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/mangrove/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/mangrove/gate_side_open", ///south
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/mangrove/gate_side_open", ///north
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks"  ///east
+      ]
+    },
+    "mangrove_fence_gate_south": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/mangrove_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/mangrove/gate_side_sw", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/mangrove/gate_side_sw", ///north
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/mangrove/gate_side_open", ///west
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/mangrove/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/mangrove/gate_side_sw", ///south
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/mangrove/gate_side_sw", ///north
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/mangrove/gate_side_open", ///west
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/mangrove/gate_side_open" ///east
+      ]
+    },
+    "mangrove_fence_gate_west": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/mangrove_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/mangrove/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/mangrove/gate_side_sw", ///west
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/mangrove/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/mangrove/gate_side_open", ///south
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/mangrove/gate_side_open", ///north
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/mangrove/gate_side_sw", ///west
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/mangrove/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/mangrove/gate_side_open", ///south
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/mangrove/gate_side_open", ///north
+        "textures/blocks/extra/gate/mangrove/gate_side_sticks"  ///east
+      ]
+    },
+    "pale_oak_fence_gate_top": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/pale_oak_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/pale_oak/gate_top_ns", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/pale_oak/gate_top_ew", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_top_ns", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/pale_oak/gate_top_ns", ///south
+        "textures/blocks/extra/gate/pale_oak/gate_top_ew", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_top_ns", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_top_ew", ///east
+        ///wall
+        "textures/blocks/extra/gate/pale_oak/gate_top_ns", ///south
+        "textures/blocks/extra/gate/pale_oak/gate_top_ew", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_top_ns", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/pale_oak/gate_top_ns", ///south
+        "textures/blocks/extra/gate/pale_oak/gate_top_ew", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_top_ns", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_top_ew"  ///east
+      ]
+    },
+    "pale_oak_fence_gate_north": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/pale_oak_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/pale_oak/gate_side_ne", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_side_ne", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/pale_oak/gate_side_open", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/pale_oak/gate_side_ne", ///south
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_side_ne", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/pale_oak/gate_side_open", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_side_open" ///east
+      ]
+    },
+    "pale_oak_fence_gate_east": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/pale_oak_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/pale_oak/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/pale_oak/gate_side_ne", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/pale_oak/gate_side_open", ///south
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_side_open", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/pale_oak/gate_side_ne", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/pale_oak/gate_side_open", ///south
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_side_open", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks"  ///east
+      ]
+    },
+    "pale_oak_fence_gate_south": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/pale_oak_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/pale_oak/gate_side_sw", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_side_sw", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/pale_oak/gate_side_open", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/pale_oak/gate_side_sw", ///south
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_side_sw", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/pale_oak/gate_side_open", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_side_open" ///east
+      ]
+    },
+    "pale_oak_fence_gate_west": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/pale_oak_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/pale_oak/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/pale_oak/gate_side_sw", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/pale_oak/gate_side_open", ///south
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_side_open", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/pale_oak/gate_side_sw", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/pale_oak/gate_side_open", ///south
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/pale_oak/gate_side_open", ///north
+        "textures/blocks/extra/gate/pale_oak/gate_side_sticks"  ///east
+      ]
+    },
+    "poplar_fence_gate_top": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/poplar_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/poplar/gate_top_ns", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/poplar/gate_top_ew", ///west
+        "textures/blocks/extra/gate/poplar/gate_top_ns", ///north
+        "textures/blocks/extra/gate/poplar/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/poplar/gate_top_ns", ///south
+        "textures/blocks/extra/gate/poplar/gate_top_ew", ///west
+        "textures/blocks/extra/gate/poplar/gate_top_ns", ///north
+        "textures/blocks/extra/gate/poplar/gate_top_ew", ///east
+        ///wall
+        "textures/blocks/extra/gate/poplar/gate_top_ns", ///south
+        "textures/blocks/extra/gate/poplar/gate_top_ew", ///west
+        "textures/blocks/extra/gate/poplar/gate_top_ns", ///north
+        "textures/blocks/extra/gate/poplar/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/poplar/gate_top_ns", ///south
+        "textures/blocks/extra/gate/poplar/gate_top_ew", ///west
+        "textures/blocks/extra/gate/poplar/gate_top_ns", ///north
+        "textures/blocks/extra/gate/poplar/gate_top_ew"  ///east
+      ]
+    },
+    "poplar_fence_gate_north": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/poplar_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/poplar/gate_side_ne", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/poplar/gate_side_ne", ///north
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/poplar/gate_side_open", ///west
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/poplar/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/poplar/gate_side_ne", ///south
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/poplar/gate_side_ne", ///north
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/poplar/gate_side_open", ///west
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/poplar/gate_side_open" ///east
+      ]
+    },
+    "poplar_fence_gate_east": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/poplar_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/poplar/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/poplar/gate_side_ne", ///west
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/poplar/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/poplar/gate_side_open", ///south
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/poplar/gate_side_open", ///north
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/poplar/gate_side_ne", ///west
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/poplar/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/poplar/gate_side_open", ///south
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/poplar/gate_side_open", ///north
+        "textures/blocks/extra/gate/poplar/gate_side_sticks"  ///east
+      ]
+    },
+    "poplar_fence_gate_south": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/poplar_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/poplar/gate_side_sw", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/poplar/gate_side_sw", ///north
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/poplar/gate_side_open", ///west
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/poplar/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/poplar/gate_side_sw", ///south
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/poplar/gate_side_sw", ///north
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/poplar/gate_side_open", ///west
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/poplar/gate_side_open" ///east
+      ]
+    },
+    "poplar_fence_gate_west": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/poplar_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/poplar/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/poplar/gate_side_sw", ///west
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/poplar/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/poplar/gate_side_open", ///south
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/poplar/gate_side_open", ///north
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/poplar/gate_side_sw", ///west
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/poplar/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/poplar/gate_side_open", ///south
+        "textures/blocks/extra/gate/poplar/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/poplar/gate_side_open", ///north
+        "textures/blocks/extra/gate/poplar/gate_side_sticks"  ///east
+      ]
+    },
+    "spruce_fence_gate_top": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_spruce", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/spruce/gate_top_ns", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/spruce/gate_top_ew", ///west
+        "textures/blocks/extra/gate/spruce/gate_top_ns", ///north
+        "textures/blocks/extra/gate/spruce/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/spruce/gate_top_ns", ///south
+        "textures/blocks/extra/gate/spruce/gate_top_ew", ///west
+        "textures/blocks/extra/gate/spruce/gate_top_ns", ///north
+        "textures/blocks/extra/gate/spruce/gate_top_ew", ///east
+        ///wall
+        "textures/blocks/extra/gate/spruce/gate_top_ns", ///south
+        "textures/blocks/extra/gate/spruce/gate_top_ew", ///west
+        "textures/blocks/extra/gate/spruce/gate_top_ns", ///north
+        "textures/blocks/extra/gate/spruce/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/spruce/gate_top_ns", ///south
+        "textures/blocks/extra/gate/spruce/gate_top_ew", ///west
+        "textures/blocks/extra/gate/spruce/gate_top_ns", ///north
+        "textures/blocks/extra/gate/spruce/gate_top_ew"  ///east
+      ]
+    },
+    "spruce_fence_gate_north": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_spruce", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/spruce/gate_side_ne", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/spruce/gate_side_ne", ///north
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/spruce/gate_side_open", ///west
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/spruce/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/spruce/gate_side_ne", ///south
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/spruce/gate_side_ne", ///north
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/spruce/gate_side_open", ///west
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/spruce/gate_side_open" ///east
+      ]
+    },
+    "spruce_fence_gate_east": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_spruce", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/spruce/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/spruce/gate_side_ne", ///west
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/spruce/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/spruce/gate_side_open", ///south
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/spruce/gate_side_open", ///north
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/spruce/gate_side_ne", ///west
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/spruce/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/spruce/gate_side_open", ///south
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/spruce/gate_side_open", ///north
+        "textures/blocks/extra/gate/spruce/gate_side_sticks"  ///east
+      ]
+    },
+    "spruce_fence_gate_south": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_spruce", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/spruce/gate_side_sw", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/spruce/gate_side_sw", ///north
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/spruce/gate_side_open", ///west
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/spruce/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/spruce/gate_side_sw", ///south
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/spruce/gate_side_sw", ///north
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/spruce/gate_side_open", ///west
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/spruce/gate_side_open" ///east
+      ]
+    },
+    "spruce_fence_gate_west": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/planks_spruce", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/spruce/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/spruce/gate_side_sw", ///west
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/spruce/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/spruce/gate_side_open", ///south
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/spruce/gate_side_open", ///north
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/spruce/gate_side_sw", ///west
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/spruce/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/spruce/gate_side_open", ///south
+        "textures/blocks/extra/gate/spruce/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/spruce/gate_side_open", ///north
+        "textures/blocks/extra/gate/spruce/gate_side_sticks"  ///east
+      ]
+    },
+    "warped_fence_gate_top": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/warped_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/warped/gate_top_ns", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/warped/gate_top_ew", ///west
+        "textures/blocks/extra/gate/warped/gate_top_ns", ///north
+        "textures/blocks/extra/gate/warped/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/warped/gate_top_ns", ///south
+        "textures/blocks/extra/gate/warped/gate_top_ew", ///west
+        "textures/blocks/extra/gate/warped/gate_top_ns", ///north
+        "textures/blocks/extra/gate/warped/gate_top_ew", ///east
+        ///wall
+        "textures/blocks/extra/gate/warped/gate_top_ns", ///south
+        "textures/blocks/extra/gate/warped/gate_top_ew", ///west
+        "textures/blocks/extra/gate/warped/gate_top_ns", ///north
+        "textures/blocks/extra/gate/warped/gate_top_ew", ///east
+        ///open
+        "textures/blocks/extra/gate/warped/gate_top_ns", ///south
+        "textures/blocks/extra/gate/warped/gate_top_ew", ///west
+        "textures/blocks/extra/gate/warped/gate_top_ns", ///north
+        "textures/blocks/extra/gate/warped/gate_top_ew"  ///east
+      ]
+    },
+    "warped_fence_gate_north": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/warped_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/warped/gate_side_ne", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/warped/gate_side_ne", ///north
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/warped/gate_side_open", ///west
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/warped/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/warped/gate_side_ne", ///south
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/warped/gate_side_ne", ///north
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/warped/gate_side_open", ///west
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/warped/gate_side_open" ///east
+      ]
+    },
+    "warped_fence_gate_east": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/warped_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/warped/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/warped/gate_side_ne", ///west
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/warped/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/warped/gate_side_open", ///south
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/warped/gate_side_open", ///north
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/warped/gate_side_ne", ///west
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/warped/gate_side_ne", ///east
+        ///open
+        "textures/blocks/extra/gate/warped/gate_side_open", ///south
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/warped/gate_side_open", ///north
+        "textures/blocks/extra/gate/warped/gate_side_sticks"  ///east
+      ]
+    },
+    "warped_fence_gate_south": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/warped_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/warped/gate_side_sw", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/warped/gate_side_sw", ///north
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/warped/gate_side_open", ///west
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/warped/gate_side_open", ///east
+        ///wall
+        "textures/blocks/extra/gate/warped/gate_side_sw", ///south
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/warped/gate_side_sw", ///north
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///east
+        ///open
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/warped/gate_side_open", ///west
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/warped/gate_side_open" ///east
+      ]
+    },
+    "warped_fence_gate_west": {
+      "textures": [
+        {
+          "variations": [
+            { "path": "textures/blocks/warped_planks", "weight": 0.05 },
+            { "path": "textures/blocks/extra/gate/warped/gate_side_sticks", "weight": 10000 } ] }, ///south
+        "textures/blocks/extra/gate/warped/gate_side_sw", ///west
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/warped/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/warped/gate_side_open", ///south
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/warped/gate_side_open", ///north
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///east
+        ///wall
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///south
+        "textures/blocks/extra/gate/warped/gate_side_sw", ///west
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///north
+        "textures/blocks/extra/gate/warped/gate_side_sw", ///east
+        ///open
+        "textures/blocks/extra/gate/warped/gate_side_open", ///south
+        "textures/blocks/extra/gate/warped/gate_side_sticks", ///west
+        "textures/blocks/extra/gate/warped/gate_side_open", ///north
+        "textures/blocks/extra/gate/warped/gate_side_sticks"  ///east
+      ]
+    },
+    ////////////////////////////
+    //// Slabs
+    ////////////////////////////
+    "polished_blackstone_slab": {
+      "textures": "textures/blocks/extra/slab/polished_blackstone"
+    },
+    "polished_blackstone_slab": {
+      "textures": "textures/blocks/extra/slab/polished_blackstone"
+    },
+    "polished_blackstone_slab": {
+      "textures": "textures/blocks/extra/slab/polished_blackstone"
+    },
+    "polished_blackstone_slab": {
+      "textures": "textures/blocks/extra/slab/polished_blackstone"
+    },
+    "polished_blackstone_slab": {
+      "textures": "textures/blocks/extra/slab/polished_blackstone"
+    },
+    "polished_blackstone_slab": {
+      "textures": "textures/blocks/extra/slab/polished_blackstone"
+    },
+    "sandstone_slab_side": {
+      "textures": "textures/blocks/extra/slab/sandstone_normal"
+    },
+    "red_sandstone_slab_side": {
+      "textures": "textures/blocks/extra/slab/red_sandstone_normal"
+    },
+    "polished_andesite_slab_side": {
+      "textures": "textures/blocks/extra/slab/stone_andesite_smooth"
+    },
+    "polished_tuff_side_slab": {
+      "textures": "textures/blocks/extra/slab/polished_tuff"
+    },
+    "polished_diorite_slab_side": {
+      "textures": "textures/blocks/extra/slab/stone_diorite_smooth"
+    },
+    "polished_granite_slab_side": {
+      "textures": "textures/blocks/extra/slab/stone_granite_smooth"
+    },
+    "polished_deepslate_slab_side": {
+      "textures": "textures/blocks/extra/slab/polished_deepslate"
+    },
+    "quartz_slab_side_wow": {
+      "textures": "textures/blocks/extra/slab/quartz_block_side"
+    },
+    "cut_sandstone_slab_side_n": {
+      "textures": "textures/blocks/extra/slab/sandstone_smooth"
+    },
+    "cut_red_sandstone_slab_side_n": {
+      "textures": "textures/blocks/extra/slab/red_sandstone_smooth"
     },
     "pale_hanging_moss_side": {
       "textures": [

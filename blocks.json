@@ -544,54 +544,142 @@
    ////////////////////////////
    "wooden_button": {
       "sound": "chiseled_bookshelf",
-      "textures": "oak_button"
+      "textures" : {
+         "down" : "oak_button_down",
+         "east" : "oak_button_east",
+         "north" : "oak_button_north",
+         "south" : "oak_button_south",
+         "up" : "oak_button_up",
+         "west" : "oak_button_west"
+		}
    },
    "acacia_button": {
       "sound": "chiseled_bookshelf",
-      "textures": "acacia_button"
+      "textures" : {
+         "down" : "acacia_button_down",
+         "east" : "acacia_button_east",
+         "north" : "acacia_button_north",
+         "south" : "acacia_button_south",
+         "up" : "acacia_button_up",
+         "west" : "acacia_button_west"
+		 }
+   },
+   "dark_oak_button": {
+      "sound": "chiseled_bookshelf",
+      "textures" : {
+         "down" : "dark_oak_button_down",
+         "east" : "dark_oak_button_east",
+         "north" : "dark_oak_button_north",
+         "south" : "dark_oak_button_south",
+         "up" : "dark_oak_button_up",
+         "west" : "dark_oak_button_west"
+		 }
+   },
+   "birch_button": {
+      "sound": "chiseled_bookshelf",
+      "textures" : {
+         "down" : "birch_button_down",
+         "east" : "birch_button_east",
+         "north" : "birch_button_north",
+         "south" : "birch_button_south",
+         "up" : "birch_button_up",
+         "west" : "birch_button_west"
+		 }
+   },
+   "jungle_button": {
+      "sound": "chiseled_bookshelf",
+      "textures" : {
+         "down" : "jungle_button_down",
+         "east" : "jungle_button_east",
+         "north" : "jungle_button_north",
+         "south" : "jungle_button_south",
+         "up" : "jungle_button_up",
+         "west" : "jungle_button_west"
+		 }
+   },
+   "mangrove_button": {
+      "sound": "chiseled_bookshelf",
+      "textures" : {
+         "down" : "mangrove_button_down",
+         "east" : "mangrove_button_east",
+         "north" : "mangrove_button_north",
+         "south" : "mangrove_button_south",
+         "up" : "mangrove_button_up",
+         "west" : "mangrove_button_west"
+		 }
+   },
+   "pale_oak_button": {
+      "sound": "chiseled_bookshelf",
+      "textures" : {
+         "down" : "pale_oak_button_down",
+         "east" : "pale_oak_button_east",
+         "north" : "pale_oak_button_north",
+         "south" : "pale_oak_button_south",
+         "up" : "pale_oak_button_up",
+         "west" : "pale_oak_button_west"
+		 }
+   },
+   "cherry_button": {
+      "sound": "chiseled_bookshelf",
+      "textures" : {
+         "down" : "cherry_button_down",
+         "east" : "cherry_button_east",
+         "north" : "cherry_button_north",
+         "south" : "cherry_button_south",
+         "up" : "cherry_button_up",
+         "west" : "cherry_button_west"
+		 }
+   },
+   "spruce_button": {
+      "sound": "chiseled_bookshelf",
+      "textures" : {
+         "down" : "spruce_button_down",
+         "east" : "spruce_button_east",
+         "north" : "spruce_button_north",
+         "south" : "spruce_button_south",
+         "up" : "spruce_button_up",
+         "west" : "spruce_button_west"
+		 }
+   },
+   "warped_button": {
+      "sound": "chiseled_bookshelf",
+      "textures" : {
+         "down" : "warped_button_down",
+         "east" : "warped_button_east",
+         "north" : "warped_button_north",
+         "south" : "warped_button_south",
+         "up" : "warped_button_up",
+         "west" : "warped_button_west"
+		 }
+   },
+   "crimson_button": {
+      "sound": "chiseled_bookshelf",
+      "textures" : {
+         "down" : "crimson_button_down",
+         "east" : "crimson_button_east",
+         "north" : "crimson_button_north",
+         "south" : "crimson_button_south",
+         "up" : "crimson_button_up",
+         "west" : "crimson_button_west"
+		 }
+   },
+   "poplar_button": {
+      "sound": "chiseled_bookshelf",
+      "textures" : {
+         "down" : "poplar_button_down",
+         "east" : "poplar_button_east",
+         "north" : "poplar_button_north",
+         "south" : "poplar_button_south",
+         "up" : "poplar_button_up",
+         "west" : "poplar_button_west"
+	  }
+   },
+   "polished_blackstone_button": {
+      "textures": "polished_blackstone_button_b"
    },
    "bamboo_button": {
       "sound": "chiseled_bookshelf",
       "textures": "bamboo_button"
-   },
-   "dark_oak_button": {
-      "sound": "chiseled_bookshelf",
-      "textures": "dark_oak_button"
-   },
-   "birch_button": {
-      "sound": "chiseled_bookshelf",
-      "textures": "birch_button"
-   },
-   "jungle_button": {
-      "sound": "chiseled_bookshelf",
-      "textures": "jungle_button"
-   },
-   "mangrove_button": {
-      "sound": "chiseled_bookshelf",
-      "textures": "mangrove_button"
-   },
-   "pale_oak_button": {
-      "sound": "chiseled_bookshelf",
-      "textures": "pale_oak_button"
-   },
-   "cherry_button": {
-      "sound": "chiseled_bookshelf",
-      "textures": "cherry_button"
-   },
-   "spruce_button": {
-      "sound": "chiseled_bookshelf",
-      "textures": "spruce_button"
-   },
-   "warped_button": {
-      "sound": "chiseled_bookshelf",
-      "textures": "warped_button"
-   },
-   "crimson_button": {
-      "sound": "chiseled_bookshelf",
-      "textures": "crimson_button"
-   },
-   "polished_blackstone_button": {
-      "textures": "polished_blackstone_button_b"
    },
 ////////////////////////////
 
@@ -670,12 +758,12 @@
    },
    "acacia_fence_gate": {
       "textures": {
-         "up": "acacia_gate_top",
-         "down": "acacia_gate_top",
-         "north": "acacia_gate_north",
-         "east": "acacia_gate_east",
-         "south": "acacia_gate_south",
-         "west": "acacia_gate"
+         "up": "acacia_fence_gate_top",
+         "down": "acacia_fence_gate_top",
+         "north": "acacia_fence_gate_north",
+         "east": "acacia_fence_gate_east",
+         "south": "acacia_fence_gate_south",
+         "west": "acacia_fence_gate_west"
       }
    },
    "oak_fence": {
@@ -710,12 +798,12 @@
    },
    "dark_oak_fence_gate": {
       "textures": {
-         "up": "dark_oak_gate_top",
-         "down": "dark_oak_gate_top",
-         "north": "dark_oak_gate_north",
-         "east": "dark_oak_gate_east",
-         "south": "dark_oak_gate_south",
-         "west": "dark_oak_gate_west"
+         "up": "dark_oak_fence_gate_top",
+         "down": "dark_oak_fence_gate_top",
+         "north": "dark_oak_fence_gate_north",
+         "east": "dark_oak_fence_gate_east",
+         "south": "dark_oak_fence_gate_south",
+         "west": "dark_oak_fence_gate_west"
       }
    },
    "birch_fence": {
@@ -730,12 +818,12 @@
    },
    "birch_fence_gate": {
       "textures": {
-         "up": "birch_gate_top",
-         "down": "birch_gate_top",
-         "north": "birch_gate_north",
-         "east": "birch_gate_east",
-         "south": "birch_gate_south",
-         "west": "birch_gate_west"
+         "up": "birch_fence_gate_top",
+         "down": "birch_fence_gate_top",
+         "north": "birch_fence_gate_north",
+         "east": "birch_fence_gate_east",
+         "south": "birch_fence_gate_south",
+         "west": "birch_fence_gate_west"
       }
    },
    "jungle_fence": {
@@ -750,12 +838,12 @@
    },
    "jungle_fence_gate": {
       "textures": {
-         "up": "jungle_gate_top",
-         "down": "jungle_gate_top",
-         "north": "jungle_gate_north",
-         "east": "jungle_gate_east",
-         "south": "jungle_gate_south",
-         "west": "jungle_gate_west"
+         "up": "jungle_fence_gate_top",
+         "down": "jungle_fence_gate_top",
+         "north": "jungle_fence_gate_north",
+         "east": "jungle_fence_gate_east",
+         "south": "jungle_fence_gate_south",
+         "west": "jungle_fence_gate_west"
       }
    },
    "mangrove_fence": {
@@ -770,12 +858,12 @@
    },
    "mangrove_fence_gate": {
       "textures": {
-         "up": "mangrove_gate_top",
+         "up": "mangrove_fence_gate_top",
          "down": "mangrove_gate_top",
-         "north": "mangrove_gate_north",
-         "east": "mangrove_gate_east",
-         "south": "mangrove_gate_south",
-         "west": "mangrove_gate_west"
+         "north": "mangrove_fence_gate_north",
+         "east": "mangrove_fence_gate_east",
+         "south": "mangrove_fence_gate_south",
+         "west": "mangrove_fence_gate_west"
       }
    },
    "pale_oak_fence": {
@@ -790,12 +878,12 @@
    },
    "pale_oak_fence_gate": {
       "textures": {
-         "up": "pale_oak_gate_top",
-         "down": "pale_oak_gate_top",
-         "north": "pale_oak_gate_north",
-         "east": "pale_oak_gate_east",
-         "south": "pale_oak_gate_south",
-         "west": "pale_oak_gate_west"
+         "up": "pale_oak_fence_gate_top",
+         "down": "pale_oak_fence_gate_top",
+         "north": "pale_oak_fence_gate_north",
+         "east": "pale_oak_fence_gate_east",
+         "south": "pale_oak_fence_gate_south",
+         "west": "pale_oak_fence_gate_west"
       }
    },
    "cherry_fence": {
@@ -810,12 +898,12 @@
    },
    "cherry_fence_gate": {
       "textures": {
-         "up": "cherry_gate_top",
-         "down": "cherry_gate_top",
-         "north": "cherry_gate_north",
-         "east": "cherry_gate_east",
-         "south": "cherry_gate_south",
-         "west": "cherry_gate_west"
+         "up": "cherry_fence_gate_top",
+         "down": "cherry_fence_gate_top",
+         "north": "cherry_fence_gate_north",
+         "east": "cherry_fence_gate_east",
+         "south": "cherry_fence_gate_south",
+         "west": "cherry_fence_gate_west"
       }
    },
    "spruce_fence": {
@@ -830,12 +918,12 @@
    },
    "spruce_fence_gate": {
       "textures": {
-         "up": "spruce_gate_top",
-         "down": "spruce_gate_top",
-         "north": "spruce_gate_north",
-         "east": "spruce_gate_east",
-         "south": "spruce_gate_south",
-         "west": "spruce_gate_west"
+         "up": "spruce_fence_gate_top",
+         "down": "spruce_fence_gate_top",
+         "north": "spruce_fence_gate_north",
+         "east": "spruce_fence_gate_east",
+         "south": "spruce_fence_gate_south",
+         "west": "spruce_fence_gate_west"
       }
    },
    "warped_fence": {
@@ -850,12 +938,12 @@
    },
    "warped_fence_gate": {
       "textures": {
-         "up": "warped_gate_top",
-         "down": "warped_gate_top",
-         "north": "warped_gate_north",
-         "east": "warped_gate_east",
-         "south": "warped_gate_south",
-         "west": "warped_gate_west"
+         "up": "warped_fence_gate_top",
+         "down": "warped_fence_gate_top",
+         "north": "warped_fence_gate_north",
+         "east": "warped_fence_gate_east",
+         "south": "warped_fence_gate_south",
+         "west": "warped_fence_gate_west"
       }
    },
    "crimson_fence": {
@@ -870,12 +958,12 @@
    },
    "crimson_fence_gate": {
       "textures": {
-         "up": "crimson_gate_top",
-         "down": "crimson_gate_top",
-         "north": "crimson_gate_north",
-         "east": "crimson_gate_east",
-         "south": "crimson_gate_south",
-         "west": "crimson_gate_west"
+         "up": "crimson_fence_gate_top",
+         "down": "crimson_fence_gate_top",
+         "north": "crimson_fence_gate_north",
+         "east": "crimson_fence_gate_east",
+         "south": "crimson_fence_gate_south",
+         "west": "crimson_fence_gate_west"
       }
    },
    "nether_brick_fence": {
@@ -897,12 +985,12 @@
    },
    "poplar_fence_gate": {
       "textures": {
-         "up": "poplar_gate_top",
-         "down": "poplar_gate_top",
-         "north": "poplar_gate_north",
-         "east": "poplar_gate_east",
-         "south": "poplar_gate_south",
-         "west": "poplar_gate_west"
+         "up": "poplar_fence_gate_top",
+         "down": "poplar_fence_gate_top",
+         "north": "poplar_fence_gate_north",
+         "east": "poplar_fence_gate_east",
+         "south": "poplar_fence_gate_south",
+         "west": "poplar_fence_gate_west"
       }
    },
    ////////////////////////////

@@ -1,0 +1,27 @@
+Wood type	Normal texture	MER texture
+
+Poplar:	planks_normal_weak	planks_mer
+
+Spruce:	planks_normal_weak	planks_mer
+
+Oak:	planks_normal	planks_mer
+
+Jungle:	planks_normal	planks_mer
+
+Birch:	planks_normal	planks_mer
+
+Dark Oak:	planks_normal_weak	planks_mer_weak
+
+Acacia:	planks_normal_weak	planks_mer
+
+Pale Oak:	planks_normal	planks_mer
+
+Mangrove:	planks_normal_weak	planks_mer_weak
+
+Warped:	warped_planks_normal	warped_planks_mer
+
+Crimson:	crimson_planks_normal	crimson_planks_mer
+
+Cherry:	planks_normal	planks_mer
+
+Bamboo:	bamboo_planks_normal	bamboo_planks_mer
