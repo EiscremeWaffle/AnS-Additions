@@ -1,0 +1,14 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "minecraft:tnt_minecart",
+      "textures": {
+        "rbvvbe": "textures/eis/minecart/tnt/tnt_top",
+        "mberpd": "textures/eis/minecart/tnt/tnt_side",
+        "umcwap": "textures/eis/minecart/tnt/tnt_bottom"
+      },
+      "min_engine_version": "1.10.0"
+      }
+    }
+  }

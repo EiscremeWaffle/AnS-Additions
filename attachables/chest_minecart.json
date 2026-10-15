@@ -1,0 +1,17 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "minecraft:chest_minecart",
+      "textures": {
+        "chest_minecart": "textures/entity/boat/chest_boat_oak"
+      },
+      "geometry": {
+        "default": "geometry.oreville_ans.ojgmpp",
+        "chest_minecart": "geometry.oreville_ans.cdbsti",
+        "qmucwz": "geometry.oreville_ans.jelgwr"
+      },
+      "min_engine_version": "1.10.0"
+    }
+  }
+}

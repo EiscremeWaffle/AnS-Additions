@@ -23941,53 +23941,57 @@
         "nether_brick_fence_top": {
             "textures": "textures/blocks/extra/fence/nether_brick_fence_top"
         },
+		//Pressure plates
         "oak_pressure_plate": {
-            "textures": "textures/blocks/extra/pressure_plate/oak"
+            "textures": "textures/blocks/extra/pressure_plate/oak/top"
         },
         "acacia_pressure_plate": {
-            "textures": "textures/blocks/extra/pressure_plate/acacia"
+            "textures": "textures/blocks/extra/pressure_plate/acacia/top"
         },
         "bamboo_pressure_plate": {
-            "textures": "textures/blocks/extra/pressure_plate/bamboo"
+            "textures": "textures/blocks/extra/pressure_plate/bamboo/top"
         },
         "crimson_pressure_plate": {
-            "textures": "textures/blocks/extra/pressure_plate/crimson"
+            "textures": "textures/blocks/extra/pressure_plate/crimson/top"
         },
         "warped_pressure_plate": {
-            "textures": "textures/blocks/extra/pressure_plate/warped"
+            "textures": "textures/blocks/extra/pressure_plate/warped/top"
         },
         "dark_oak_pressure_plate": {
-            "textures": "textures/blocks/extra/pressure_plate/dark_oak"
+            "textures": "textures/blocks/extra/pressure_plate/dark_oak/top"
         },
         "pale_oak_pressure_plate": {
-            "textures": "textures/blocks/extra/pressure_plate/pale_oak"
+            "textures": "textures/blocks/extra/pressure_plate/pale_oak/top"
         },
         "birch_pressure_plate": {
-            "textures": "textures/blocks/extra/pressure_plate/birch"
+            "textures": "textures/blocks/extra/pressure_plate/birch/top"
         },
         "spruce_pressure_plate": {
-            "textures": "textures/blocks/extra/pressure_plate/spruce"
+            "textures": "textures/blocks/extra/pressure_plate/spruce/top"
         },
         "mangrove_pressure_plate": {
-            "textures": "textures/blocks/extra/pressure_plate/mangrove"
+            "textures": "textures/blocks/extra/pressure_plate/mangrove/top"
         },
         "cherry_pressure_plate": {
-            "textures": "textures/blocks/extra/pressure_plate/cherry"
+            "textures": "textures/blocks/extra/pressure_plate/cherry/top"
         },
         "jungle_pressure_plate": {
-            "textures": "textures/blocks/extra/pressure_plate/jungle"
+            "textures": "textures/blocks/extra/pressure_plate/jungle/top"
+        },
+        "poplar_pressure_plate": {
+            "textures": "textures/blocks/extra/pressure_plate/poplar/top"
         },
         "gold_pressure_plate": {
-            "textures": "textures/blocks/extra/pressure_plate/gold"
+            "textures": "textures/blocks/extra/pressure_plate/gold/top"
         },
         "stone_pressure_plate": {
-            "textures": "textures/blocks/extra/pressure_plate/stone"
+            "textures": "textures/blocks/extra/pressure_plate/stone/top"
         },
         "iron_pressure_plate": {
-            "textures": "textures/blocks/extra/pressure_plate/iron"
+            "textures": "textures/blocks/extra/pressure_plate/iron/top"
         },
         "polished_blackstone_pressure_plate": {
-            "textures": "textures/blocks/extra/pressure_plate/polished_blackstone"
+            "textures": "textures/blocks/extra/pressure_plate/blackstone/top"
         },
         "beacon_base": {
             "textures": "textures/blocks/extra/beacon_base"
@@ -26271,6 +26275,24 @@
     "bamboo_button_west": {
       "textures": "textures/blocks/extra/button/bamboo/west"
     },
+    "blackstone_button_down": {
+      "textures": "textures/blocks/extra/button/blackstone/down"
+    },
+    "blackstone_button_east": {
+      "textures": "textures/blocks/extra/button/blackstone/east"
+    },
+    "blackstone_button_north": {
+      "textures": "textures/blocks/extra/button/blackstone/north"
+    },
+    "blackstone_button_south": {
+      "textures": "textures/blocks/extra/button/blackstone/south"
+    },
+    "blackstone_button_up": {
+      "textures": "textures/blocks/extra/button/blackstone/up"
+    },
+    "blackstone_button_west": {
+      "textures": "textures/blocks/extra/button/blackstone/west"
+    },
     ////////////////////////////
     //// Fences & Gates
     ////////////////////////////
@@ -28016,14 +28038,17 @@
       "sea_lantern_eis" : {
          "textures" : "textures/blocks/extra/sea_lantern"
       },
-		"hook_base": {
-			"textures": "textures/blocks/extra/trip_wire_hook/tripwire"
+		"tripwire_hook_socket": {
+			"textures": [
+			"textures/blocks/extra/trip_wire_hook/socket",
+        "textures/blocks/extra/beehive/beehive_side_gap_honey"
+		]
 		},
 		"trip_wire_hooked": {
 		"textures": "textures/blocks/extra/trip_wire_hook/trip_wire"
 		},
 		"hook_source": {
-			"textures": "textures/blocks/extra/trip_wire_hook/trip_wire_source"
+			"textures": "textures/blocks/extra/trip_wire_hook/trip_wire_hook"
 		},
 		"gilded_blackstone_top": {
 			"textures": "textures/blocks/extra/gilded_blackstone_top"

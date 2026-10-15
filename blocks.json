@@ -238,7 +238,7 @@
    },
    "tripwire_hook" : {
       "textures" : {
-         "down" : "hook_base",
+         "down" : "tripwire_hook_socket",
          "side" : "trip_wire",
          "up" : "hook_source"
       }
@@ -686,7 +686,14 @@
 	  }
    },
    "polished_blackstone_button": {
-      "textures": "polished_blackstone_button_b"
+      "textures" : {
+         "down" : "blackstone_button_down",
+         "east" : "blackstone_button_east",
+         "north" : "blackstone_button_north",
+         "south" : "blackstone_button_south",
+         "up" : "blackstone_button_up",
+         "west" : "blackstone_button_west"
+	  }
    },
 ////////////////////////////
 
@@ -739,6 +746,10 @@
    "crimson_pressure_plate": {
       "sound": "chiseled_bookshelf",
       "textures": "crimson_pressure_plate"
+   },
+   "poplar_pressure_plate": {
+      "sound": "chiseled_bookshelf",
+      "textures": "poplar_pressure_plate"
    },
    "polished_blackstone_pressure_plate": {
       "textures": "polished_blackstone_pressure_plate"
@@ -1212,8 +1223,11 @@
          "up": "sandstone_slab_top"
       }
    },
-   "polished_tuff_stairs": {
-
+   "sulfur_brick_stairs": {
+      "textures": "polished_sulfur_slab"
+   },
+   "cinnabar_brick_stairs": {
+      "textures": "polished_cinnabar_slab"
    },
    ////////////////////////////
 
@@ -1282,6 +1296,22 @@
          "down" : "polished_deepslate",
          "side" : "polished_deepslate_slab_side",
          "up" : "polished_deepslate"
+      }
+   },
+   "polished_sulfur_slab" : {
+      "sound" : "deepslate",
+      "textures" : {
+         "down" : "polished_sulfur",
+         "side" : "polished_sulfur_slab_side",
+         "up" : "polished_sulfur"
+      }
+   },
+   "polished_cinnabar_slab" : {
+      "sound" : "deepslate",
+      "textures" : {
+         "down" : "polished_cinnabar",
+         "side" : "polished_cinnabar_slab_side",
+         "up" : "polished_cinnabar"
       }
    },
    "quartz_slab" : {
