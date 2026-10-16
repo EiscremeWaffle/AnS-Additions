@@ -1,0 +1,25 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "minecraft:banner",
+      "render_controllers": [
+
+        {
+          "controller.render.eis_ans.helmet": "q.is_owner_identifier_any('minecraft:pillager','minecraft:vindicator','minecraft:evoker')"
+        }
+      ],
+      "min_engine_version": "1.8.0",
+      "geometry": {
+        "pillager_helmet": "geometry.pillager_hat",
+        "vindicator_helmet": "geometry.vindicator_hat",
+        "evoker_helmet": "geometry.evoker_hat"
+      },
+      "textures": {
+        "pillager_helmet": "textures/eis/illager/pillager_hat",
+        "vindicator_helmet": "textures/eis/illager/vindicator_hat",
+        "evoker_helmet": "textures/eis/illager/evoker_hat"
+      }
+    }
+  }
+}

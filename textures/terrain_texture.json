@@ -27898,6 +27898,12 @@
     "polished_deepslate_slab_side": {
       "textures": "textures/blocks/extra/slab/polished_deepslate"
     },
+    "polished_cinnabar_slab_side": {
+      "textures": "textures/blocks/extra/slab/polished_cinnabar"
+    },
+    "polished_sulfur_slab_side": {
+      "textures": "textures/blocks/extra/slab/polished_sulfur"
+    },
     "quartz_slab_side_wow": {
       "textures": "textures/blocks/extra/slab/quartz_block_side"
     },
