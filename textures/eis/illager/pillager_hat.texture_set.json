@@ -1,0 +1,7 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "pillager_hat",
+		"metalness_emissive_roughness": "pillager_hat_mer"
+	}
+}

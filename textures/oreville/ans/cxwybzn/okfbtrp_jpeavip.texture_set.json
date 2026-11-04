@@ -1,0 +1,8 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "okfbtrp_jpeavip",
+		"metalness_emissive_roughness": "okfbtrp_jpeavip_mers",
+		"normal": "okfbtrp_jpeavip_normal"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "bell_stick",
+		"metalness_emissive_roughness": "bell_stick_mer",
+		"normal": "bell_stick_normal"
+	}
+}

@@ -1,0 +1,19 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:cave_spider",
+      "geometry": {
+        "default":"geometry.oreville_ans.uqlqzl",
+        "wlqxdl": "geometry.oreville_ans.uqlqzl"
+      },
+      "textures": {
+        "default": "textures/oreville/ans/ckf"
+      },
+      "scripts": {
+      "scale": "0.5"
+      },
+      "min_engine_version": "1.8.0"
+    }
+  }
+}

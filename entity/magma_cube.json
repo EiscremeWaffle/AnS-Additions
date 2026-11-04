@@ -1,0 +1,14 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:magma_cube",
+      "textures": {
+        "default": "textures/oreville/ans/dcb",
+        "ufvolj": "textures/oreville/ans/dbz",
+        "big": "textures/eis/bigmagma"
+      },
+      "min_engine_version": "1.8.0"
+    }
+  }
+}

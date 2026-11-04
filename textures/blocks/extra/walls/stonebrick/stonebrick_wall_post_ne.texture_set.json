@@ -1,0 +1,8 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "stonebrick_wall_post_ne",
+		"metalness_emissive_roughness": "stonebrick_wall_post_ne_mer",
+		"normal": "stonebrick_wall_post_ne_normal"
+	}
+}

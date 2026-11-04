@@ -1,0 +1,17 @@
+{
+  "format_version": "1.10.0",
+  "render_controllers": {
+    "controller.render.eis_ans.helmet": {
+      "geometry": "q.is_owner_identifier_any('minecraft:pillager')?Geometry.pillager_helmet:q.is_owner_identifier_any('minecraft:vindicator')?Geometry.vindicator_helmet:q.is_owner_identifier_any('minecraft:evoker')?Geometry.evoker_helmet",
+	  
+      "textures": [
+	  "q.is_owner_identifier_any('minecraft:pillager')?Texture.pillager_helmet:q.is_owner_identifier_any('minecraft:vindicator')?Texture.vindicator_helmet:q.is_owner_identifier_any('minecraft:evoker')?Texture.evoker_helmet"
+      ],
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ]
+    }
+  }
+}

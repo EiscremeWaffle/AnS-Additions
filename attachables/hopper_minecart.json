@@ -1,0 +1,14 @@
+{
+  "format_version": "1.26.30",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "minecraft:hopper_minecart",
+      "textures": {
+        "xfryof": "textures/eis/minecart/hopper/hopper_outside",
+        "obypwu": "textures/eis/minecart/hopper/hopper_inside",
+        "rbvvbe": "textures/eis/minecart/hopper/hopper_top"
+      },
+      "min_engine_version": "1.10.0"
+      }
+    }
+  }

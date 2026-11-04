@@ -1,0 +1,216 @@
+{
+  "format_version": "1.10.0",
+  "render_controllers": {
+    "controller.render.oreville_ans.fbkggi": {
+      "arrays": {
+        "geometries": {
+          "Array.epvbkc": [
+            "Geometry.pzmphd",
+            "Geometry.ymoteu",
+            "Geometry.zhldov",
+            "Geometry.fvpbat",
+            "Geometry.pkyidp",
+            "Geometry.clualh",
+            "Geometry.ouwtvr",
+            "Geometry.ddocks",
+            "Geometry.hxgxej",
+            "Geometry.tmylcr",
+            "Geometry.alqqgw",
+            "Geometry.whjcoa",
+            "Geometry.xqubxd",
+            "Geometry.fmibgr",
+            "Geometry.cssiam",
+            "Geometry.lcbqhs",
+            "Geometry.sqcmxe",
+            "Geometry.xicbta",
+            "Geometry.kodrpl",
+            "Geometry.btbzfb",
+            "Geometry.mqftiw",
+            "Geometry.bwzdvh",
+            "Geometry.qjerda",
+            "Geometry.lostkf"
+          ]
+        },
+        "textures": {
+          "Array.ncyhyp": [
+            "Texture.pzmphd",
+            "Texture.ymoteu",
+            "Texture.zhldov",
+            "Texture.fvpbat",
+            "Texture.pkyidp",
+            "Texture.clualh",
+            "Texture.ouwtvr",
+            "Texture.ddocks",
+            "Texture.hxgxej",
+            "Texture.tmylcr",
+            "Texture.alqqgw",
+            "Texture.whjcoa",
+            "Texture.xqubxd",
+            "Texture.fmibgr",
+            "Texture.cssiam",
+            "Texture.lcbqhs",
+            "Texture.sqcmxe",
+            "Texture.xicbta",
+            "Texture.kodrpl",
+            "Texture.btbzfb",
+            "Texture.mqftiw",
+            "Texture.bwzdvh",
+            "Texture.qjerda",
+            "Texture.lostkf"
+          ]
+        }
+      },
+      "geometry": "Array.epvbkc[v.dhvjqp]",
+      "textures": [
+        "Array.ncyhyp[v.dhvjqp]"
+      ],
+      "materials": [
+        {
+          "49a4c6f*": "Material.chicken",
+          "6eakkan6gmldaf6*": "Material.otinlx"
+        },
+        {
+          "*": "Material.irduzd"
+        },
+        {
+          "gmldaf32k642l62j*": "Material.vppzlt"
+        },
+        {
+          "gmldaf32k642lhead*": "Material.vppzlt"
+        },
+        {
+          "gmldaf32k642lheadh9gf6k*": "Material.vppzlt"
+        },
+        {
+          "gmldaf32k642legml9*": "Material.vppzlt"
+        },
+        {
+          "gmldaf32k68a7l*": "Material.vppzlt"
+        },
+        {
+          "gmldaf32k6daima5*": "Material.vppzlt"
+        },
+        {
+          "gmldaf32k6j65klgf6*": "Material.vppzlt"
+        },
+        {
+          "gmldaf32k6j65klgf6lgj49*": "Material.vppzlt"
+        },
+        {
+          "gmldaf32k6l2kkd6*": "Material.vppzlt"
+        },
+        {
+          "gmldaf32k6*": "Material.vppzlt"
+        },
+        {
+          "gmldaf642d4md2lgj*": "Material.uhrqgp"
+        },
+        {
+          "gmldaf642l62j*": "Material.uhrqgp"
+        },
+        {
+          "gmldaf642lhead*": "Material.uhrqgp"
+        },
+        {
+          "gmldaf65ge6*": "Material.uhrqgp"
+        },
+        {
+          "gmldaf66f56jh62jd*": "Material.uhrqgp"
+        },
+        {
+          "gmldaf69ggc*": "Material.uhrqgp"
+        },
+        {
+          "gmldaf6e2l6ja2d*": "Material.uhrqgp"
+        },
+        {
+          "gmldaf6hglagf*": "Material.uhrqgp"
+        },
+        {
+          "gmldaf6j65klgf6lgj49*": "Material.uhrqgp"
+        },
+        {
+          "gmldaf6*": "Material.uhrqgp"
+        },
+        {
+          "6eakkan62fl6ff2*": "Material.mqwxej"
+        },
+        {
+          "6eakkan63666q6k*": "Material.mqwxej"
+        },
+        {
+          "6eakkan6366oaf8k*": "Material.mqwxej"
+        },
+        {
+          "6eakkan65ge6*": "Material.mqwxej"
+        },
+        {
+          "6eakkan66f56je2fhead*": "Material.mqwxej"
+        },
+        {
+          "6eakkan66f56jh62jd*": "Material.mqwxej"
+        },
+        {
+          "6eakkan66q6*": "Material.mqwxej"
+        },
+        {
+          "6eakkan66q6k*": "Material.mqwxej"
+        },
+        {
+          "6eakkan67d2e62je*": "Material.mqwxej"
+        },
+        {
+          "6eakkan67d2e6head*": "Material.mqwxej"
+        },
+        {
+          "6eakkan68g88d6k*": "Material.mqwxej"
+        },
+        {
+          "6eakkan6hat*": "Material.mqwxej"
+        },
+        {
+          "6eakkan6aehhead*": "Material.mqwxej"
+        },
+        {
+          "6eakkan6afn256j*": "Material.mqwxej"
+        },
+        {
+          "6eakkan6d6ll6j*": "Material.mqwxej"
+        },
+        {
+          "6eakkan6ea4jgh9gf6*": "Material.mqwxej"
+        },
+        {
+          "6eakkan6gmldaf6*": "Material.mqwxej"
+        },
+        {
+          "6eakkan6hglagf*": "Material.mqwxej"
+        },
+        {
+          "6eakkan6hglagflgh*": "Material.mqwxej"
+        },
+        {
+          "6eakkan6j6h62l6j*": "Material.mqwxej"
+        },
+        {
+          "6eakkan6j65klgf6*": "Material.mqwxej"
+        },
+        {
+          "6eakkan6j65klgf6lgj49*": "Material.mqwxej"
+        },
+        {
+          "6eakkan6k4j66f*": "Material.mqwxej"
+        },
+        {
+          "6eakkan6klg4caf8*": "Material.mqwxej"
+        },
+        {
+          "6eakkan6kljaf8*": "Material.mqwxej"
+        },
+        {
+          "6eakkan6*": "Material.mqwxej"
+        }
+      ]
+    }
+  }
+}

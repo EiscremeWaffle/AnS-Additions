@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "lodestone_north",
+    "normal": "lodestone_north_normal",
+    "metalness_emissive_roughness": "lodestone_north_mer"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "planks_spruce",
+    "normal": "planks_normal_weak",
+    "metalness_emissive_roughness": "planks_mer"
+  }
+}
