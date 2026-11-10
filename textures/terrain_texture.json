@@ -2218,6 +2218,1741 @@
                 "textures/misc/missing_texture"
             ]
         },
+        "mossy_stone_brick_wall_top": {
+            "textures": [
+                "textures/blocks/stonebrick_mossy", /// Inventory
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=none S=short W=none Post=true
+                "textures/blocks/extra/walls/stonemossy/stone_brick_ns", /// E=none N=short S=short W=none Post=false
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=none S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=none S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=short S=tall W=none Post=true
+                "textures/blocks/extra/walls/stonemossy/stone_brick_ns", /// E=none N=tall S=tall W=none Post=false
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=short S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=short S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_ew", /// E=short N=none S=none W=short Post=false
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_ew", /// E=tall N=none S=none W=tall Post=false
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=none N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=short N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_full", /// E=tall N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture"
+            ]
+        },
+        "mossy_stone_brick_wall_side": {
+            "textures": [
+                "textures/blocks/stonebrick_mossy", /// Inventory
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=none N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=tall N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=tall N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=none S=short W=none Post=true
+                "textures/blocks/extra/walls/stonemossy/stone_brick_side_mossy_short", /// E=none N=short S=short W=none Post=false
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=none N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=none S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=short N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=none S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=tall N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=none N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=none N=short S=tall W=none Post=true
+                "textures/blocks/stonebrick_mossy", /// E=none N=tall S=tall W=none Post=false
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=none N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=short N=short S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=tall N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=tall N=short S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=tall N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_side_mossy_short", /// E=short N=none S=none W=short Post=false
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=none N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=short N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=tall N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=none N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=short N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=tall N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=none N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=none N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/stonebrick_mossy", /// E=tall N=none S=none W=tall Post=false
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=tall N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=tall N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=none N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=short N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=tall N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=none N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=none N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=none N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=short N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=tall N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=tall N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=tall N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture"
+            ]
+        },
+        "mossy_stone_brick_wall_side_north": {
+            "textures": [
+                "textures/blocks/stonebrick_mossy", /// Inventory
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=none N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=tall N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=tall N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=none S=short W=none Post=true
+                "textures/blocks/extra/walls/stonemossy/stone_brick_side_mossy_short", /// E=none N=short S=short W=none Post=false
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=none S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=none S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=none N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=short S=tall W=none Post=true
+                "textures/blocks/stonebrick_mossy", /// E=none N=tall S=tall W=none Post=false
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=none N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=short S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=tall N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=short S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=tall N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_side_mossy_short", /// E=short N=none S=none W=short Post=false
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=tall N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=tall N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=tall N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=tall N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=tall N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=tall N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=short N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=tall N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=tall N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left_ne", /// E=tall N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=none N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=none N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=short N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=short N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=short N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/stonebrick_mossy", /// E=tall N=none S=none W=tall Post=false
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=tall N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=tall N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=short N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=short N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=short N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=none N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=none N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=none N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=short N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=short N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right_ne", /// E=short N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=tall N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_ne", /// E=tall N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_ne", /// E=tall N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture"
+            ]
+        },
+        "mossy_stone_brick_wall_side_south": {
+            "textures": [
+                "textures/blocks/stonebrick_mossy", /// Inventory
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=none N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=tall N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=tall N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=none S=short W=none Post=true
+                "textures/blocks/extra/walls/stonemossy/stone_brick_side_mossy_short", /// E=none N=short S=short W=none Post=false
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=none S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=none S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=none N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=short S=tall W=none Post=true
+                "textures/blocks/stonebrick_mossy", /// E=none N=tall S=tall W=none Post=false
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=none N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=short S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=tall N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=short S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=tall N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_side_mossy_short", /// E=short N=none S=none W=short Post=false
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=tall N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=tall N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=tall N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=tall N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=tall N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=tall N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=tall N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=tall N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=tall N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=none N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=none N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=short N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=short N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=short N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/stonebrick_mossy", /// E=tall N=none S=none W=tall Post=false
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=tall N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=tall N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=short N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=short N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=short N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=none N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=none N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=short N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=short N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=short N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=tall N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=tall N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture"
+            ]
+        },
+        "mossy_stone_brick_wall_side_west": {
+            "textures": [
+                "textures/blocks/stonebrick_mossy", /// Inventory
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=none N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=tall N=none S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=short S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=tall N=tall S=none W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=none S=short W=none Post=true
+                "textures/blocks/extra/walls/stonemossy/stone_brick_side_mossy_short", /// E=none N=short S=short W=none Post=false
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=none N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=none S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=short N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=none S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=short S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=tall N=tall S=short W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=none N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=none N=short S=tall W=none Post=true
+                "textures/blocks/stonebrick_mossy", /// E=none N=tall S=tall W=none Post=false
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=none N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=short N=short S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=tall N=none S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=tall N=short S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=tall N=tall S=tall W=none Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stone_brick_side_mossy_short", /// E=short N=none S=none W=short Post=false
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=none S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=short S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=tall S=none W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=none N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=short N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=none S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=short S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=tall N=tall S=short W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=none N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=short N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=none S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=tall N=short S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=tall S=tall W=short Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=none N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=none N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/stonebrick_mossy", /// E=tall N=none S=none W=tall Post=false
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=tall N=none S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=short S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=tall N=tall S=none W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=none N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=none N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=short N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=none S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=tall N=short S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_right", /// E=tall N=tall S=short W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=none N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=none N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=none N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=short N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short", /// E=short N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=tall N=none S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post_short_left", /// E=tall N=short S=tall W=tall Post=true
+                "textures/misc/missing_texture",
+                "textures/blocks/extra/walls/stonemossy/stonebrick_wall_mossy_post", /// E=tall N=tall S=tall W=tall Post=true
+                "textures/misc/missing_texture"
+            ]
+        },
         "polished_blackstone_wall_top": {
             "textures": [
                 "textures/blocks/polished_blackstone", /// Inventory
@@ -25467,6 +27202,78 @@
         "textures/blocks/extra/trapdoor/cherry_trapdoor_ns", 
         "textures/blocks/cherry_trapdoor", 
         "textures/blocks/cherry_trapdoor"  
+      ]
+    },
+	    "poplar_trapdoor_td": {
+      "textures": [
+	  ///bottom closed
+        "textures/blocks/poplar_trapdoor", 
+        "textures/blocks/poplar_trapdoor", 
+        "textures/blocks/poplar_trapdoor", 
+        "textures/blocks/poplar_trapdoor", 
+        ///top closed
+        "textures/blocks/poplar_trapdoor", 
+        "textures/blocks/poplar_trapdoor", 
+        "textures/blocks/poplar_trapdoor", 
+        "textures/blocks/poplar_trapdoor", 
+        ///bottom open
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns",
+        ///top open
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns"  
+      ]
+    },
+    "poplar_trapdoor_ew": {
+      "textures": [
+	  ///bottom closed
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        ///top closed
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        ///bottom open
+        "textures/blocks/poplar_trapdoor", 
+        "textures/blocks/poplar_trapdoor", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns",
+        ///top open
+        "textures/blocks/poplar_trapdoor", 
+        "textures/blocks/poplar_trapdoor", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns"  
+      ]
+    },
+    "poplar_trapdoor_ns": {
+      "textures": [
+	  ///bottom closed
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        ///top closed
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        ///bottom open
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/poplar_trapdoor", 
+        "textures/blocks/poplar_trapdoor",
+        ///top open
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/extra/trapdoor/poplar_trapdoor_ns", 
+        "textures/blocks/poplar_trapdoor", 
+        "textures/blocks/poplar_trapdoor"  
       ]
     },
     "acacia_trapdoor_t": {

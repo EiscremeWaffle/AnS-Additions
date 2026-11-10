@@ -285,16 +285,6 @@
       "west" : "endframe_side_west"
     }
   },
-   "cocoa" : {
-    "textures" : {
-      "up" : "up",
-      "down" : "down",
-      "north" : "north",
-      "east" : "east",
-      "south" : "south",
-      "west" : "west"
-    }
-   },
 ////////////////////////////
 //// Trapdoors
 ////////////////////////////
@@ -406,6 +396,16 @@
          "south" : "pale_oak_trapdoor_ns",
          "up" : "pale_oak_trapdoor_td",
          "west" : "pale_oak_trapdoor_ew"
+		}
+   },
+   "poplar_trapdoor" : {
+      "textures" : {
+         "down" : "poplar_trapdoor_td",
+         "east" : "poplar_trapdoor_ew",
+         "north" : "poplar_trapdoor_ns",
+         "south" : "poplar_trapdoor_ns",
+         "up" : "poplar_trapdoor_td",
+         "west" : "poplar_trapdoor_ew"
 		}
    },
    "bamboo_trapdoor" : {
@@ -1145,7 +1145,10 @@
    "mossy_stone_brick_wall": {
       "textures": {
          "down": "stone_brick_mossy_wall_top",
-         "side": "mossy_stone_brick",
+         "north": "mossy_stone_brick_wall_side_north",
+         "east": "mossy_stone_brick_wall_side",
+         "south": "mossy_stone_brick_wall_side_south",
+         "west": "mossy_stone_brick_wall_side_west",
          "up": "stone_brick_mossy_wall_top"
       }
    },
