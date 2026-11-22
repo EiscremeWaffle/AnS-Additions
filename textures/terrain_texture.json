@@ -295,66 +295,6 @@
     ////////////////////////////
     //// Miscellaneous
     ////////////////////////////
-    "endframe_top": {
-      "textures": [
-        "textures/blocks/endframe_top",
-        "textures/blocks/endframe_top",
-        "textures/blocks/endframe_top",
-        "textures/blocks/endframe_top",
-        "textures/blocks/endframe_top_on",
-        "textures/blocks/endframe_top_on",
-        "textures/blocks/endframe_top_on",
-        "textures/blocks/endframe_top_on"
-      ]
-    },
-    "endframe_side_north": {
-      "textures": [
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side_o",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side_on",
-        "textures/blocks/endframe_side"
-      ]
-    },
-    "endframe_side_east": {
-      "textures": [
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side_o",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side_on"
-      ]
-    },
-    "endframe_side_south": {
-      "textures": [
-        "textures/blocks/endframe_side_o",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side_on",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side"
-      ]
-    },
-    "endframe_side_west": {
-      "textures": [
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side_o",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side_on",
-        "textures/blocks/endframe_side",
-        "textures/blocks/endframe_side"
-      ]
-    },
 	  "deepslate_coal_ore_top": {
       "textures": "textures/blocks/extra/deepslate/deepslate_coal_top"
 	  },
@@ -516,6 +456,16 @@
 		},
 		"fletcher_table_bottom": {
 			"textures": "textures/blocks/extra/fletcher_table_bottom"
+		},
+		"pointed_dripstone": {
+			"textures":[
+            "textures/blocks/pointed_dripstone_down_base",
+            "textures/blocks/pointed_dripstone_up_base",
+            "textures/blocks/extra/deepslate/gold/deepslate_gold_ore_2",
+            "textures/blocks/extra/deepslate/gold/deepslate_gold_ore_3",
+            "textures/blocks/extra/deepslate/gold/deepslate_gold_ore_4",
+            "textures/blocks/extra/deepslate/gold/deepslate_gold_ore_5"
+         ]
 		},
         "stone_brick_wall_top": {
             "textures": [
@@ -2252,9 +2202,9 @@
                 "textures/misc/missing_texture"
             ]
         },
-        "stone_brick_mossy_wall_top": {
+        "mossy_stone_brick_wall_top": {
             "textures": [
-                "textures/blocks/stonebrick", /// Inventory
+                "textures/blocks/stonebrick_mossy", /// Inventory
                 "textures/blocks/extra/walls/stonemossy/stone_brick_mossy_top", /// E=none N=none S=none W=none Post=true
                 "textures/misc/missing_texture",
                 "textures/blocks/extra/walls/stonemossy/stone_brick_mossy_top", /// E=none N=short S=none W=none Post=true

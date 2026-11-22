@@ -1,0 +1,85 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+	"rapid_fertilizer": {
+      "textures": "textures/items/extra/edu/super_fertilizer"
+    },
+    "ice_bomb": {
+      "textures": "textures/items/extra/edu/ice_bomb"
+    },
+    "medicine": {
+      "textures": [
+        "textures/items/extra/edu/eyedrops", //eye_drops
+        "textures/items/extra/edu/tonic", //tonic
+        "textures/items/extra/edu/antidote", //antidote
+        "textures/items/extra/edu/elixir" //elixir
+      ]
+    },
+    "bleach": {
+      "textures": "textures/items/extra/edu/bleach"
+    },
+    "sparkler": {
+      "textures": [
+        "textures/items/extra/edu/sparkler/sparkler_blue_off",
+        "textures/items/extra/edu/sparkler/sparkler_green_off",
+        "textures/items/extra/edu/sparkler/sparkler_orange_off",
+        "textures/items/extra/edu/sparkler/sparkler_purple_off",
+        "textures/items/extra/edu/sparkler/sparkler_red_off",
+        "textures/items/extra/edu/sparkler/sparkler_blue",
+        "textures/items/extra/edu/sparkler/sparkler_green",
+        "textures/items/extra/edu/sparkler/sparkler_orange",
+        "textures/items/extra/edu/sparkler/sparkler_purple",
+        "textures/items/extra/edu/sparkler/sparkler_red"
+      ]
+    },
+    "compound": {
+      "textures": [
+        "textures/items/extra/edu/compounds/salt", //salt
+        "textures/items/extra/edu/compounds/jar_white", //sodium oxide
+        "textures/items/extra/edu/compounds/jar_white", //sodium hydroxide
+        "textures/items/extra/edu/compounds/jar_yellow", //magnesium nitride
+        "textures/items/extra/edu/compounds/jar_black", //iron sulfide
+        "textures/items/extra/edu/compounds/jar_white", //lithium hydride
+        "textures/items/extra/edu/compounds/jar_light_grey", //sodium hydride
+        "textures/items/extra/edu/compounds/jar_white", //calcium bromide
+        "textures/items/extra/edu/compounds/jar_white", //magnesium oxide
+        "textures/items/extra/edu/compounds/jar_white", //sodium acetate
+        "textures/items/extra/edu/compounds/jar_clear", //luminol
+        "textures/items/charcoal", //charcoal
+        "textures/items/sugar", //sugar
+        "textures/items/extra/edu/compounds/jar_brown", //aluminum oxide
+        "textures/items/extra/edu/compounds/jar_white", //boron trioxide
+        "textures/items/extra/edu/compounds/soap", //soap
+        "textures/items/extra/edu/compounds/jar_clear", //polyethylene
+        "textures/items/extra/edu/compounds/garbage", //garbage
+        "textures/items/extra/edu/compounds/jar_white", //magnesium salts
+        "textures/items/extra/edu/compounds/jar_white", //sulfate
+        "textures/items/extra/edu/compounds/jar_white", //barium sulfate
+        "textures/items/extra/edu/compounds/jar_white", //potassium chloride
+        "textures/items/extra/edu/compounds/jar_white", //mercuric chloride
+        "textures/items/extra/edu/compounds/jar_white", //cerium chloride
+        "textures/items/extra/edu/compounds/jar_blue", //tungsten chloride
+        "textures/items/extra/edu/compounds/jar_white", //calcium chloride
+        "textures/items/extra/edu/compounds/beaker_blue", //water
+        "textures/items/extra/edu/compounds/glue", //glue
+        "textures/items/extra/edu/compounds/beaker_white", //hypochlorite
+        "textures/items/extra/edu/compounds/beaker_black", //crude oil
+        "textures/items/extra/edu/compounds/beaker_white", //latex
+        "textures/items/extra/edu/compounds/beaker_yellow", //potassium iodide
+        "textures/items/extra/edu/compounds/beaker_white", //sodium fluoride
+        "textures/items/extra/edu/compounds/beaker_yellow", //benzene
+        "textures/items/dye_powder_black", //ink
+        "textures/items/extra/edu/compounds/beaker_clear", //hydrogen peroxide
+        "textures/items/extra/edu/compounds/beaker_clear", //ammonia
+        "textures/items/extra/edu/compounds/beaker_clear", //sodium hypochlorite
+        "textures/items/extra/edu/compounds/flask_blue"
+      ]
+    },
+    "balloon": {
+      "textures": [
+        "textures/items/extra/edu/ballon_white"
+      ]
+    }
+  }
+}

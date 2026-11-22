@@ -3,7 +3,7 @@
     "format_version": 3,
     "header": {
         "description":"'Pedantic changes.'",
-        "name": "A&S Suggestions",
+        "name": "A&S Additions",
         "uuid": "d280074f-c346-48cc-b920-34ebf5a117ed",
         "version": "1.5.1",
         "min_engine_version": "1.26.40"
@@ -17,6 +17,7 @@
         }
     ],
 	  "capabilities": [
-		"pbr"
+		"pbr",
+		"chemistry"
 	  ]
 }

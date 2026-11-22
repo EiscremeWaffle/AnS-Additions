@@ -62,17 +62,17 @@
       "south": "sapling_birch_side_pot"
     }
   },
-//  "jungle_sapling": {
-//    "blockshape" : "azalea",
-//    "textures": {
-//      "up": "sapling_jungle_top",
-//      "east": "sapling_jungle",
-//      "north": "sapling_jungle_side",
-//      "down": "sapling_jungle_top_pot",
-//      "west": "sapling_jungle_pot",
-//      "south": "sapling_jungle_side_pot"
-//    }
-//  },
+  "jungle_sapling": {
+    "blockshape" : "azalea",
+    "textures": {
+      "up": "sapling_jungle_top",
+      "east": "sapling_jungle",
+      "north": "sapling_jungle_side",
+      "down": "sapling_jungle_top_pot",
+      "west": "sapling_jungle_pot",
+      "south": "sapling_jungle_side_pot"
+    }
+  },
   "acacia_sapling": {
     "blockshape" : "azalea",
     "textures": {
@@ -274,21 +274,10 @@
       "sound" : "stone",
       "textures" : "infested_mossy_stone_bricks"
    },
-   "end_portal_frame" : {
-  "carried_textures" : "endframe_eye",
-    "textures" : {
-      "up" : "endframe_top",
-      "down" : "end_stone",
-      "north" : "endframe_side_north",
-      "east" : "endframe_side_east",
-      "south" : "endframe_side_south",
-      "west" : "endframe_side_west"
-    }
-  },
 ////////////////////////////
 //// Trapdoors
 ////////////////////////////
-   "trapdoor" : {
+      "trapdoor" : {
       "sound" : "wood",
       "textures" : {
          "down" : "trapdoor_td",
@@ -1144,12 +1133,12 @@
    },
    "mossy_stone_brick_wall": {
       "textures": {
-         "down": "stone_brick_mossy_wall_top",
+         "down": "mossy_stone_brick_wall_top",
          "north": "mossy_stone_brick_wall_side_north",
          "east": "mossy_stone_brick_wall_side",
          "south": "mossy_stone_brick_wall_side_south",
          "west": "mossy_stone_brick_wall_side_west",
-         "up": "stone_brick_mossy_wall_top"
+         "up": "mossy_stone_brick_wall_top"
       }
    },
    "brick_wall": {

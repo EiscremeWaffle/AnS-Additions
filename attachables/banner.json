@@ -7,6 +7,15 @@
 
         {
           "controller.render.eis_ans.helmet": "q.is_owner_identifier_any('minecraft:pillager','minecraft:vindicator','minecraft:evoker')"
+        },
+		{
+          "controller.render.oreville_ans.banner": "v.aroalz<0&&(!q.is_owner_identifier_any('minecraft:pillager','minecraft:vindicator','minecraft:evoker')||c.item_slot!='torso')"
+        },
+        {
+          "controller.render.oreville_ans.hdxxwk": "v.eclqlw&&q.is_item_name_any('slot.armor.feet','minecraft:leather_boots')&&v.aroalz>=0"
+        },
+        {
+          "controller.render.oreville_ans.tyglmr": "v.eclqlw&&q.is_item_name_any('slot.armor.feet','minecraft:leather_boots')&&v.aroalz>=0"
         }
       ],
       "min_engine_version": "1.8.0",
