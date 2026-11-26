@@ -1,0 +1,8 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "38-Strontium",
+		"metalness_emissive_roughness": "alkaline_earth_metal_mer",
+		"normal": "element_normal"
+	}
+}

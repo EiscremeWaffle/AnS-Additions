@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "stonebrick_wall_mossy_post_short",
-    "normal": "stonebrick_wall_mossy_post_short_normal",
-    "metalness_emissive_roughness": "stonebrick_wall_mossy_post_short_mer"
-  }
-}

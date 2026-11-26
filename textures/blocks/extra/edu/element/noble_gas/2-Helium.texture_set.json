@@ -1,0 +1,8 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "2-Helium",
+		"metalness_emissive_roughness": "noble_gas_mer",
+		"normal": "element_normal"
+	}
+}

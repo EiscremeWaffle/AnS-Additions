@@ -1,0 +1,8 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "19-Potassium",
+		"metalness_emissive_roughness": "akali_metal_mer",
+		"normal": "element_normal"
+	}
+}

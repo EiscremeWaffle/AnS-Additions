@@ -1,0 +1,7 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "lab_table_side_c",
+		"metalness_emissive_roughness": "lab_table_side_c_mer"
+	}
+}
